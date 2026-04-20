@@ -1,0 +1,43 @@
+{
+  "id": "w00222",
+  "title": "Workplaces",
+  "day": 222,
+  "words": [
+    {
+      "id": 1,
+      "english": "Office",
+      "french": "Bureau",
+      "example": "Corporate office building. - Immeuble de bureau d'entreprise."
+    },
+    {
+      "id": 2,
+      "english": "Factory",
+      "french": "Usine",
+      "example": "Car factory production. - Production d'usine de voiture."
+    },
+    {
+      "id": 3,
+      "english": "Store",
+      "french": "Magasin",
+      "example": "Retail store hours. - Heures d'ouverture du magasin."
+    },
+    {
+      "id": 4,
+      "english": "Restaurant",
+      "french": "Restaurant",
+      "example": "Popular restaurant review. - Critique de restaurant populaire."
+    },
+    {
+      "id": 5,
+      "english": "Cafe",
+      "french": "Café",
+      "example": "Corner cafe coffee. - Café du coin."
+    },
+    {
+      "id": 6,
+      "english": "Bar",
+      "french": "Bar",
+      "example": "Sports bar TV. - TV de bar sportif."
+    }
+  ]
+}

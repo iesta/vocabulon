@@ -1,0 +1,43 @@
+{
+  "id": "w00102",
+  "title": "Snacks",
+  "day": 102,
+  "words": [
+    {
+      "id": 1,
+      "english": "Chips",
+      "french": "Chips",
+      "example": "Potato chips are salty. - Les chips de pommes de terre sont salées."
+    },
+    {
+      "id": 2,
+      "english": "Popcorn",
+      "french": "Popcorn",
+      "example": "Movie theater popcorn. - Popcorn du cinéma."
+    },
+    {
+      "id": 3,
+      "english": "Nuts",
+      "french": "Noix",
+      "example": "Mixed nuts for snacking. - Mélange de noix pour grignoter."
+    },
+    {
+      "id": 4,
+      "english": "Pretzel",
+      "french": "Prétzel",
+      "example": "Salty pretzel sticks. - Bâtons de prétzel salés."
+    },
+    {
+      "id": 5,
+      "english": "Granola bar",
+      "french": "Barre de céréales",
+      "example": "Energy granola bar. - Barre de céréales énergétiques."
+    },
+    {
+      "id": 6,
+      "english": "Fruit snack",
+      "french": "Bonbon de fruits",
+      "example": "Gummy fruit snacks. - Bonbons gélifiés aux fruits."
+    }
+  ]
+}

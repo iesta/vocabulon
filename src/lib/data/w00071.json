@@ -1,0 +1,43 @@
+{
+  "id": "w00071",
+  "title": "Weather Phenomena",
+  "day": 71,
+  "words": [
+    {
+      "id": 1,
+      "english": "Rainbow",
+      "french": "Arc-en-ciel",
+      "example": "The rainbow is colorful. - L'arc-en-ciel est coloré."
+    },
+    {
+      "id": 2,
+      "english": "Lightning",
+      "french": "Éclair",
+      "example": "Lightning struck the tree. - L'éclair a frappé l'arbre."
+    },
+    {
+      "id": 3,
+      "english": "Thunder",
+      "french": "Tonnerre",
+      "example": "Thunder is loud. - Le tonnerre est fort."
+    },
+    {
+      "id": 4,
+      "english": "Tornado",
+      "french": "Tornade",
+      "example": "The tornado destroyed houses. - La tornade a détruit des maisons."
+    },
+    {
+      "id": 5,
+      "english": "Hurricane",
+      "french": "Ouragan",
+      "example": "The hurricane is approaching. - L'ouragan approche."
+    },
+    {
+      "id": 6,
+      "english": "Flood",
+      "french": "Inondation",
+      "example": "The flood covered the fields. - L'inondation a couvert les champs."
+    }
+  ]
+}

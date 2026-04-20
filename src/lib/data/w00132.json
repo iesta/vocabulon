@@ -1,0 +1,43 @@
+{
+  "id": "w00132",
+  "title": "Action Verbs 1",
+  "day": 132,
+  "words": [
+    {
+      "id": 1,
+      "english": "Run",
+      "french": "Courir",
+      "example": "Run to the finish. - Cours jusqu'à la ligne d'arrivée."
+    },
+    {
+      "id": 2,
+      "english": "Jump",
+      "french": "Sauter",
+      "example": "Jump over the fence. - Saute par-dessus la barrière."
+    },
+    {
+      "id": 3,
+      "english": "Walk",
+      "french": "Marcher",
+      "example": "Walk to school. - Marche jusqu'à l'école."
+    },
+    {
+      "id": 4,
+      "english": "Swim",
+      "french": "Nager",
+      "example": "Swim in the pool. - Nage dans la piscine."
+    },
+    {
+      "id": 5,
+      "english": "Fly",
+      "french": "Voler",
+      "example": "Birds fly south. - Les oiseaux volent vers le sud."
+    },
+    {
+      "id": 6,
+      "english": "Drive",
+      "french": "Conduire",
+      "example": "Drive the car. - Conduis la voiture."
+    }
+  ]
+}

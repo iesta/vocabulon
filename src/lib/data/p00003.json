@@ -1,0 +1,22 @@
+{
+  "id": "p00003",
+  "title": "Polite Requests",
+  "day": 3,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Can you help me please?",
+      "french": "Pouvez-vous m'aider s'il vous plaît?"
+    },
+    {
+      "id": 2,
+      "english": "Could you repeat that?",
+      "french": "Pourriez-vous répéter?"
+    },
+    {
+      "id": 3,
+      "english": "I would like some water.",
+      "french": "Je voudrais de l'eau."
+    }
+  ]
+}

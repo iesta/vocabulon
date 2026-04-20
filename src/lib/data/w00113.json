@@ -1,0 +1,43 @@
+{
+  "id": "w00113",
+  "title": "Data & Storage",
+  "day": 113,
+  "words": [
+    {
+      "id": 1,
+      "english": "Memory",
+      "french": "Mémoire",
+      "example": "Not enough memory. - Pas assez de mémoire."
+    },
+    {
+      "id": 2,
+      "english": "Storage",
+      "french": "Stockage",
+      "example": "Cloud storage options. - Options de stockage cloud."
+    },
+    {
+      "id": 3,
+      "english": "USB",
+      "french": "Clé USB",
+      "example": "USB flash drive. - Clé USB."
+    },
+    {
+      "id": 4,
+      "english": "Hard drive",
+      "french": "Disque dur",
+      "example": "External hard drive. - Disque dur externe."
+    },
+    {
+      "id": 5,
+      "english": "Backup",
+      "french": "Sauvegarde",
+      "example": "Backup your files. - Sauvegarde tes fichiers."
+    },
+    {
+      "id": 6,
+      "english": "Cloud",
+      "french": "Cloud",
+      "example": "Store in the cloud. - Stocke dans le cloud."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00127",
+  "title": "News & Media",
+  "day": 127,
+  "words": [
+    {
+      "id": 1,
+      "english": "Newspaper",
+      "french": "Journal",
+      "example": "Daily newspaper delivery. - Livraison du journal quotidien."
+    },
+    {
+      "id": 2,
+      "english": "Headline",
+      "french": "Titre",
+      "example": "Breaking news headline. - Titre d'actualité urgente."
+    },
+    {
+      "id": 3,
+      "english": "Journalist",
+      "french": "Journaliste",
+      "example": "Investigative journalist. - Journaliste d'investigation."
+    },
+    {
+      "id": 4,
+      "english": "Reporter",
+      "french": "Reporter",
+      "example": "News reporter live. - Reporter en direct."
+    },
+    {
+      "id": 5,
+      "english": "Broadcast",
+      "french": "Diffusion",
+      "example": "Live broadcast coverage. - Couverture en direct."
+    },
+    {
+      "id": 6,
+      "english": "Podcast",
+      "french": "Balado",
+      "example": "True crime podcast. - Balado true crime."
+    }
+  ]
+}

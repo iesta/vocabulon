@@ -1,0 +1,22 @@
+{
+  "id": "p00063",
+  "title": "Advanced: Politics",
+  "day": 63,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The political climate is tense.",
+      "french": "Le climat politique est tendu."
+    },
+    {
+      "id": 2,
+      "english": "Democracy is a fundamental right.",
+      "french": "La démocratie est un droit fondamental."
+    },
+    {
+      "id": 3,
+      "english": "Power corrupts, absolute power corrupts absolutely.",
+      "french": "Le pouvoir corrompt, le pouvoir absolu corrompt absolument."
+    }
+  ]
+}

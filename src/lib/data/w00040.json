@@ -1,0 +1,43 @@
+{
+  "id": "w00040",
+  "title": "Professions V2",
+  "day": 40,
+  "words": [
+    {
+      "id": 1,
+      "english": "Engineer",
+      "french": "Ingénieur",
+      "example": "My sister is an engineer. - Ma sœur est ingénieure."
+    },
+    {
+      "id": 2,
+      "english": "Waiter",
+      "french": "Serveur",
+      "example": "The waiter is very nice. - Le serveur est très gentil."
+    },
+    {
+      "id": 3,
+      "english": "Driver",
+      "french": "Chauffeur",
+      "example": "My dad is a bus driver. - Mon père est chauffeur de bus."
+    },
+    {
+      "id": 4,
+      "english": "Chef",
+      "french": "Chef cuisinier",
+      "example": "The chef prepared an amazing meal. - Le chef a préparé un repas incroyable."
+    },
+    {
+      "id": 5,
+      "english": "Artist",
+      "french": "Artiste",
+      "example": "She wants to be an artist. - Elle veut devenir artiste."
+    },
+    {
+      "id": 6,
+      "english": "Scientist",
+      "french": "Scientifique",
+      "example": "Scientists discovered something new. - Les scientifiques ont découvert quelque chose de nouveau."
+    }
+  ]
+}

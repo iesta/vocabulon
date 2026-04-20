@@ -1,0 +1,43 @@
+{
+  "id": "w00091",
+  "title": "Vegetables",
+  "day": 91,
+  "words": [
+    {
+      "id": 1,
+      "english": "Carrot",
+      "french": "Carotte",
+      "example": "Carrots are orange. - Les carottes sont oranges."
+    },
+    {
+      "id": 2,
+      "english": "Tomato",
+      "french": "Tomate",
+      "example": "The tomato is red. - La tomate est rouge."
+    },
+    {
+      "id": 3,
+      "english": "Potato",
+      "french": "Pomme de terre",
+      "example": "Boiled potato please. - Pommes de terre natures s'il vous plaît."
+    },
+    {
+      "id": 4,
+      "english": "Lettuce",
+      "french": "Laitue",
+      "example": "Lettuce is in salads. - La laitue est dans les salades."
+    },
+    {
+      "id": 5,
+      "english": "Onion",
+      "french": "Oignon",
+      "example": "The onion makes me cry. - L'oignon me fait pleurer."
+    },
+    {
+      "id": 6,
+      "english": "Cucumber",
+      "french": "Concombre",
+      "example": "Cucumber is cool. - Le concombre est frais."
+    }
+  ]
+}

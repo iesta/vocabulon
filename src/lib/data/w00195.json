@@ -1,0 +1,43 @@
+{
+  "id": "w00195",
+  "title": "Art Class",
+  "day": 195,
+  "words": [
+    {
+      "id": 1,
+      "english": "Color",
+      "french": "Couleur",
+      "example": "Primary colors lesson. - Leçon sur les couleurs primaires."
+    },
+    {
+      "id": 2,
+      "english": "Draw",
+      "french": "Dessiner",
+      "example": "Draw still life object. - Dessine un objet nature morte."
+    },
+    {
+      "id": 3,
+      "english": "Sketch",
+      "french": "Esquisse",
+      "example": "Quick sketch practice. - Pratique d'esquisse rapide."
+    },
+    {
+      "id": 4,
+      "english": "Clay",
+      "french": "Argile",
+      "example": "Sculpture from clay. - Sculpture en argile."
+    },
+    {
+      "id": 5,
+      "english": "Paint",
+      "french": "Peindre",
+      "example": "Oil paint technique. - Technique de peinture à l'huile."
+    },
+    {
+      "id": 6,
+      "english": "Craft",
+      "french": "Artisanat",
+      "example": "Art craft project. - Projet d'artisanat."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00025",
+  "title": "Vacations",
+  "day": 25,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I'm going on holiday next week.",
+      "french": "Je pars en vacances la semaine prochaine."
+    },
+    {
+      "id": 2,
+      "english": "Where are you going this summer?",
+      "french": "Où allez-vous cet été?"
+    },
+    {
+      "id": 3,
+      "english": "I need a vacation!",
+      "french": "J'ai besoin de vacances!"
+    }
+  ]
+}

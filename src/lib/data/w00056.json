@@ -1,0 +1,43 @@
+{
+  "id": "w00056",
+  "title": "Ball Games",
+  "day": 56,
+  "words": [
+    {
+      "id": 1,
+      "english": "Soccer",
+      "french": "Football",
+      "example": "My favorite soccer team won! - Mon équipe de football préférée a gagné!"
+    },
+    {
+      "id": 2,
+      "english": "Golf",
+      "french": "Golf",
+      "example": "We played golf on Sunday. - Nous avons joué au golf dimanche."
+    },
+    {
+      "id": 3,
+      "english": "Table tennis",
+      "french": "Tennis de table",
+      "example": "Table tennis is fast. - Le tennis de table est rapide."
+    },
+    {
+      "id": 4,
+      "english": "Badminton",
+      "french": "Badminton",
+      "example": "Badminton is played with rackets. - Le badminton se joue avec des raquettes."
+    },
+    {
+      "id": 5,
+      "english": "Bowling",
+      "french": "Bowling",
+      "example": "Let's go bowling! - Allons au bowling!"
+    },
+    {
+      "id": 6,
+      "english": "Billiards",
+      "french": "Billard",
+      "example": "He plays billiards at the club. - Il joue au billard au club."
+    }
+  ]
+}

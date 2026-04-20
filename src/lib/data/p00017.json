@@ -1,0 +1,22 @@
+{
+  "id": "p00017",
+  "title": "Phone Calls",
+  "day": 17,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Can I speak to Tom?",
+      "french": "Puis-je parler à Tom?"
+    },
+    {
+      "id": 2,
+      "english": "He's not available right now.",
+      "french": "Il n'est pas disponible en ce moment."
+    },
+    {
+      "id": 3,
+      "english": "I'll call back later.",
+      "french": "Je rappellerai plus tard."
+    }
+  ]
+}

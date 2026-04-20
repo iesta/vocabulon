@@ -1,0 +1,43 @@
+{
+  "id": "w00074",
+  "title": "Animal Sounds",
+  "day": 74,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bark",
+      "french": "Aboiement",
+      "example": "The dog barked. - Le chien a aboyé."
+    },
+    {
+      "id": 2,
+      "english": "Meow",
+      "french": " Miaulement",
+      "example": "The cat says meow. - Le chat fait miaou."
+    },
+    {
+      "id": 3,
+      "english": "Roar",
+      "french": "Rugissement",
+      "example": "The lion roared. - Le lion a rugi."
+    },
+    {
+      "id": 4,
+      "english": "Howl",
+      "french": "Hurlement",
+      "example": "The wolf howled. - Le loup a hurlé."
+    },
+    {
+      "id": 5,
+      "english": "Chirp",
+      "french": "Gazouillis",
+      "example": "The bird chirped. - L'oiseau a gazouillé."
+    },
+    {
+      "id": 6,
+      "english": "Croak",
+      "french": "Coassement",
+      "example": "The frog croaked. - La grenouille a coassé."
+    }
+  ]
+}

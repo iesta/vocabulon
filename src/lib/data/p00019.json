@@ -1,0 +1,22 @@
+{
+  "id": "p00019",
+  "title": "Social Media",
+  "day": 19,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Did you see my post?",
+      "french": "Tu as vu ma publication?"
+    },
+    {
+      "id": 2,
+      "english": "Please like and subscribe!",
+      "french": "Like et abonne-toi!"
+    },
+    {
+      "id": 3,
+      "english": "I went viral on TikTok!",
+      "french": "Je suis devenu viral sur TikTok!"
+    }
+  ]
+}

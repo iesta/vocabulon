@@ -1,0 +1,43 @@
+{
+  "id": "w00245",
+  "title": "Social Issues",
+  "day": 245,
+  "words": [
+    {
+      "id": 1,
+      "english": "Poverty",
+      "french": "Pauvreté",
+      "example": "Fight against poverty. - Lutte contre la pauvreté."
+    },
+    {
+      "id": 2,
+      "english": "Inequality",
+      "french": "Inégalités",
+      "example": "Social inequality awareness. - Sensibilisation aux inégalités sociales."
+    },
+    {
+      "id": 3,
+      "english": "Discrimination",
+      "french": "Discrimination",
+      "example": "Zero discrimination policy. - Politique de tolérance zéro pour la discrimination."
+    },
+    {
+      "id": 4,
+      "english": "Human rights",
+      "french": "Droits de l'homme",
+      "example": "Defend human rights. - Défends les droits de l'homme."
+    },
+    {
+      "id": 5,
+      "english": "Climate change",
+      "french": "Changement climatique",
+      "example": "Climate change action needed. - Action contre le changement climatique nécessaire."
+    },
+    {
+      "id": 6,
+      "english": "Sustainability",
+      "french": "Durabilité",
+      "example": "Practice sustainability daily. - Pratique la durabilité quotidiennement."
+    }
+  ]
+}

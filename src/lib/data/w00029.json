@@ -1,0 +1,43 @@
+{
+  "id": "w00029",
+  "title": "Questions V2",
+  "day": 29,
+  "words": [
+    {
+      "id": 1,
+      "english": "How",
+      "french": "Comment",
+      "example": "How are you today? - Comment allez-vous aujourd'hui?"
+    },
+    {
+      "id": 2,
+      "english": "What",
+      "french": "Que / Quoi",
+      "example": "What do you want? - Que veux-tu?"
+    },
+    {
+      "id": 3,
+      "english": "When",
+      "french": "Quand",
+      "example": "When is your birthday? - Quand est ton anniversaire?"
+    },
+    {
+      "id": 4,
+      "english": "Where",
+      "french": "Où",
+      "example": "Where do you live? - Où habites-tu?"
+    },
+    {
+      "id": 5,
+      "english": "Why",
+      "french": "Pourquoi",
+      "example": "Why are you crying? - Pourquoi pleures-tu?"
+    },
+    {
+      "id": 6,
+      "english": "Who",
+      "french": "Qui",
+      "example": "Who is your teacher? - Qui est ton professeur?"
+    }
+  ]
+}

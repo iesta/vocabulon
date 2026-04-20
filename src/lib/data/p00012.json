@@ -1,0 +1,22 @@
+{
+  "id": "p00012",
+  "title": "Shopping",
+  "day": 12,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "How much is this?",
+      "french": "Combien ça coûte?"
+    },
+    {
+      "id": 2,
+      "english": "I'm just looking.",
+      "french": "Je regarde juste."
+    },
+    {
+      "id": 3,
+      "english": "Can I try this on?",
+      "french": "Puis-je essayer ceci?"
+    }
+  ]
+}

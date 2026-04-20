@@ -1,0 +1,43 @@
+{
+  "id": "w00057",
+  "title": "Winter Sports",
+  "day": 57,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ice skating",
+      "french": "Patinage",
+      "example": "Ice skating is magical. - Le patinage est magique."
+    },
+    {
+      "id": 2,
+      "english": "Ice hockey",
+      "french": "Hockey sur glace",
+      "example": "Ice hockey is exciting to watch. - Le hockey sur glace est激动人心."
+    },
+    {
+      "id": 3,
+      "english": "Sledding",
+      "french": "Luge",
+      "example": "The kids love sledding. - Les enfants adorent la luge."
+    },
+    {
+      "id": 4,
+      "english": "Curling",
+      "french": "Curling",
+      "example": "Curling is a strategic sport. - Le curling est un sport stratégique."
+    },
+    {
+      "id": 5,
+      "english": "Bobsleigh",
+      "french": "Bobsleigh",
+      "example": "Bobsleigh is an Olympic sport. - Le bobsleigh est un sport Olympique."
+    },
+    {
+      "id": 6,
+      "english": "Snowboarding",
+      "french": "Snowboard",
+      "example": "Snowboarding looks cool. - Le snowboard a l'air cool."
+    }
+  ]
+}

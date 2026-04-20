@@ -1,0 +1,43 @@
+{
+  "id": "w00204",
+  "title": "Romantic",
+  "day": 204,
+  "words": [
+    {
+      "id": 1,
+      "english": "Boyfriend",
+      "french": "Petit ami",
+      "example": "Meet my boyfriend. - Rencontre mon petit ami."
+    },
+    {
+      "id": 2,
+      "english": "Girlfriend",
+      "french": "Petite amie",
+      "example": "Girlfriend birthday surprise. - Surprise d'anniversaire de petite amie."
+    },
+    {
+      "id": 3,
+      "english": "Partner",
+      "french": "Partenaire",
+      "example": "Dance partner routine. - Routine avec partenaire de danse."
+    },
+    {
+      "id": 4,
+      "english": "Crush",
+      "french": "Flair",
+      "example": "Secret crush feelings. - Sentiments de béguin secret."
+    },
+    {
+      "id": 5,
+      "english": "Date",
+      "french": "Rendez-vous galant",
+      "example": "First date nerves. - Nerfs de premier rendez-vous galant."
+    },
+    {
+      "id": 6,
+      "english": "Love",
+      "french": "Amour",
+      "example": "True love story. - Histoire d'amour vraie."
+    }
+  ]
+}

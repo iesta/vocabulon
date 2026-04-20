@@ -1,0 +1,22 @@
+{
+  "id": "p00074",
+  "title": "Expert: Metaphors",
+  "day": 74,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Life is a journey.",
+      "french": "La vie est un voyage."
+    },
+    {
+      "id": 2,
+      "english": "Time is a thief.",
+      "french": "Le temps est un voleur."
+    },
+    {
+      "id": 3,
+      "english": "Knowledge is a treasure.",
+      "french": "La connaissance est un trésor."
+    }
+  ]
+}

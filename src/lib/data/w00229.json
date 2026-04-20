@@ -1,0 +1,43 @@
+{
+  "id": "w00229",
+  "title": "Education Jobs",
+  "day": 229,
+  "words": [
+    {
+      "id": 1,
+      "english": "Teacher",
+      "french": "Professeur",
+      "example": "Elementary school teacher. - Professeur d'école primaire."
+    },
+    {
+      "id": 2,
+      "english": "Professor",
+      "french": "Professeur d'université",
+      "example": "University professor research. - Recherche du professeur d'université."
+    },
+    {
+      "id": 3,
+      "english": "Tutor",
+      "french": "Tuteur",
+      "example": "Math tutor sessions. - Séances de tuteur de maths."
+    },
+    {
+      "id": 4,
+      "english": "Principal",
+      "french": "Directeur",
+      "example": "School principal leadership. - Leadership du directeur d'école."
+    },
+    {
+      "id": 5,
+      "english": "Librarian",
+      "french": "Bibliothécaire",
+      "example": "Helpful librarian assistance. - Assistance utile du bibliothécaire."
+    },
+    {
+      "id": 6,
+      "english": "Counselor",
+      "french": "Conseiller",
+      "example": "School counselor advice. - Conseil du conseiller scolaire."
+    }
+  ]
+}

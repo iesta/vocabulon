@@ -1,0 +1,43 @@
+{
+  "id": "w00249",
+  "title": "Photography",
+  "day": 249,
+  "words": [
+    {
+      "id": 1,
+      "english": "Camera",
+      "french": "Appareil photo",
+      "example": "Professional camera lens. - Objectif d'appareil photo professionnel."
+    },
+    {
+      "id": 2,
+      "english": "Portrait",
+      "french": "Portrait",
+      "example": "Family portrait session. - Séance de portrait de famille."
+    },
+    {
+      "id": 3,
+      "english": "Landscape",
+      "french": "Paysage",
+      "example": "Mountain landscape scenery. - Scène de paysage de montagne."
+    },
+    {
+      "id": 4,
+      "english": "Selfie",
+      "french": "Selfie",
+      "example": "Take a selfie. - Prends un selfie."
+    },
+    {
+      "id": 5,
+      "english": "Focus",
+      "french": "Mise au point",
+      "example": "Adjust camera focus. - Ajuste la mise au point de l'appareil."
+    },
+    {
+      "id": 6,
+      "english": "Flash",
+      "french": "Flash",
+      "example": "Camera flash brightness. - Luminosité du flash de l'appareil."
+    }
+  ]
+}

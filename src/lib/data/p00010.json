@@ -1,0 +1,22 @@
+{
+  "id": "p00010",
+  "title": "Food & Drink",
+  "day": 10,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What do you want to eat?",
+      "french": "Que voulez-vous manger?"
+    },
+    {
+      "id": 2,
+      "english": "I'm hungry and thirsty.",
+      "french": "J'ai faim et soif."
+    },
+    {
+      "id": 3,
+      "english": "The food is delicious!",
+      "french": "La nourriture est délicieuse!"
+    }
+  ]
+}

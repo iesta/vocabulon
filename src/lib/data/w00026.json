@@ -1,0 +1,43 @@
+{
+  "id": "w00026",
+  "title": "Adjectives V2",
+  "day": 26,
+  "words": [
+    {
+      "id": 1,
+      "english": "Easy",
+      "french": "Facile",
+      "example": "This homework is easy. - Ce devoir est facile."
+    },
+    {
+      "id": 2,
+      "english": "Difficult",
+      "french": "Difficile",
+      "example": "This problem is very difficult. - Ce problème est très difficile."
+    },
+    {
+      "id": 3,
+      "english": "Fast",
+      "french": "Rapide",
+      "example": "This car is really fast. - Cette voiture est vraiment rapide."
+    },
+    {
+      "id": 4,
+      "english": "Slow",
+      "french": "Lent",
+      "example": "This computer is too slow. - Cet ordinateur est trop lent."
+    },
+    {
+      "id": 5,
+      "english": "Strong",
+      "french": "Fort / Puissant",
+      "example": "He is very strong. - Il est très fort."
+    },
+    {
+      "id": 6,
+      "english": "Weak",
+      "french": "Faible",
+      "example": "I feel weak today. - Je me sens faible aujourd'hui."
+    }
+  ]
+}

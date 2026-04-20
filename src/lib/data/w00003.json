@@ -1,0 +1,13 @@
+{
+  "id": "w00003",
+  "title": "Food & Drink",
+  "day": 3,
+  "words": [
+    { "id": 1, "english": "Apple", "french": "Pomme", "example": "An apple a day keeps the doctor away. - Une pomme par jour éloigne le médecin." },
+    { "id": 2, "english": "Water", "french": "Eau", "example": "I drink water every day. - Je bois de l'eau chaque jour." },
+    { "id": 3, "english": "Bread", "french": "Pain", "example": "I eat bread for breakfast. - Je mange du pain au petit-déjeuner." },
+    { "id": 4, "english": "Cheese", "french": "Fromage", "example": "France is famous for its cheese. - La France est célèbre pour son fromage." },
+    { "id": 5, "english": "To eat", "french": "Manger", "example": "We eat dinner at 7pm. - Nous dinons à 19h." },
+    { "id": 6, "english": "To drink", "french": "Boire", "example": "What do you want to drink? - Que voulez-vous boire?" }
+  ]
+}

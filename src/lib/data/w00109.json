@@ -1,0 +1,43 @@
+{
+  "id": "w00109",
+  "title": "Gaming",
+  "day": 109,
+  "words": [
+    {
+      "id": 1,
+      "english": "Video game",
+      "french": "Jeu vidéo",
+      "example": "New video game release. - Nouvelle sortie de jeu vidéo."
+    },
+    {
+      "id": 2,
+      "english": "Controller",
+      "french": "Manette",
+      "example": "Gaming controller. - Manette de jeu."
+    },
+    {
+      "id": 3,
+      "english": "Headset",
+      "french": "Casque",
+      "example": "Gaming headset with microphone. - Casque de jeu avec micro."
+    },
+    {
+      "id": 4,
+      "english": "Console",
+      "french": "Console",
+      "example": "Next-gen console. - Console de nouvelle génération."
+    },
+    {
+      "id": 5,
+      "english": "Level",
+      "french": "Niveau",
+      "example": "Beat this level. - Termine ce niveau."
+    },
+    {
+      "id": 6,
+      "english": "Score",
+      "french": "Score",
+      "example": "High score leaderboard. - Classement des scores élevés."
+    }
+  ]
+}

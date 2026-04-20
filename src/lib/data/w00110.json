@@ -1,0 +1,43 @@
+{
+  "id": "w00110",
+  "title": "Photography",
+  "day": 110,
+  "words": [
+    {
+      "id": 1,
+      "english": "Camera",
+      "french": "Appareil photo",
+      "example": "DSLR camera. - Appareil photo reflex."
+    },
+    {
+      "id": 2,
+      "english": "Photo",
+      "french": "Photo",
+      "example": "Take a photo. - Prends une photo."
+    },
+    {
+      "id": 3,
+      "english": "Selfie",
+      "french": "Selfie",
+      "example": "Take a selfie. - Prends un selfie."
+    },
+    {
+      "id": 4,
+      "english": "Flash",
+      "french": "Flash",
+      "example": "Turn on the flash. - Active le flash."
+    },
+    {
+      "id": 5,
+      "english": "Zoom",
+      "french": "Zoom",
+      "example": "Zoom in to focus. - Zoom avant pour faire la mise au point."
+    },
+    {
+      "id": 6,
+      "english": "Filter",
+      "french": "Filtre",
+      "example": "Apply a filter. - Applique un filtre."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00032",
+  "title": "Feelings V2",
+  "day": 32,
+  "words": [
+    {
+      "id": 1,
+      "english": "Angry",
+      "french": "En colère",
+      "example": "Don't be angry with me. - Ne sois pas en colère contre moi."
+    },
+    {
+      "id": 2,
+      "english": "Scared",
+      "french": "Effrayé / Peur",
+      "example": "I'm scared of the dark. - J'ai peur du noir."
+    },
+    {
+      "id": 3,
+      "english": "Tired",
+      "french": "Fatigué",
+      "example": "I'm too tired to study. - Je suis trop fatigué pour étudier."
+    },
+    {
+      "id": 4,
+      "english": "Bored",
+      "french": "Ennuyé",
+      "example": "This lesson is so boring. - Cette leçon est si ennuyeuse."
+    },
+    {
+      "id": 5,
+      "english": "Excited",
+      "french": "Excité / Content",
+      "example": "I'm excited for the trip! - Je suis excité pour le voyage!"
+    },
+    {
+      "id": 6,
+      "english": "Proud",
+      "french": "Fier",
+      "example": "My parents are proud of me. - Mes parents sont fierts de moi."
+    }
+  ]
+}

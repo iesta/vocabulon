@@ -1,0 +1,43 @@
+{
+  "id": "w00135",
+  "title": "Movement",
+  "day": 135,
+  "words": [
+    {
+      "id": 1,
+      "english": "Go",
+      "french": "Aller",
+      "example": "Go home now. - Va à la maison maintenant."
+    },
+    {
+      "id": 2,
+      "english": "Come",
+      "french": "Venir",
+      "example": "Come here please. - Viens ici s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "Leave",
+      "french": "Partir",
+      "example": "Leave early tomorrow. - Pars tôt demain."
+    },
+    {
+      "id": 4,
+      "english": "Arrive",
+      "french": "Arriver",
+      "example": "Arrive on time. - Arrive à l'heure."
+    },
+    {
+      "id": 5,
+      "english": "Move",
+      "french": "Bouger",
+      "example": "Don't move! - Ne bouge pas!"
+    },
+    {
+      "id": 6,
+      "english": "Travel",
+      "french": "Voyager",
+      "example": "Travel around Europe. - Voyage à travers l'Europe."
+    }
+  ]
+}

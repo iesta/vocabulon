@@ -1,0 +1,43 @@
+{
+  "id": "w00106",
+  "title": "Internet",
+  "day": 106,
+  "words": [
+    {
+      "id": 1,
+      "english": "WiFi",
+      "french": "WiFi",
+      "example": "Password for WiFi? - Le mot de passe WiFi?"
+    },
+    {
+      "id": 2,
+      "english": "Browser",
+      "french": "Navigateur",
+      "example": "Open a new browser tab. - Ouvre un nouvel onglet."
+    },
+    {
+      "id": 3,
+      "english": "Website",
+      "french": "Site web",
+      "example": "Visit our website. - Visitez notre site web."
+    },
+    {
+      "id": 4,
+      "english": "Download",
+      "french": "Télécharger",
+      "example": "Download the file. - Télécharge le fichier."
+    },
+    {
+      "id": 5,
+      "english": "Upload",
+      "french": "Téléverser",
+      "example": "Upload your photo. - Téléverse ta photo."
+    },
+    {
+      "id": 6,
+      "english": "Streaming",
+      "french": "Streaming",
+      "example": "Movie streaming service. - Service de streaming de films."
+    }
+  ]
+}

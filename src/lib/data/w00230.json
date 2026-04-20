@@ -1,0 +1,43 @@
+{
+  "id": "w00230",
+  "title": "Business Jobs",
+  "day": 230,
+  "words": [
+    {
+      "id": 1,
+      "english": "Manager",
+      "french": "Directeur",
+      "example": "Store manager schedule. - Horaire du directeur de magasin."
+    },
+    {
+      "id": 2,
+      "english": "Accountant",
+      "french": "Comptable",
+      "example": "Tax accountant help. - Aide du comptable fiscal."
+    },
+    {
+      "id": 3,
+      "english": "Receptionist",
+      "french": "Réceptionniste",
+      "example": "Hotel receptionist greeting. - Salutation de réceptionniste d'hôtel."
+    },
+    {
+      "id": 4,
+      "english": "Secretary",
+      "french": "Secrétaire",
+      "example": "Office secretary tasks. - Tâches de secrétaire de bureau."
+    },
+    {
+      "id": 5,
+      "english": "Consultant",
+      "french": "Consultant",
+      "example": "Business consultant advice. - Conseil de consultant d'affaires."
+    },
+    {
+      "id": 6,
+      "english": "Executive",
+      "french": "Exécutif",
+      "example": "Company executive meeting. - Réunion d'exécutif d'entreprise."
+    }
+  ]
+}

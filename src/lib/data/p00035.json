@@ -1,0 +1,22 @@
+{
+  "id": "p00035",
+  "title": "Work",
+  "day": 35,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I work from 9 to 5.",
+      "french": "Je travaille de 9 à 17."
+    },
+    {
+      "id": 2,
+      "english": "I'm looking for a job.",
+      "french": "Je cherche un emploi."
+    },
+    {
+      "id": 3,
+      "english": "Hard work pays off.",
+      "french": "Le travail acharné paie."
+    }
+  ]
+}

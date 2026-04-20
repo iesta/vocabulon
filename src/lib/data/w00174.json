@@ -1,0 +1,43 @@
+{
+  "id": "w00174",
+  "title": "Road Terms",
+  "day": 174,
+  "words": [
+    {
+      "id": 1,
+      "english": "Highway",
+      "french": "Autoroute",
+      "example": "Speed on highway. - Vitesse sur autoroute."
+    },
+    {
+      "id": 2,
+      "english": "Freeway",
+      "french": "Voie rapide",
+      "example": "Eight lane freeway. - Voie rapide à huit voies."
+    },
+    {
+      "id": 3,
+      "english": "Intersection",
+      "french": "Intersection",
+      "example": "Busy intersection. - Intersection fréquentée."
+    },
+    {
+      "id": 4,
+      "english": "Pedestrian",
+      "french": "Piéton",
+      "example": "Pedestrian crossing. - Passage pour piétons."
+    },
+    {
+      "id": 5,
+      "english": "Traffic",
+      "french": "Circulation",
+      "example": "Heavy traffic jam. - Embouteillage lourd."
+    },
+    {
+      "id": 6,
+      "english": "Speed limit",
+      "french": "Limite de vitesse",
+      "example": "Observe speed limit. - Observe la limite de vitesse."
+    }
+  ]
+}

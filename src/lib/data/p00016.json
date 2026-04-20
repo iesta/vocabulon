@@ -1,0 +1,22 @@
+{
+  "id": "p00016",
+  "title": "Health",
+  "day": 16,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I don't feel well.",
+      "french": "Je ne me sens pas bien."
+    },
+    {
+      "id": 2,
+      "english": "I have a headache.",
+      "french": "J'ai mal à la tête."
+    },
+    {
+      "id": 3,
+      "english": "I need to see a doctor.",
+      "french": "J'ai besoin de voir un médecin."
+    }
+  ]
+}

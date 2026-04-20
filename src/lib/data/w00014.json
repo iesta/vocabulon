@@ -1,0 +1,13 @@
+{
+  "id": "w00014",
+  "title": "Social Media",
+  "day": 14,
+  "words": [
+    { "id": 1, "english": "Selfie", "french": "Selfie", "example": "Let's take a selfie together! - Prenons un selfie ensemble!" },
+    { "id": 2, "english": "Post", "french": "Publier", "example": "I want to post this photo. - Je veux publier cette photo." },
+    { "id": 3, "english": "Follower", "french": "Abonné", "example": "She has 1000 followers. - Elle a 1000 abonnés." },
+    { "id": 4, "english": "Like", "french": "Like / J'aime", "example": "Please like my video! - Like ma vidéo s'il te plaît!" },
+    { "id": 5, "english": "Story", "french": "Story", "example": "Did you see my story? - Tu as vu ma story?" },
+    { "id": 6, "english": "To share", "french": "Partager", "example": "I want to share this with my friends. - Je veux partager ça avec mes amis." }
+  ]
+}

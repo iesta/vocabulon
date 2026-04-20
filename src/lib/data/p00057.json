@@ -1,0 +1,22 @@
+{
+  "id": "p00057",
+  "title": "Success",
+  "day": 57,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Success is not final, failure is not fatal.",
+      "french": "Le succès n'est pas final, l'échec n'est pas fatal."
+    },
+    {
+      "id": 2,
+      "english": "Practice makes perfect.",
+      "french": "C'est en forgeant qu'on devient forgeron."
+    },
+    {
+      "id": 3,
+      "english": "The sky is the limit!",
+      "french": "Le ciel est la limite!"
+    }
+  ]
+}

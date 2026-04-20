@@ -1,0 +1,43 @@
+{
+  "id": "w00116",
+  "title": "AI & Future Tech",
+  "day": 116,
+  "words": [
+    {
+      "id": 1,
+      "english": "Robot",
+      "french": "Robot",
+      "example": "Industrial robot arm. - Bras de robot industriel."
+    },
+    {
+      "id": 2,
+      "english": "Drone",
+      "french": "Drone",
+      "example": "Flying drone camera. - Caméra de drone volant."
+    },
+    {
+      "id": 3,
+      "english": "3D printing",
+      "french": "Impression 3D",
+      "example": "3D printed objects. - Objets imprimés en 3D."
+    },
+    {
+      "id": 4,
+      "english": "Virtual reality",
+      "french": "Réalité virtuelle",
+      "example": "VR headset experience. - Expérience avec casque VR."
+    },
+    {
+      "id": 5,
+      "english": "Augmented reality",
+      "french": "Réalité augmentée",
+      "example": "AR gaming apps. - Applications de jeu en AR."
+    },
+    {
+      "id": 6,
+      "english": "Blockchain",
+      "french": "Blockchain",
+      "example": "Blockchain technology. - Technologie blockchain."
+    }
+  ]
+}

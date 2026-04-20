@@ -1,0 +1,43 @@
+{
+  "id": "w00082",
+  "title": "Skin & Hair",
+  "day": 82,
+  "words": [
+    {
+      "id": 1,
+      "english": "Skin",
+      "french": "Peau",
+      "example": "Skin protects the body. - La peau protège le corps."
+    },
+    {
+      "id": 2,
+      "english": "Hair",
+      "french": "Cheveux",
+      "example": "She has long hair. - Elle a de longs cheveux."
+    },
+    {
+      "id": 3,
+      "english": "Beard",
+      "french": "Barbe",
+      "example": "He has a beard. - Il a une barbe."
+    },
+    {
+      "id": 4,
+      "english": "Mustache",
+      "french": "Moustache",
+      "example": "The mustache is curly. - La moustache est frisée."
+    },
+    {
+      "id": 5,
+      "english": "Nail",
+      "french": "Ongle",
+      "example": "Cut your nails. - Coupe tes ongles."
+    },
+    {
+      "id": 6,
+      "english": "Freckle",
+      "french": "Tache de rousseur",
+      "example": "She has freckles. - Elle a des taches de rousseur."
+    }
+  ]
+}

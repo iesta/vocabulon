@@ -1,0 +1,43 @@
+{
+  "id": "w00154",
+  "title": "Daily Routine",
+  "day": 154,
+  "words": [
+    {
+      "id": 1,
+      "english": "Wake up",
+      "french": "Se réveiller",
+      "example": "Wake up early. - Réveille-toi tôt."
+    },
+    {
+      "id": 2,
+      "english": "Get dressed",
+      "french": "S'habiller",
+      "example": "Get dressed quickly. - Habille-toi vite."
+    },
+    {
+      "id": 3,
+      "english": "Brush teeth",
+      "french": "Se brosser les dents",
+      "example": "Brush your teeth twice. - Brosse-toi les dents deux fois."
+    },
+    {
+      "id": 4,
+      "english": "Shower",
+      "french": "Se doucher",
+      "example": "Take a shower. - Prends une douche."
+    },
+    {
+      "id": 5,
+      "english": "Leave home",
+      "french": "Partir de la maison",
+      "example": "Leave home at eight. - Pars de la maison à huit heures."
+    },
+    {
+      "id": 6,
+      "english": "Come home",
+      "french": "Rentrer à la maison",
+      "example": "Come home from school. - Rentre de l'école."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00203",
+  "title": "Friendship",
+  "day": 203,
+  "words": [
+    {
+      "id": 1,
+      "english": "Friend",
+      "french": "Ami",
+      "example": "Best friend forever. - Meilleur ami pour toujours."
+    },
+    {
+      "id": 2,
+      "english": "Buddy",
+      "french": "Camarade",
+      "example": "Study buddy help. - Aide du camarade d'étude."
+    },
+    {
+      "id": 3,
+      "english": "Pal",
+      "french": "Copain",
+      "example": "Childhood pal memories. - Souvenirs du copain d'enfance."
+    },
+    {
+      "id": 4,
+      "english": "Acquaintance",
+      "french": "Connaissance",
+      "example": "Friendly acquaintance wave. - Salut de connaissance amicale."
+    },
+    {
+      "id": 5,
+      "english": "Roommate",
+      "french": "Colocataire",
+      "example": "College roommate situation. - Situation de colocataire universitaire."
+    },
+    {
+      "id": 6,
+      "english": "Neighbor",
+      "french": "Voisin",
+      "example": "Help your neighbor. - Aide ton voisin."
+    }
+  ]
+}

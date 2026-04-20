@@ -1,0 +1,22 @@
+{
+  "id": "p00028",
+  "title": "Advice",
+  "day": 28,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "You should study more.",
+      "french": "Tu devrais étudier davantage."
+    },
+    {
+      "id": 2,
+      "english": "Don't worry about it.",
+      "french": "Ne t'inquiète pas pour ça."
+    },
+    {
+      "id": 3,
+      "english": "Everything will be okay.",
+      "french": "Tout ira bien."
+    }
+  ]
+}

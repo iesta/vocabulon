@@ -1,0 +1,43 @@
+{
+  "id": "w00149",
+  "title": "Success & Failure",
+  "day": 149,
+  "words": [
+    {
+      "id": 1,
+      "english": "Win",
+      "french": "Gagner",
+      "example": "Win the game. - Gagne le jeu."
+    },
+    {
+      "id": 2,
+      "english": "Lose",
+      "french": "Perdre",
+      "example": "Don't lose hope. - Ne perds pas espoir."
+    },
+    {
+      "id": 3,
+      "english": "Succeed",
+      "french": "Réussir",
+      "example": "Succeed in life. - Réussis dans la vie."
+    },
+    {
+      "id": 4,
+      "english": "Fail",
+      "french": "Échouer",
+      "example": "It's okay to fail. - C'est normal d'échouer."
+    },
+    {
+      "id": 5,
+      "english": "Achieve",
+      "french": "Accomplir",
+      "example": "Achieve your goals. - Accomplis tes objectifs."
+    },
+    {
+      "id": 6,
+      "english": "Try",
+      "french": "Essayer",
+      "example": "Try your best. - Fais de ton mieux."
+    }
+  ]
+}

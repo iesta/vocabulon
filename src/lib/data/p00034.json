@@ -1,0 +1,22 @@
+{
+  "id": "p00034",
+  "title": "Technology",
+  "day": 34,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "My computer is running slow.",
+      "french": "Mon ordinateur est lent."
+    },
+    {
+      "id": 2,
+      "english": "Can you charge my phone?",
+      "french": "Peux-tu charger mon téléphone?"
+    },
+    {
+      "id": 3,
+      "english": "Technology is amazing!",
+      "french": "La technologie est incroyable!"
+    }
+  ]
+}

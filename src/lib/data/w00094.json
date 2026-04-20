@@ -1,0 +1,43 @@
+{
+  "id": "w00094",
+  "title": "Dairy",
+  "day": 94,
+  "words": [
+    {
+      "id": 1,
+      "english": "Milk",
+      "french": "Lait",
+      "example": "A glass of milk. - Un verre de lait."
+    },
+    {
+      "id": 2,
+      "english": "Cheese",
+      "french": "Fromage",
+      "example": "French cheese is famous. - Le fromage français est célèbre."
+    },
+    {
+      "id": 3,
+      "english": "Butter",
+      "french": "Beurre",
+      "example": "Put butter on bread. - Mets du beurre sur le pain."
+    },
+    {
+      "id": 4,
+      "english": "Yogurt",
+      "french": "Yaourt",
+      "example": "Yogurt with fruit. - Yaourt aux fruits."
+    },
+    {
+      "id": 5,
+      "english": "Cream",
+      "french": "Crème",
+      "example": "Whipped cream on cake. - Crème chantilly sur le gâteau."
+    },
+    {
+      "id": 6,
+      "english": "Ice cream",
+      "french": "Glace",
+      "example": "Two scoops of ice cream. - Deux boules de glace."
+    }
+  ]
+}

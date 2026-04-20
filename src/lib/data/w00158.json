@@ -1,0 +1,43 @@
+{
+  "id": "w00158",
+  "title": "Footwear",
+  "day": 158,
+  "words": [
+    {
+      "id": 1,
+      "english": "Shoes",
+      "french": "Chaussures",
+      "example": "New shoes please. - Nouvelles chaussures s'il vous plaît."
+    },
+    {
+      "id": 2,
+      "english": "Sneakers",
+      "french": "Basket",
+      "example": "Running sneakers. - Basket de course."
+    },
+    {
+      "id": 3,
+      "english": "Boots",
+      "french": "Bottes",
+      "example": "Leather boots. - Bottes en cuir."
+    },
+    {
+      "id": 4,
+      "english": "Sandals",
+      "french": "Sandales",
+      "example": "Summer sandals. - Sandales d'été."
+    },
+    {
+      "id": 5,
+      "english": "Heels",
+      "french": "Talons",
+      "example": "High heels. - Talons hauts."
+    },
+    {
+      "id": 6,
+      "english": "Slippers",
+      "french": "Pantoufles",
+      "example": "Cozy slippers. - Pantoufles confortables."
+    }
+  ]
+}

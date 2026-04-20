@@ -1,0 +1,22 @@
+{
+  "id": "p00041",
+  "title": "Conditional",
+  "day": 41,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "If I had money, I'd travel more.",
+      "french": "Si j'avais de l'argent, je voyagerais plus."
+    },
+    {
+      "id": 2,
+      "english": "I would help you if I could.",
+      "french": "Je t'aiderais si je pouvais."
+    },
+    {
+      "id": 3,
+      "english": "What would you do if you won the lottery?",
+      "french": "Que ferais-tu si tu gagnais au loto?"
+    }
+  ]
+}

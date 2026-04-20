@@ -1,0 +1,43 @@
+{
+  "id": "w00161",
+  "title": "Bags",
+  "day": 161,
+  "words": [
+    {
+      "id": 1,
+      "english": "Backpack",
+      "french": "Sac à dos",
+      "example": "School backpack. - Sac à dos d'école."
+    },
+    {
+      "id": 2,
+      "english": "Handbag",
+      "french": "Sac à main",
+      "example": "Designer handbag. - Sac à main de créateur."
+    },
+    {
+      "id": 3,
+      "english": "Wallet",
+      "french": "Portefeuille",
+      "example": "Leather wallet. - Portefeuille en cuir."
+    },
+    {
+      "id": 4,
+      "english": "Purse",
+      "french": "Sacoche",
+      "example": "Shoulder purse. - Sacoche d'épaule."
+    },
+    {
+      "id": 5,
+      "english": "Suitcase",
+      "french": "Valise",
+      "example": "Pack the suitcase. - Fais la valise."
+    },
+    {
+      "id": 6,
+      "english": "Briefcase",
+      "french": "Mallette",
+      "example": "Work briefcase. - Mallette de travail."
+    }
+  ]
+}

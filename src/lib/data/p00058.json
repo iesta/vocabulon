@@ -1,0 +1,22 @@
+{
+  "id": "p00058",
+  "title": "Challenges",
+  "day": 58,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Every cloud has a silver lining.",
+      "french": "Chaque nuage a une bordure d'argent."
+    },
+    {
+      "id": 2,
+      "english": "When life gives you lemons, make lemonade.",
+      "french": "Quand la vie te donne des citrons, fais de la citronnade."
+    },
+    {
+      "id": 3,
+      "english": "Rome wasn't built in a day.",
+      "french": "Rome ne s'est pas faite en un jour."
+    }
+  ]
+}

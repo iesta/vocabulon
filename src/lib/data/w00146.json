@@ -1,0 +1,43 @@
+{
+  "id": "w00146",
+  "title": "Body Actions",
+  "day": 146,
+  "words": [
+    {
+      "id": 1,
+      "english": "Sit",
+      "french": "S'asseoir",
+      "example": "Sit down here. - Assieds-toi ici."
+    },
+    {
+      "id": 2,
+      "english": "Stand",
+      "french": "Se lever",
+      "example": "Stand up please. - Lève-toi s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "Lie",
+      "french": "S'allonger",
+      "example": "Lie on the bed. - Allonge-toi sur le lit."
+    },
+    {
+      "id": 4,
+      "english": "Lean",
+      "french": "S'appuyer",
+      "example": "Lean against the wall. - Appuie-toi contre le mur."
+    },
+    {
+      "id": 5,
+      "english": "Stretch",
+      "french": "S'étirer",
+      "example": "Stretch your muscles. - Étire tes muscles."
+    },
+    {
+      "id": 6,
+      "english": "Kneel",
+      "french": "S'agenouiller",
+      "example": "Kneel in prayer. - Agenouille-toi en prière."
+    }
+  ]
+}

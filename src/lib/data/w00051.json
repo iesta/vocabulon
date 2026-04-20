@@ -1,0 +1,43 @@
+{
+  "id": "w00051",
+  "title": "Team Sports",
+  "day": 51,
+  "words": [
+    {
+      "id": 1,
+      "english": "Football",
+      "french": "Football",
+      "example": "I play football every Saturday. - Je joue au football chaque samedi."
+    },
+    {
+      "id": 2,
+      "english": "Basketball",
+      "french": "Basketball",
+      "example": "Basketball is very popular. - Le basketball est très populaire."
+    },
+    {
+      "id": 3,
+      "english": "Volleyball",
+      "french": "Volleyball",
+      "example": "We won the volleyball match! - Nous avons gagné le match de volley!"
+    },
+    {
+      "id": 4,
+      "english": "Rugby",
+      "french": "Rugby",
+      "example": "Rugby is a rough sport. - Le rugby est un sport violent."
+    },
+    {
+      "id": 5,
+      "english": "Handball",
+      "french": "Handball",
+      "example": "I joined the handball team. - J'ai rejoint l'équipe de handball."
+    },
+    {
+      "id": 6,
+      "english": "Baseball",
+      "french": "Baseball",
+      "example": "Baseball is America's pastime. - Le baseball est le passe-temps américain."
+    }
+  ]
+}

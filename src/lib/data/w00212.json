@@ -1,0 +1,43 @@
+{
+  "id": "w00212",
+  "title": "Getting to Know",
+  "day": 212,
+  "words": [
+    {
+      "id": 1,
+      "english": "Introduce",
+      "french": "Présenter",
+      "example": "Introduce yourself please. - Présente-toi s'il te plaît."
+    },
+    {
+      "id": 2,
+      "english": "Meet",
+      "french": "Rencontrer",
+      "example": "Nice to meet you. - Enchanté de te rencontrer."
+    },
+    {
+      "id": 3,
+      "english": "Remember",
+      "french": "Se souvenir",
+      "example": "Remember my name. - Souviens-toi de mon nom."
+    },
+    {
+      "id": 4,
+      "english": "Understand",
+      "french": "Comprendre",
+      "example": "Understand each other. - Comprenons-nous mutuellement."
+    },
+    {
+      "id": 5,
+      "english": "Accept",
+      "french": "Accepter",
+      "example": "Accept differences kindly. - Accepte les différences gentiment."
+    },
+    {
+      "id": 6,
+      "english": "Respect",
+      "french": "Respecter",
+      "example": "Respect everyone equally. - Respecte tout le monde également."
+    }
+  ]
+}

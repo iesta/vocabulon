@@ -1,0 +1,43 @@
+{
+  "id": "w00239",
+  "title": "Agriculture",
+  "day": 239,
+  "words": [
+    {
+      "id": 1,
+      "english": "Farmer",
+      "french": "Agriculteur",
+      "example": "Family farmer harvest. - Récolte de l'agriculteur familial."
+    },
+    {
+      "id": 2,
+      "english": "Gardener",
+      "french": "Jardinier",
+      "example": "Professional gardener services. - Services du jardinier professionnel."
+    },
+    {
+      "id": 3,
+      "english": "Breeder",
+      "french": "Éleveur",
+      "example": "Animal breeder expertise. - Expertise de l'éleveur d'animaux."
+    },
+    {
+      "id": 4,
+      "english": "Veterinarian",
+      "french": "Vétérinaire",
+      "example": "Pet veterinarian care. - Soins du télévisionniste."
+    },
+    {
+      "id": 5,
+      "english": "Florist",
+      "french": "Fleuriste",
+      "example": "Fresh florist arrangements. - Arrangements du fleuriste frais."
+    },
+    {
+      "id": 6,
+      "english": "Beekeeper",
+      "french": "Apiculteur",
+      "example": "Local beekeeper honey. - Miel de l'apiculteur local."
+    }
+  ]
+}

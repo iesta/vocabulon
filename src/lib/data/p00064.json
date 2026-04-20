@@ -1,0 +1,22 @@
+{
+  "id": "p00064",
+  "title": "Advanced: Law",
+  "day": 64,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Everyone is innocent until proven guilty.",
+      "french": "Tout le monde est innocent jusqu'à preuve du contraire."
+    },
+    {
+      "id": 2,
+      "english": "The law is not always just.",
+      "french": "La loi n'est pas toujours juste."
+    },
+    {
+      "id": 3,
+      "english": "Ignorance of the law is no excuse.",
+      "french": "La méconnaissance de la loi n'est pas une excuse."
+    }
+  ]
+}

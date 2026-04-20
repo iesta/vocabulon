@@ -1,0 +1,43 @@
+{
+  "id": "w00138",
+  "title": "Creation",
+  "day": 138,
+  "words": [
+    {
+      "id": 1,
+      "english": "Make",
+      "french": "Faire",
+      "example": "Make breakfast. - Fais le petit-déjeuner."
+    },
+    {
+      "id": 2,
+      "english": "Create",
+      "french": "Créer",
+      "example": "Create art. - Crée de l'art."
+    },
+    {
+      "id": 3,
+      "english": "Build",
+      "french": "Construire",
+      "example": "Build a house. - Construis une maison."
+    },
+    {
+      "id": 4,
+      "english": "Draw",
+      "french": "Dessiner",
+      "example": "Draw a picture. - Dessine une image."
+    },
+    {
+      "id": 5,
+      "english": "Paint",
+      "french": "Peindre",
+      "example": "Paint the wall. - Peins le mur."
+    },
+    {
+      "id": 6,
+      "english": "Cook",
+      "french": "Cuisiner",
+      "example": "Cook dinner tonight. - Cuisine le dîner ce soir."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00218",
+  "title": "Outdoor Places",
+  "day": 218,
+  "words": [
+    {
+      "id": 1,
+      "english": "Park",
+      "french": "Parc",
+      "example": "Central park picnic. - Pique-nique au parc central."
+    },
+    {
+      "id": 2,
+      "english": "Garden",
+      "french": "Jardin",
+      "example": "Community garden plot. - Parcelle de jardin communautaire."
+    },
+    {
+      "id": 3,
+      "english": "Playground",
+      "french": "Terrain de jeu",
+      "example": "Kids playground equipment. - Équipement de terrain de jeu."
+    },
+    {
+      "id": 4,
+      "english": "Pool",
+      "french": "Piscine",
+      "example": "Public swimming pool. - Piscine publique."
+    },
+    {
+      "id": 5,
+      "english": "Stadium",
+      "french": "Stade",
+      "example": "Sports stadium event. - Événement au stade sportif."
+    },
+    {
+      "id": 6,
+      "english": "Zoo",
+      "french": "Zoo",
+      "example": "Family zoo trip. - Sortie zoo en famille."
+    }
+  ]
+}

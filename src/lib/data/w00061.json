@@ -1,0 +1,43 @@
+{
+  "id": "w00061",
+  "title": "Farm Animals",
+  "day": 61,
+  "words": [
+    {
+      "id": 1,
+      "english": "Cow",
+      "french": "Vache",
+      "example": "The cow produces milk. - La vache produit du lait."
+    },
+    {
+      "id": 2,
+      "english": "Pig",
+      "french": "Cochon",
+      "example": "The pig is eating. - Le cochon mange."
+    },
+    {
+      "id": 3,
+      "english": "Sheep",
+      "french": "Mouton",
+      "example": "The sheep have wool. - Les moutons ont de la laine."
+    },
+    {
+      "id": 4,
+      "english": "Horse",
+      "french": "Cheval",
+      "example": "I ride a horse. - Je monte à cheval."
+    },
+    {
+      "id": 5,
+      "english": "Chicken",
+      "french": "Poule",
+      "example": "The chicken lays eggs. - La poule pond des œufs."
+    },
+    {
+      "id": 6,
+      "english": "Rooster",
+      "french": "Coq",
+      "example": "The rooster crows. - Le coq chante."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00199",
+  "title": "Extended Family",
+  "day": 199,
+  "words": [
+    {
+      "id": 1,
+      "english": "Grandmother",
+      "french": "Grand-mère",
+      "example": "Grandmother's cooking. - Cuisine de grand-mère."
+    },
+    {
+      "id": 2,
+      "english": "Grandfather",
+      "french": "Grand-père",
+      "example": "Grandfather's stories. - Histoires du grand-père."
+    },
+    {
+      "id": 3,
+      "english": "Uncle",
+      "french": "Oncle",
+      "example": "Fun uncle visits. - Visites d'oncle rigolo."
+    },
+    {
+      "id": 4,
+      "english": "Aunt",
+      "french": "Tante",
+      "example": "Aunt's birthday party. - Fête d'anniversaire de la tante."
+    },
+    {
+      "id": 5,
+      "english": "Cousin",
+      "french": "Cousin",
+      "example": "Cousin my age. - Cousin de mon âge."
+    },
+    {
+      "id": 6,
+      "english": "Nephew",
+      "french": "Neveu",
+      "example": "Playful nephew energy. - Énergie de neveu joueur."
+    }
+  ]
+}

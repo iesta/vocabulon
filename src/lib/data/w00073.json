@@ -1,0 +1,43 @@
+{
+  "id": "w00073",
+  "title": "Extinct Animals",
+  "day": 73,
+  "words": [
+    {
+      "id": 1,
+      "english": "Dinosaur",
+      "french": "Dinosaure",
+      "example": "Dinosaurs lived millions of years ago. - Les dinosaures vivaient il y a des millions d'années."
+    },
+    {
+      "id": 2,
+      "english": "Mammoth",
+      "french": "Mammouth",
+      "example": "The mammoth had fur. - Le mammouth avait de la fourrure."
+    },
+    {
+      "id": 3,
+      "english": "Dodo",
+      "french": "Dodo",
+      "example": "The dodo is extinct. - Le dodo est éteint."
+    },
+    {
+      "id": 4,
+      "english": "Fossil",
+      "french": "Fossile",
+      "example": "We found a fossil. - Nous avons trouvé un fossile."
+    },
+    {
+      "id": 5,
+      "english": "Pterodactyl",
+      "french": "Ptérodactyle",
+      "example": "The pterodactyl flew. - Le ptérodactyle volait."
+    },
+    {
+      "id": 6,
+      "english": "Sabertooth",
+      "french": "Sabre-toothed",
+      "example": "The sabertooth tiger is extinct. - Le tigre à dents de sabre est éteint."
+    }
+  ]
+}

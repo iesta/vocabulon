@@ -1,0 +1,43 @@
+{
+  "id": "w00152",
+  "title": "Technology Verbs",
+  "day": 152,
+  "words": [
+    {
+      "id": 1,
+      "english": "Download",
+      "french": "Télécharger",
+      "example": "Download the file. - Télécharge le fichier."
+    },
+    {
+      "id": 2,
+      "english": "Upload",
+      "french": "Téléverser",
+      "example": "Upload your photo. - Téléverse ta photo."
+    },
+    {
+      "id": 3,
+      "english": "Click",
+      "french": "Cliquer",
+      "example": "Click the link. - Clique sur le lien."
+    },
+    {
+      "id": 4,
+      "english": "Stream",
+      "french": "Diffuser",
+      "example": "Stream live video. - Diffuse en direct."
+    },
+    {
+      "id": 5,
+      "english": "Post",
+      "french": "Publier",
+      "example": "Post on social media. - Publie sur les réseaux sociaux."
+    },
+    {
+      "id": 6,
+      "english": "Chat",
+      "french": "Discuter",
+      "example": "Chat with friends. - Discute avec les amis."
+    }
+  ]
+}

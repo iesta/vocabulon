@@ -1,0 +1,22 @@
+{
+  "id": "p00024",
+  "title": "Sports",
+  "day": 24,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "My team won the match!",
+      "french": "Mon équipe a gagné le match!"
+    },
+    {
+      "id": 2,
+      "english": "Do you want to play tennis?",
+      "french": "Veux-tu jouer au tennis?"
+    },
+    {
+      "id": 3,
+      "english": "Physical activity is important.",
+      "french": "L'activité physique est importante."
+    }
+  ]
+}

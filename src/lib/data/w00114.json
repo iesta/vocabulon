@@ -1,0 +1,43 @@
+{
+  "id": "w00114",
+  "title": "Tech Problems",
+  "day": 114,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bug",
+      "french": "Bug",
+      "example": "Software bug found. - Bug logiciel trouvé."
+    },
+    {
+      "id": 2,
+      "english": "Crash",
+      "french": "Plantage",
+      "example": "The app crashed. - L'application a planté."
+    },
+    {
+      "id": 3,
+      "english": "Virus",
+      "french": "Virus",
+      "example": "Computer virus alert. - Alerte virus informatique."
+    },
+    {
+      "id": 4,
+      "english": "Hacker",
+      "french": "Pirate",
+      "example": "Hacker attack prevention. - Prévention des attaques de pirates."
+    },
+    {
+      "id": 5,
+      "english": "Password",
+      "french": "Mot de passe",
+      "example": "Change your password. - Change ton mot de passe."
+    },
+    {
+      "id": 6,
+      "english": "Battery",
+      "french": "Batterie",
+      "example": "Low battery warning. - Avertissement batterie faible."
+    }
+  ]
+}

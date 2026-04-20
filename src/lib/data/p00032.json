@@ -1,0 +1,22 @@
+{
+  "id": "p00032",
+  "title": "Time",
+  "day": 32,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What time does it start?",
+      "french": "À quelle heure ça commence?"
+    },
+    {
+      "id": 2,
+      "english": "Time flies when you're having fun.",
+      "french": "Le temps passe vite quand on s'amuse."
+    },
+    {
+      "id": 3,
+      "english": "I don't have time right now.",
+      "french": "Je n'ai pas le temps en ce moment."
+    }
+  ]
+}

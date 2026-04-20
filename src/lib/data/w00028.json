@@ -1,0 +1,43 @@
+{
+  "id": "w00028",
+  "title": "Prepositions V2",
+  "day": 28,
+  "words": [
+    {
+      "id": 1,
+      "english": "Under",
+      "french": "Sous",
+      "example": "The cat is under the table. - Le chat est sous la table."
+    },
+    {
+      "id": 2,
+      "english": "Between",
+      "french": "Entre",
+      "example": "I'm sitting between my friends. - Je suis assis entre mes amis."
+    },
+    {
+      "id": 3,
+      "english": "Behind",
+      "french": "Derrière",
+      "example": "The house is behind the trees. - La maison est derrière les arbres."
+    },
+    {
+      "id": 4,
+      "english": "In front of",
+      "french": "Devant",
+      "example": "The car is in front of the house. - La voiture est devant la maison."
+    },
+    {
+      "id": 5,
+      "english": "Next to",
+      "french": "À côté de",
+      "example": "My school is next to the park. - Mon école est à côté du parc."
+    },
+    {
+      "id": 6,
+      "english": "Around",
+      "french": "Autour de",
+      "example": "We sat around the fire. - Nous nous sommes assis autour du feu."
+    }
+  ]
+}

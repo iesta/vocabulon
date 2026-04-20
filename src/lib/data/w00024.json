@@ -1,0 +1,43 @@
+{
+  "id": "w00024",
+  "title": "Shopping V2",
+  "day": 24,
+  "words": [
+    {
+      "id": 1,
+      "english": "Shop",
+      "french": "Boutique / Magasin",
+      "example": "This shop sells shoes. - Cette boutique vend des chaussures."
+    },
+    {
+      "id": 2,
+      "english": "Price",
+      "french": "Prix",
+      "example": "What's the price of this? - Quel est le prix de ceci?"
+    },
+    {
+      "id": 3,
+      "english": "Sale",
+      "french": "Soldes / Réduction",
+      "example": "Everything is on sale today. - Tout est en solde aujourd'hui."
+    },
+    {
+      "id": 4,
+      "english": "Money",
+      "french": "Argent",
+      "example": "I don't have enough money. - Je n'ai pas assez d'argent."
+    },
+    {
+      "id": 5,
+      "english": "Cheap",
+      "french": "Pas cher",
+      "example": "This is really cheap! - C'est vraiment pas cher!"
+    },
+    {
+      "id": 6,
+      "english": "Expensive",
+      "french": "Cher",
+      "example": "That's too expensive for me. - C'est trop cher pour moi."
+    }
+  ]
+}

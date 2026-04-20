@@ -1,0 +1,43 @@
+{
+  "id": "w00067",
+  "title": "Trees & Plants",
+  "day": 67,
+  "words": [
+    {
+      "id": 1,
+      "english": "Oak",
+      "french": "Chêne",
+      "example": "The oak is old. - Le chêne est vieux."
+    },
+    {
+      "id": 2,
+      "english": "Maple",
+      "french": "Érable",
+      "example": "Maple syrup comes from maple. - Le sirop d'érable vient de l'érable."
+    },
+    {
+      "id": 3,
+      "english": "Pine",
+      "french": "Pin",
+      "example": "Pine trees stay green. - Les pins restent verts."
+    },
+    {
+      "id": 4,
+      "english": "Willow",
+      "french": "Saule",
+      "example": "The willow hangs low. - Le saule pend bas."
+    },
+    {
+      "id": 5,
+      "english": "Rose",
+      "french": "Rose",
+      "example": "The rose smells sweet. - La rose sent doux."
+    },
+    {
+      "id": 6,
+      "english": "Sunflower",
+      "french": "Tournesol",
+      "example": "The sunflower follows the sun. - Le tournesol suit le soleil."
+    }
+  ]
+}

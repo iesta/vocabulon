@@ -1,0 +1,43 @@
+{
+  "id": "w00153",
+  "title": "Sports Verbs",
+  "day": 153,
+  "words": [
+    {
+      "id": 1,
+      "english": "Score",
+      "french": "Marquer",
+      "example": "Score a goal. - Marque un but."
+    },
+    {
+      "id": 2,
+      "english": "Kick",
+      "french": "Donner un coup de pied",
+      "example": "Kick the ball. - Donne un coup de pied dans le ballon."
+    },
+    {
+      "id": 3,
+      "english": "Throw",
+      "french": "Lancer",
+      "example": "Throw the ball. - Lance le ballon."
+    },
+    {
+      "id": 4,
+      "english": "Catch",
+      "french": "Attraper",
+      "example": "Catch the ball. - Attrape le ballon."
+    },
+    {
+      "id": 5,
+      "english": "Hit",
+      "french": "Frapper",
+      "example": "Hit the ball. - Frappe la balle."
+    },
+    {
+      "id": 6,
+      "english": "Win",
+      "french": "Gagner",
+      "example": "Win the championship. - Gagne le championnat."
+    }
+  ]
+}

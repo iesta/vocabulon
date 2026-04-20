@@ -1,0 +1,13 @@
+{
+  "id": "w00001",
+  "title": "Basic Greetings",
+  "day": 1,
+  "words": [
+    { "id": 1, "english": "Hello", "french": "Bonjour", "example": "Hello, how are you? - Bonjour, comment allez-vous?" },
+    { "id": 2, "english": "To be", "french": "Être", "example": "I want to be a doctor. - Je veux être médecin." },
+    { "id": 3, "english": "Goodbye", "french": "Au revoir", "example": "Goodbye, see you tomorrow! - Au revoir, à demain!" },
+    { "id": 4, "english": "To walk", "french": "Marcher", "example": "I like to walk in the park. - J'aime marcher dans le parc." },
+    { "id": 5, "english": "Blue", "french": "Bleu", "example": "The sky is blue. - Le ciel est bleu." },
+    { "id": 6, "english": "Me", "french": "Moi", "example": "Give me the book. - Donne-moi le livre." }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00068",
+  "title": "Flowers",
+  "day": 68,
+  "words": [
+    {
+      "id": 1,
+      "english": "Tulip",
+      "french": "Tulipe",
+      "example": "Tulips bloom in spring. - Les tulipes fleurissent au printemps."
+    },
+    {
+      "id": 2,
+      "english": "Daisy",
+      "french": "Marguerite",
+      "example": "The daisy is white. - La marguerite est blanche."
+    },
+    {
+      "id": 3,
+      "english": "Lily",
+      "french": "Lis",
+      "example": "The lily is elegant. - Le lis est élégant."
+    },
+    {
+      "id": 4,
+      "english": "Orchid",
+      "french": "Orchidée",
+      "example": "Orchids are exotic. - Les orchidées sont exotiques."
+    },
+    {
+      "id": 5,
+      "english": "Lavender",
+      "french": "Lavande",
+      "example": "Lavender smells nice. - La lavande sent bon."
+    },
+    {
+      "id": 6,
+      "english": "Violet",
+      "french": "Violette",
+      "example": "The violet is purple. - La violette est violette."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00145",
+  "title": "Relationships",
+  "day": 145,
+  "words": [
+    {
+      "id": 1,
+      "english": "Meet",
+      "french": "Rencontrer",
+      "example": "Meet new friends. - Rencontre de nouveaux amis."
+    },
+    {
+      "id": 2,
+      "english": "Call",
+      "french": "Appeler",
+      "example": "Call me tonight. - Appelle-moi ce soir."
+    },
+    {
+      "id": 3,
+      "english": "Invite",
+      "french": "Inviter",
+      "example": "Invite me to the party. - Invite-moi à la fête."
+    },
+    {
+      "id": 4,
+      "english": "Join",
+      "french": "Rejoindre",
+      "example": "Join the team. - Rejoins l'équipe."
+    },
+    {
+      "id": 5,
+      "english": "Welcome",
+      "french": "Bienvenue",
+      "example": "Welcome home! - Bienvenue à la maison!"
+    },
+    {
+      "id": 6,
+      "english": "Marry",
+      "french": "Marier",
+      "example": "Marry the love of your life. - Marie-toi avec l'amour de ta vie."
+    }
+  ]
+}

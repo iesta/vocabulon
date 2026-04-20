@@ -1,0 +1,43 @@
+{
+  "id": "w00147",
+  "title": "Control",
+  "day": 147,
+  "words": [
+    {
+      "id": 1,
+      "english": "Open",
+      "french": "Ouvrir",
+      "example": "Open the door. - Ouvre la porte."
+    },
+    {
+      "id": 2,
+      "english": "Close",
+      "french": "Fermer",
+      "example": "Close your eyes. - Ferme tes yeux."
+    },
+    {
+      "id": 3,
+      "english": "Turn",
+      "french": "Tourner",
+      "example": "Turn the knob. - Tourne la poignée."
+    },
+    {
+      "id": 4,
+      "english": "Push",
+      "french": "Pousser",
+      "example": "Push the button. - Pousse le bouton."
+    },
+    {
+      "id": 5,
+      "english": "Pull",
+      "french": "Tirer",
+      "example": "Pull the lever. - Tire le levier."
+    },
+    {
+      "id": 6,
+      "english": "Press",
+      "french": "Appuyer",
+      "example": "Press the key. - Appuie sur la touche."
+    }
+  ]
+}

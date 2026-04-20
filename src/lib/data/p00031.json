@@ -1,0 +1,22 @@
+{
+  "id": "p00031",
+  "title": "Animals",
+  "day": 31,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I have a pet dog.",
+      "french": "J'ai un chien de compagnie."
+    },
+    {
+      "id": 2,
+      "english": "The cat is sleeping on the sofa.",
+      "french": "Le chat dort sur le canapé."
+    },
+    {
+      "id": 3,
+      "english": "I love animals.",
+      "french": "J'aime les animaux."
+    }
+  ]
+}

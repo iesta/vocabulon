@@ -1,0 +1,43 @@
+{
+  "id": "w00030",
+  "title": "Colors V2",
+  "day": 30,
+  "words": [
+    {
+      "id": 1,
+      "english": "Orange",
+      "french": "Orange",
+      "example": "I like orange juice. - J'aime le jus d'orange."
+    },
+    {
+      "id": 2,
+      "english": "Pink",
+      "french": "Rose",
+      "example": "She likes pink dresses. - Elle aime les robes roses."
+    },
+    {
+      "id": 3,
+      "english": "Purple",
+      "french": "Violet / Pourpre",
+      "example": "The sky is purple at sunset. - Le ciel est violet au coucher du soleil."
+    },
+    {
+      "id": 4,
+      "english": "Brown",
+      "french": "Marron",
+      "example": "I have brown eyes. - J'ai les yeux marrons."
+    },
+    {
+      "id": 5,
+      "english": "Grey",
+      "french": "Gris",
+      "example": "It's a grey day today. - C'est une journée grise aujourd'hui."
+    },
+    {
+      "id": 6,
+      "english": "Gold",
+      "french": "Or",
+      "example": "She won the gold medal. - Elle a gagné la médaille d'or."
+    }
+  ]
+}

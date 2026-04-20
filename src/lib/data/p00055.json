@@ -1,0 +1,22 @@
+{
+  "id": "p00055",
+  "title": "Health & Fitness",
+  "day": 55,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "An apple a day keeps the doctor away.",
+      "french": "Une pomme par jour éloigne le médecin."
+    },
+    {
+      "id": 2,
+      "english": "Let's hit the gym together.",
+      "french": "Allons à la salle de gym ensemble."
+    },
+    {
+      "id": 3,
+      "english": "Health is wealth.",
+      "french": "La santé c'est la richesse."
+    }
+  ]
+}

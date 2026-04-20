@@ -1,0 +1,43 @@
+{
+  "id": "w00170",
+  "title": "Cars",
+  "day": 170,
+  "words": [
+    {
+      "id": 1,
+      "english": "Car",
+      "french": "Voiture",
+      "example": "Electric car new model. - Nouveau modèle de voiture électrique."
+    },
+    {
+      "id": 2,
+      "english": "Sedan",
+      "french": "Berline",
+      "example": "Four door sedan. - Berline quatre portes."
+    },
+    {
+      "id": 3,
+      "english": "SUV",
+      "french": "VUS",
+      "example": "Family SUV vehicle. - Véhicule VUS familial."
+    },
+    {
+      "id": 4,
+      "english": "Truck",
+      "french": "Camion",
+      "example": "Pickup truck bed. - Benne de pickup truck."
+    },
+    {
+      "id": 5,
+      "english": "Van",
+      "french": "Fourgonnette",
+      "example": "Passenger van rental. - Location de fourgonnette."
+    },
+    {
+      "id": 6,
+      "english": "Convertible",
+      "french": "Décapotable",
+      "example": "Red convertible sports car. - Voiture de sport décapotable rouge."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00178",
+  "title": "Travel Actions",
+  "day": 178,
+  "words": [
+    {
+      "id": 1,
+      "english": "Travel",
+      "french": "Voyager",
+      "example": "Travel abroad often. - Voyage souvent à l'étranger."
+    },
+    {
+      "id": 2,
+      "english": "Commute",
+      "french": "Faire la navette",
+      "example": "Commute to work daily. - Faire la navette au travail quotidiennement."
+    },
+    {
+      "id": 3,
+      "english": "Depart",
+      "french": "Partir",
+      "example": "Depart on time. - Partez à l'heure."
+    },
+    {
+      "id": 4,
+      "english": "Arrive",
+      "french": "Arriver",
+      "example": "Arrive at destination. - Arriver à destination."
+    },
+    {
+      "id": 5,
+      "english": "Transfer",
+      "french": "Correspondre",
+      "example": "Transfer at hub airport. - Correspondre à l'aéroport hub."
+    },
+    {
+      "id": 6,
+      "english": "Delay",
+      "french": "Retarder",
+      "example": "Flight delay announced. - Retard de vol annoncé."
+    }
+  ]
+}

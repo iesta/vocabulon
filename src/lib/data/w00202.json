@@ -1,0 +1,43 @@
+{
+  "id": "w00202",
+  "title": "Marriage",
+  "day": 202,
+  "words": [
+    {
+      "id": 1,
+      "english": "Marriage",
+      "french": "Mariage",
+      "example": "Happy marriage celebration. - Célébration de mariage heureux."
+    },
+    {
+      "id": 2,
+      "english": "Wedding",
+      "french": "Noce",
+      "example": "Beautiful wedding ceremony. - Belle cérémonie de noces."
+    },
+    {
+      "id": 3,
+      "english": "Spouse",
+      "french": "Conjoint",
+      "example": "Loyal spouse support. - Soutien du conjoint loyal."
+    },
+    {
+      "id": 4,
+      "english": "Husband",
+      "french": "Mari",
+      "example": "Devoted husband love. - Amour du mari dévoué."
+    },
+    {
+      "id": 5,
+      "english": "Wife",
+      "french": "Femme",
+      "example": "Beautiful wife appreciation. - Appréciation de la belle femme."
+    },
+    {
+      "id": 6,
+      "english": "Anniversary",
+      "french": "Anniversaire de mariage",
+      "example": "Wedding anniversary today. - Anniversaire de mariage aujourd'hui."
+    }
+  ]
+}

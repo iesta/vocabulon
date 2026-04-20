@@ -1,0 +1,43 @@
+{
+  "id": "w00093",
+  "title": "Fish & Seafood",
+  "day": 93,
+  "words": [
+    {
+      "id": 1,
+      "english": "Salmon",
+      "french": "Saumon",
+      "example": "Grilled salmon. - Saumon grillé."
+    },
+    {
+      "id": 2,
+      "english": "Tuna",
+      "french": "Thon",
+      "example": "Tuna salad sandwich. - Sandwich à la salade de thon."
+    },
+    {
+      "id": 3,
+      "english": "Cod",
+      "french": "Cabillaud",
+      "example": "Fish and chips with cod. - Fish and chips au cabillaud."
+    },
+    {
+      "id": 4,
+      "english": "Shrimp",
+      "french": "Crevette",
+      "example": "Shrimp are pink. - Les crevettes sont roses."
+    },
+    {
+      "id": 5,
+      "english": "Lobster",
+      "french": "Homard",
+      "example": "Lobster is expensive. - Le homard est cher."
+    },
+    {
+      "id": 6,
+      "english": "Crab",
+      "french": "Crabe",
+      "example": "Crab legs for appetizer. - Des pattes de crabe en entrée."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00120",
+  "title": "Painting & Art",
+  "day": 120,
+  "words": [
+    {
+      "id": 1,
+      "english": "Painting",
+      "french": "Tableau",
+      "example": "Famous painting in museum. - Tableau célèbre au musée."
+    },
+    {
+      "id": 2,
+      "english": "Artist",
+      "french": "Artiste",
+      "example": "The artist is creative. - L'artiste est créatif."
+    },
+    {
+      "id": 3,
+      "english": "Canvas",
+      "french": "Toile",
+      "example": "Paint on canvas. - Peins sur toile."
+    },
+    {
+      "id": 4,
+      "english": "Brush",
+      "french": "Pinceau",
+      "example": "Paintbrush strokes. - Coups de pinceau."
+    },
+    {
+      "id": 5,
+      "english": "Palette",
+      "french": "Palette",
+      "example": "Artist's color palette. - Palette de couleurs de l'artiste."
+    },
+    {
+      "id": 6,
+      "english": "Portrait",
+      "french": "Portrait",
+      "example": "Oil portrait painting. - Peinture de portrait à l'huile."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00248",
+  "title": "Music & Musicians",
+  "day": 248,
+  "words": [
+    {
+      "id": 1,
+      "english": "Composer",
+      "french": "Compositeur",
+      "example": "Famous composer symphony. - Symphonie du compositeur célèbre."
+    },
+    {
+      "id": 2,
+      "english": "Conductor",
+      "french": "Chef d'orchestre",
+      "example": "Orchestra conductor gesture. - Geste du chef d'orchestre."
+    },
+    {
+      "id": 3,
+      "english": "Symphony",
+      "french": "Symphonie",
+      "example": "Beethoven symphony performance. - Performance de symphonie de Beethoven."
+    },
+    {
+      "id": 4,
+      "english": "Melody",
+      "french": "Mélodie",
+      "example": "Beautiful melody harmony. - Harmonie de belle mélodie."
+    },
+    {
+      "id": 5,
+      "english": "Rhythm",
+      "french": "Rythme",
+      "example": "Dance to the rhythm. - Danse sur le rythme."
+    },
+    {
+      "id": 6,
+      "english": "Chord",
+      "french": "Accord",
+      "example": "Guitar chord progression. - Progression d'accords de guitare."
+    }
+  ]
+}

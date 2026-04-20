@@ -1,0 +1,43 @@
+{
+  "id": "w00194",
+  "title": "School Events",
+  "day": 194,
+  "words": [
+    {
+      "id": 1,
+      "english": "Graduation",
+      "french": "Cérémonie de remise des diplômes",
+      "example": "Graduation ceremony tomorrow. - Cérémonie de remise des diplômes demain."
+    },
+    {
+      "id": 2,
+      "english": "Assembly",
+      "french": "Réunion",
+      "example": "Morning school assembly. - Réunion matinale à l'école."
+    },
+    {
+      "id": 3,
+      "english": "Recess",
+      "french": "Récréation",
+      "example": "Playtime at recess. - Temps de jeu à la récréation."
+    },
+    {
+      "id": 4,
+      "english": "Semester",
+      "french": "Semestre",
+      "example": "First semester grades. - Notes du premier semestre."
+    },
+    {
+      "id": 5,
+      "english": "Break",
+      "french": "Vacances",
+      "example": "Summer break coming. - Les vacances d'été arrivent."
+    },
+    {
+      "id": 6,
+      "english": "Orientation",
+      "french": "Journée d'orientation",
+      "example": "New student orientation. - Journée d'orientation des nouveaux étudiants."
+    }
+  ]
+}

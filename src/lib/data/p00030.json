@@ -1,0 +1,22 @@
+{
+  "id": "p00030",
+  "title": "Nature",
+  "day": 30,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The sunset is beautiful.",
+      "french": "Le coucher de soleil est beau."
+    },
+    {
+      "id": 2,
+      "english": "Let's go for a walk in the park.",
+      "french": "Allons nous promener dans le parc."
+    },
+    {
+      "id": 3,
+      "english": "I love spending time outdoors.",
+      "french": "J'adore passer du temps dehors."
+    }
+  ]
+}

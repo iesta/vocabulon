@@ -1,0 +1,43 @@
+{
+  "id": "w00221",
+  "title": "Travel Places",
+  "day": 221,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hotel",
+      "french": "Hôtel",
+      "example": "Luxury hotel suite. - Suite d'hôtel de luxe."
+    },
+    {
+      "id": 2,
+      "english": "Motel",
+      "french": "Motel",
+      "example": "Roadside motel stay. - Séjour au motel sur route."
+    },
+    {
+      "id": 3,
+      "english": "Hostel",
+      "french": "Auberge",
+      "example": "Budget hostel booking. - Réservation d'auberge économique."
+    },
+    {
+      "id": 4,
+      "english": "Resort",
+      "french": "Station",
+      "example": "Beach resort vacation. - Vacances à la station balnéaire."
+    },
+    {
+      "id": 5,
+      "english": "Campsite",
+      "french": "Camping",
+      "example": "Mountain campsite spot. - Emplacement de camping en montagne."
+    },
+    {
+      "id": 6,
+      "english": "Lodge",
+      "french": "Chalet",
+      "example": "Forest lodge getaway. - Évasion au chalet en forêt."
+    }
+  ]
+}

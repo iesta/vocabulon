@@ -1,0 +1,22 @@
+{
+  "id": "p00023",
+  "title": "Music",
+  "day": 23,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I love this song!",
+      "french": "J'adore cette chanson!"
+    },
+    {
+      "id": 2,
+      "english": "Do you play any instruments?",
+      "french": "Jouez-vous d'un instrument?"
+    },
+    {
+      "id": 3,
+      "english": "Let's go to a concert!",
+      "french": "Allons à un concert!"
+    }
+  ]
+}

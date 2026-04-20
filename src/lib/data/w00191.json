@@ -1,0 +1,43 @@
+{
+  "id": "w00191",
+  "title": "Science Terms",
+  "day": 191,
+  "words": [
+    {
+      "id": 1,
+      "english": "Experiment",
+      "french": "Expérience",
+      "example": "Chemistry experiment safety. - Sécurité d'expérience chimique."
+    },
+    {
+      "id": 2,
+      "english": "Hypothesis",
+      "french": "Hypothèse",
+      "example": "Test the hypothesis. - Teste l'hypothèse."
+    },
+    {
+      "id": 3,
+      "english": "Theory",
+      "french": "Théorie",
+      "example": "Scientific theory proven. - Théorie scientifique prouvée."
+    },
+    {
+      "id": 4,
+      "english": "Formula",
+      "french": "Formule",
+      "example": "Math formula application. - Application de formule math."
+    },
+    {
+      "id": 5,
+      "english": "Equation",
+      "french": "Équation",
+      "example": "Solve equation step by step. - Résous l'équation étape par étape."
+    },
+    {
+      "id": 6,
+      "english": "Biology",
+      "french": "Biologie",
+      "example": "Biology cell structure. - Structure de cellule en biologie."
+    }
+  ]
+}

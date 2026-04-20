@@ -1,0 +1,43 @@
+{
+  "id": "w00063",
+  "title": "Pets",
+  "day": 63,
+  "words": [
+    {
+      "id": 1,
+      "english": "Dog",
+      "french": "Chien",
+      "example": "My dog is friendly. - Mon chien est gentil."
+    },
+    {
+      "id": 2,
+      "english": "Cat",
+      "french": "Chat",
+      "example": "The cat sleeps a lot. - Le chat dort beaucoup."
+    },
+    {
+      "id": 3,
+      "english": "Goldfish",
+      "french": "Poisson rouge",
+      "example": "The goldfish is orange. - Le poisson rouge est orange."
+    },
+    {
+      "id": 4,
+      "english": "Hamster",
+      "french": "Hamster",
+      "example": "The hamster runs on its wheel. - Le hamster court sur sa roue."
+    },
+    {
+      "id": 5,
+      "english": "Parrot",
+      "french": "Perroquet",
+      "example": "The parrot talks. - Le perroquet parle."
+    },
+    {
+      "id": 6,
+      "english": "Rabbit",
+      "french": "Lapin",
+      "example": "The rabbit hops in the garden. - Le lapin saute dans le jardin."
+    }
+  ]
+}

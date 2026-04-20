@@ -1,0 +1,43 @@
+{
+  "id": "w00095",
+  "title": "Breads & Grains",
+  "day": 95,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bread",
+      "french": "Pain",
+      "example": "Fresh bread from the bakery. - Pain frais de la boulangerie."
+    },
+    {
+      "id": 2,
+      "english": "Croissant",
+      "french": "Croissant",
+      "example": "A buttery croissant. - Un croissant beurré."
+    },
+    {
+      "id": 3,
+      "english": "Rice",
+      "french": "Riz",
+      "example": "Steamed rice with meals. - Riz vapeur avec les repas."
+    },
+    {
+      "id": 4,
+      "english": "Pasta",
+      "french": "Pâtes",
+      "example": "Pasta for dinner tonight. - Des pâtes pour le dîner ce soir."
+    },
+    {
+      "id": 5,
+      "english": "Noodles",
+      "french": "Nouilles",
+      "example": "Asian noodles are good. - Les nouilles asiatiques sont bonnes."
+    },
+    {
+      "id": 6,
+      "english": "Cereal",
+      "french": "Céréales",
+      "example": "Breakfast cereal with milk. - Céréales du petit-déjeuner avec du lait."
+    }
+  ]
+}

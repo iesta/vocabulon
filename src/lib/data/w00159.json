@@ -1,0 +1,43 @@
+{
+  "id": "w00159",
+  "title": "Accessories",
+  "day": 159,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hat",
+      "french": "Chapeau",
+      "example": "Sun hat for beach. - Chapeau de soleil pour la plage."
+    },
+    {
+      "id": 2,
+      "english": "Cap",
+      "french": "Casquette",
+      "example": "Baseball cap. - Casquette de baseball."
+    },
+    {
+      "id": 3,
+      "english": "Scarf",
+      "french": "Écharpe",
+      "example": "Wool scarf. - Écharpe en laine."
+    },
+    {
+      "id": 4,
+      "english": "Gloves",
+      "french": "Gants",
+      "example": "Winter gloves. - Gants d'hiver."
+    },
+    {
+      "id": 5,
+      "english": "Belt",
+      "french": "Ceinture",
+      "example": "Leather belt. - Ceinture en cuir."
+    },
+    {
+      "id": 6,
+      "english": "Tie",
+      "french": "Cravate",
+      "example": "Business tie. - Cravate de bureau."
+    }
+  ]
+}

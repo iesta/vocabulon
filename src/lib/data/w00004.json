@@ -1,0 +1,13 @@
+{
+  "id": "w00004",
+  "title": "Actions & Movement",
+  "day": 4,
+  "words": [
+    { "id": 1, "english": "To run", "french": "Courir", "example": "I run every morning in the park. - Je cours chaque matin dans le parc." },
+    { "id": 2, "english": "To swim", "french": "Nager", "example": "My sister knows how to swim. - Ma sœur sait nager." },
+    { "id": 3, "english": "To play", "french": "Jouer", "example": "The children play in the garden. - Les enfants jouent dans le jardin." },
+    { "id": 4, "english": "To read", "french": "Lire", "example": "I like to read books in French. - J'aime lire des livres en français." },
+    { "id": 5, "english": "To write", "french": "Écrire", "example": "She writes letters to her friends. - Elle écrit des lettres à ses amis." },
+    { "id": 6, "english": "To speak", "french": "Parler", "example": "Do you speak French? - Parlez-vous français?" }
+  ]
+}

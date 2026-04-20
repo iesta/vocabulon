@@ -1,0 +1,43 @@
+{
+  "id": "w00157",
+  "title": "Bottoms",
+  "day": 157,
+  "words": [
+    {
+      "id": 1,
+      "english": "Pants",
+      "french": "Pantalon",
+      "example": "Blue jeans pants. - Pantalon bleu jeans."
+    },
+    {
+      "id": 2,
+      "english": "Shorts",
+      "french": "Short",
+      "example": "Beach shorts. - Short de plage."
+    },
+    {
+      "id": 3,
+      "english": "Skirt",
+      "french": "Jupe",
+      "example": "Pleated skirt. - Jupe plissée."
+    },
+    {
+      "id": 4,
+      "english": "Jeans",
+      "french": "Jeans",
+      "example": "Ripped jeans style. - Style jeans déchirés."
+    },
+    {
+      "id": 5,
+      "english": "Trousers",
+      "french": "Pantalons",
+      "example": "Dress trousers. - Pantalons habillés."
+    },
+    {
+      "id": 6,
+      "english": "Leggings",
+      "french": "Leggings",
+      "example": "Athletic leggings. - Leggings de sport."
+    }
+  ]
+}

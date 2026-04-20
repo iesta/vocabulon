@@ -1,0 +1,22 @@
+{
+  "id": "p00079",
+  "title": "Expert: Sophisticated",
+  "day": 79,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I wholeheartedly agree.",
+      "french": "Je suis entièrement d'accord."
+    },
+    {
+      "id": 2,
+      "english": "That's a multifaceted issue.",
+      "french": "C'est un problème multifacette."
+    },
+    {
+      "id": 3,
+      "english": "We must consider all variables.",
+      "french": "Nous devons considérer toutes les variables."
+    }
+  ]
+}

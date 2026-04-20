@@ -1,0 +1,43 @@
+{
+  "id": "w00155",
+  "title": "Weather Verbs",
+  "day": 155,
+  "words": [
+    {
+      "id": 1,
+      "english": "Rain",
+      "french": "Pleuvoir",
+      "example": "It's raining outside. - Il pleut dehors."
+    },
+    {
+      "id": 2,
+      "english": "Snow",
+      "french": "Neiger",
+      "example": "It's snowing heavily. - Il neige fort."
+    },
+    {
+      "id": 3,
+      "english": "Storm",
+      "french": "Tempêter",
+      "example": "It storming last night. - Il a tempêté cette nuit."
+    },
+    {
+      "id": 4,
+      "english": "Thunder",
+      "french": "Tonner",
+      "example": "It's thundering. - Ça tonne."
+    },
+    {
+      "id": 5,
+      "english": "Flood",
+      "french": "Inonder",
+      "example": "The river flooded. - La rivière a inondé."
+    },
+    {
+      "id": 6,
+      "english": "Gust",
+      "french": "Gonfler",
+      "example": "The wind gusted strongly. - Le vent a gonflé fortement."
+    }
+  ]
+}

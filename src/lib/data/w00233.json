@@ -1,0 +1,43 @@
+{
+  "id": "w00233",
+  "title": "Creative Jobs",
+  "day": 233,
+  "words": [
+    {
+      "id": 1,
+      "english": "Artist",
+      "french": "Artiste",
+      "example": "Visual artist gallery. - Galerie d'artista visuel."
+    },
+    {
+      "id": 2,
+      "english": "Musician",
+      "french": "Musicien",
+      "example": "Professional musician performance. - Performance de musicienne professionnelle."
+    },
+    {
+      "id": 3,
+      "english": "Photographer",
+      "french": "Photographe",
+      "example": "Wedding photographer coverage. - Couverture du photographe de mariage."
+    },
+    {
+      "id": 4,
+      "english": "Writer",
+      "french": "Écrivain",
+      "example": "Novel writer creative process. - Processus créatif de l'écrivaine de roman."
+    },
+    {
+      "id": 5,
+      "english": "Actor",
+      "french": "Acteur",
+      "example": "Film actor career. - Carrière d'acteur de film."
+    },
+    {
+      "id": 6,
+      "english": "Journalist",
+      "french": "Journaliste",
+      "example": "News journalist reporting. - Rapportage du journaliste d'actualités."
+    }
+  ]
+}

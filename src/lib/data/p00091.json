@@ -1,0 +1,22 @@
+{
+  "id": "p00091",
+  "title": "Expert: Historical",
+  "day": 91,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Those who cannot remember the past are condemned to repeat it.",
+      "french": "Ceux qui ne peuvent se souvenir du passé sont condamnés à le répéter."
+    },
+    {
+      "id": 2,
+      "english": "History is written by the victors.",
+      "french": "L'histoire est écrite par les vainqueurs."
+    },
+    {
+      "id": 3,
+      "english": "The past illuminates the present.",
+      "french": "Le passé éclaire le présent."
+    }
+  ]
+}

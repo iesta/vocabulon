@@ -1,0 +1,43 @@
+{
+  "id": "w00189",
+  "title": "Academic",
+  "day": 189,
+  "words": [
+    {
+      "id": 1,
+      "english": "Degree",
+      "french": "Diplôme",
+      "example": "College degree earned. - Diplôme universitaire obtenu."
+    },
+    {
+      "id": 2,
+      "english": "Graduate",
+      "french": "Diplômé",
+      "example": "Graduate ceremony today. - Cérémonie de diplômés aujourd'hui."
+    },
+    {
+      "id": 3,
+      "english": "Bachelor",
+      "french": "Licence",
+      "example": "Bachelor degree completion. - Completion de licence."
+    },
+    {
+      "id": 4,
+      "english": "Scholarship",
+      "french": "Bourse",
+      "example": "Academic scholarship award. - Attribution de bourse académique."
+    },
+    {
+      "id": 5,
+      "english": "Research",
+      "french": "Recherche",
+      "example": "Research paper project. - Projet de travail de recherche."
+    },
+    {
+      "id": 6,
+      "english": "Thesis",
+      "french": "Thèse",
+      "example": "Master's thesis defense. - Défense de thèse de maîtrise."
+    }
+  ]
+}

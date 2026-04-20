@@ -1,0 +1,43 @@
+{
+  "id": "w00142",
+  "title": "Giving & Taking",
+  "day": 142,
+  "words": [
+    {
+      "id": 1,
+      "english": "Give",
+      "french": "Donner",
+      "example": "Give me a gift. - Donne-moi un cadeau."
+    },
+    {
+      "id": 2,
+      "english": "Take",
+      "french": "Prendre",
+      "example": "Take your time. - Prends ton temps."
+    },
+    {
+      "id": 3,
+      "english": "Share",
+      "french": "Partager",
+      "example": "Share with others. - Partage avec les autres."
+    },
+    {
+      "id": 4,
+      "english": "Borrow",
+      "french": "Emprunter",
+      "example": "Borrow a book. - Emparunte un livre."
+    },
+    {
+      "id": 5,
+      "english": "Lend",
+      "french": "Prêter",
+      "example": "Lend me your pen. - Prête-moi ton stylo."
+    },
+    {
+      "id": 6,
+      "english": "Return",
+      "french": "Rendre",
+      "example": "Return the borrowed item. - Rends l'objet emprunté."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00021",
+  "title": "Weather V2",
+  "day": 21,
+  "words": [
+    {
+      "id": 1,
+      "english": "Weather",
+      "french": "Temps / Météo",
+      "example": "What's the weather like today? - Quel temps fait-il aujourd'hui?"
+    },
+    {
+      "id": 2,
+      "english": "Hot",
+      "french": "Chaud",
+      "example": "It's very hot in summer. - Il fait très chaud en été."
+    },
+    {
+      "id": 3,
+      "english": "Cold",
+      "french": "Froid",
+      "example": "It's too cold outside. - Il fait trop froid dehors."
+    },
+    {
+      "id": 4,
+      "english": "Cloudy",
+      "french": "Nuageux",
+      "example": "It's cloudy today. - Le ciel est nuageux aujourd'hui."
+    },
+    {
+      "id": 5,
+      "english": "Snow",
+      "french": "Neige",
+      "example": "I hope it snows at Christmas. - J'espère qu'il neigera à Noël."
+    },
+    {
+      "id": 6,
+      "english": "Wind",
+      "french": "Vent",
+      "example": "The wind is very strong today. - Le vent est très fort aujourd'hui."
+    }
+  ]
+}

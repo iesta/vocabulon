@@ -1,0 +1,43 @@
+{
+  "id": "w00053",
+  "title": "Outdoor Activities",
+  "day": 53,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hiking",
+      "french": "Randonnée",
+      "example": "Hiking in the Alps is amazing. - La randonnée dans les Alpes est incroyable."
+    },
+    {
+      "id": 2,
+      "english": "Camping",
+      "french": "Camping",
+      "example": "We did camping last summer. - Nous avons fait du camping l'été dernier."
+    },
+    {
+      "id": 3,
+      "english": "Climbing",
+      "french": "Escalade",
+      "example": "Climbing needs courage. - L'escalade demande du courage."
+    },
+    {
+      "id": 4,
+      "english": "Surfing",
+      "french": "Surf",
+      "example": "The waves are perfect for surfing. - Les vagues sont parfaites pour le surf."
+    },
+    {
+      "id": 5,
+      "english": "Skiing",
+      "french": "Ski",
+      "example": "We go skiing in winter. - Nous allons skier en hiver."
+    },
+    {
+      "id": 6,
+      "english": "Skateboarding",
+      "french": "Skateboard",
+      "example": "He learned skateboarding tricks. - Il a appris des tricks en skateboard."
+    }
+  ]
+}

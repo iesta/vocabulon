@@ -1,0 +1,43 @@
+{
+  "id": "w00065",
+  "title": "Sea Animals",
+  "day": 65,
+  "words": [
+    {
+      "id": 1,
+      "english": "Dolphin",
+      "french": "Dauphin",
+      "example": "Dolphins are smart. - Les dauphins sont intelligents."
+    },
+    {
+      "id": 2,
+      "english": "Whale",
+      "french": "Baleine",
+      "example": "The whale is huge. - La baleine est énorme."
+    },
+    {
+      "id": 3,
+      "english": "Shark",
+      "french": "Requin",
+      "example": "The shark is dangerous. - Le requin est dangereux."
+    },
+    {
+      "id": 4,
+      "english": "Octopus",
+      "french": "Poulpe",
+      "example": "The octopus has eight arms. - Le poulpe a huit bras."
+    },
+    {
+      "id": 5,
+      "english": "Jellyfish",
+      "french": "Méduse",
+      "example": "The jellyfish stings. - La méduse pique."
+    },
+    {
+      "id": 6,
+      "english": "Seahorse",
+      "french": "Hippocampe",
+      "example": "The seahorse is tiny. - L'hippocampe est minuscule."
+    }
+  ]
+}

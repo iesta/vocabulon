@@ -1,0 +1,13 @@
+{
+  "id": "w00018",
+  "title": "Movies & TV",
+  "day": 18,
+  "words": [
+    { "id": 1, "english": "Movie", "french": "Film", "example": "This movie is really scary! - Ce film est vraiment effrayant!" },
+    { "id": 2, "english": "Series", "french": "Série", "example": "I'm watching a great series on Netflix. - Je regarde une super série sur Netflix." },
+    { "id": 3, "english": "Actor", "french": "Acteur", "example": "He wants to be an actor. - Il veut devenir acteur." },
+    { "id": 4, "english": "Scene", "french": "Scène", "example": "This is the best scene in the movie. - C'est la meilleure scène du film." },
+    { "id": 5, "english": "To watch", "french": "Regarder", "example": "I watch TV every evening. - Je regarde la télé chaque soir." },
+    { "id": 6, "english": "Fun", "french": "Drôle / Amusant", "example": "That was really funny! - C'était vraiment drôle!" }
+  ]
+}

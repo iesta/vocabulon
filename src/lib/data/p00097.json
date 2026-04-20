@@ -1,0 +1,22 @@
+{
+  "id": "p00097",
+  "title": "Expert: Epistemological",
+  "day": 97,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Skepticism is the beginning of wisdom.",
+      "french": "Le scepticisme est le début de la sagesse."
+    },
+    {
+      "id": 2,
+      "english": "A priori knowledge exists.",
+      "french": "La connaissance a priori existe."
+    },
+    {
+      "id": 3,
+      "english": "Empirical evidence validates theories.",
+      "french": "Les preuves empiriques valident les théories."
+    }
+  ]
+}

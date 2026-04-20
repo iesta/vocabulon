@@ -1,0 +1,22 @@
+{
+  "id": "p00076",
+  "title": "Expert: Social Issues",
+  "day": 76,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Social inequality persists.",
+      "french": "Les inégalités sociales persistent."
+    },
+    {
+      "id": 2,
+      "english": "Climate justice is urgent.",
+      "french": "La justice climatique est urgente."
+    },
+    {
+      "id": 3,
+      "english": "Human rights must be protected.",
+      "french": "Les droits de l'homme doivent être protégés."
+    }
+  ]
+}

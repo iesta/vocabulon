@@ -1,0 +1,43 @@
+{
+  "id": "w00200",
+  "title": "In-Laws",
+  "day": 200,
+  "words": [
+    {
+      "id": 1,
+      "english": "Mother-in-law",
+      "french": "Belle-mère",
+      "example": "Mother-in-law relationship. - Relation avec la belle-mère."
+    },
+    {
+      "id": 2,
+      "english": "Father-in-law",
+      "french": "Beau-père",
+      "example": "Father-in-law approval. - Approbation du beau-père."
+    },
+    {
+      "id": 3,
+      "english": "Brother-in-law",
+      "french": "Beau-frère",
+      "example": "Brother-in-law introductions. - Présentations du beau-frère."
+    },
+    {
+      "id": 4,
+      "english": "Sister-in-law",
+      "french": "Belle-sœur",
+      "example": "Sister-in-law friendship. - Amitié avec la belle-sœur."
+    },
+    {
+      "id": 5,
+      "english": "Stepfather",
+      "french": "Beau-père",
+      "example": "Stepfather adoption. - Adoption du beau-père."
+    },
+    {
+      "id": 6,
+      "english": "Stepbrother",
+      "french": "Demi-frère",
+      "example": "Stepbrother bonding time. - Temps de rapprochement demi-frère."
+    }
+  ]
+}

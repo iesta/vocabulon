@@ -1,0 +1,13 @@
+{
+  "id": "w00015",
+  "title": "Travel & Holidays",
+  "day": 15,
+  "words": [
+    { "id": 1, "english": "Airport", "french": "Aéroport", "example": "Our flight leaves from this airport. - Notre vol part de cet aéroport." },
+    { "id": 2, "english": "Hotel", "french": "Hôtel", "example": "The hotel is very nice and clean. - L'hôtel est très beau et propre." },
+    { "id": 3, "english": "Beach", "french": "Plage", "example": "Let's go to the beach today! - Allons à la plage aujourd'hui!" },
+    { "id": 4, "english": "Suitcase", "french": "Valise", "example": "I need to pack my suitcase. - Je dois faire ma valise." },
+    { "id": 5, "english": "To travel", "french": "Voyager", "example": "I love to travel around Europe. - J'adore voyager en Europe." },
+    { "id": 6, "english": "Vacation", "french": "Vacances", "example": "Where are you going for vacation? - Où allez-vous en vacances?" }
+  ]
+}

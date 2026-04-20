@@ -1,0 +1,22 @@
+{
+  "id": "p00044",
+  "title": "Expressing Doubt",
+  "day": 44,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I'm not sure about that.",
+      "french": "Je n'en suis pas sûr."
+    },
+    {
+      "id": 2,
+      "english": "That doesn't make sense.",
+      "french": "Ça n'a pas de sens."
+    },
+    {
+      "id": 3,
+      "english": "I have my doubts.",
+      "french": "J'ai des doutes."
+    }
+  ]
+}

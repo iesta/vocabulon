@@ -1,0 +1,22 @@
+{
+  "id": "p00081",
+  "title": "Expert: Legal",
+  "day": 81,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The defendant pleaded not guilty.",
+      "french": "Le défendeur a plaidé non coupable."
+    },
+    {
+      "id": 2,
+      "english": "The verdict was unanimous.",
+      "french": "Le verdict était unanime."
+    },
+    {
+      "id": 3,
+      "english": "Counsel for the plaintiff presented evidence.",
+      "french": "L'avocat du demandeur a présenté des preuves."
+    }
+  ]
+}

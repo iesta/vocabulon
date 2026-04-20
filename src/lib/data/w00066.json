@@ -1,0 +1,43 @@
+{
+  "id": "w00066",
+  "title": "Insects",
+  "day": 66,
+  "words": [
+    {
+      "id": 1,
+      "english": "Butterfly",
+      "french": "Papillon",
+      "example": "The butterfly is beautiful. - Le papillon est beau."
+    },
+    {
+      "id": 2,
+      "english": "Bee",
+      "french": "Abeille",
+      "example": "Bees make honey. - Les abeilles font du miel."
+    },
+    {
+      "id": 3,
+      "english": "Ant",
+      "french": "Fourmi",
+      "example": "Ants work together. - Les fourmis travaillent ensemble."
+    },
+    {
+      "id": 4,
+      "english": "Ladybug",
+      "french": "Coccinelle",
+      "example": "The ladybug is red. - La coccinelle est rouge."
+    },
+    {
+      "id": 5,
+      "english": "Spider",
+      "french": "Araignée",
+      "example": "The spider makes a web. - L'araignée fait une toile."
+    },
+    {
+      "id": 6,
+      "english": "Dragonfly",
+      "french": "Libellule",
+      "example": "The dragonfly flies fast. - La libellule vole vite."
+    }
+  ]
+}

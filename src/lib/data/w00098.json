@@ -1,0 +1,43 @@
+{
+  "id": "w00098",
+  "title": "Sweets & Desserts",
+  "day": 98,
+  "words": [
+    {
+      "id": 1,
+      "english": "Chocolate",
+      "french": "Chocolat",
+      "example": "Dark chocolate is healthy. - Le chocolat noir est sain."
+    },
+    {
+      "id": 2,
+      "english": "Cake",
+      "french": "Gâteau",
+      "example": "Birthday cake time! - C'est l'heure du gâteau d'anniversaire!"
+    },
+    {
+      "id": 3,
+      "english": "Cookie",
+      "french": "Biscuit",
+      "example": "Chocolate chip cookies. - Biscuits aux pépites de chocolat."
+    },
+    {
+      "id": 4,
+      "english": "Candy",
+      "french": "Bonbon",
+      "example": "Kids love candy. - Les enfants adorent les bonbons."
+    },
+    {
+      "id": 5,
+      "english": "Pie",
+      "french": "Tarte",
+      "example": "Apple pie is American. - La tarte aux pommes est américaine."
+    },
+    {
+      "id": 6,
+      "english": "Pudding",
+      "french": "Budino",
+      "example": "Vanilla pudding dessert. - Dessert budino à la vanille."
+    }
+  ]
+}

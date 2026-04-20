@@ -1,0 +1,43 @@
+{
+  "id": "w00097",
+  "title": "Hot Drinks",
+  "day": 97,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hot chocolate",
+      "french": "Chocolat chaud",
+      "example": "Hot chocolate on cold days. - Chocolat chaud les jours froids."
+    },
+    {
+      "id": 2,
+      "english": "Latte",
+      "french": "Latté",
+      "example": "A vanilla latte. - Un latté à la vanille."
+    },
+    {
+      "id": 3,
+      "english": "Cappuccino",
+      "french": "Cappuccino",
+      "example": "Foamy cappuccino. - Cappuccino mousseux."
+    },
+    {
+      "id": 4,
+      "english": "Espresso",
+      "french": "Espresso",
+      "example": "A strong espresso. - Un espresso fort."
+    },
+    {
+      "id": 5,
+      "english": "Macchiato",
+      "french": "Macchiato",
+      "example": "Caramel macchiato. - Macchiato au caramel."
+    },
+    {
+      "id": 6,
+      "english": "Mocha",
+      "french": "Moka",
+      "example": "Chocolate mocha coffee. - Café moka au chocolat."
+    }
+  ]
+}

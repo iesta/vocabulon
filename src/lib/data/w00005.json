@@ -1,0 +1,13 @@
+{
+  "id": "w00005",
+  "title": "Places & Location",
+  "day": 5,
+  "words": [
+    { "id": 1, "english": "House", "french": "Maison", "example": "My house has three bedrooms. - Ma maison a trois chambres." },
+    { "id": 2, "english": "School", "french": "École", "example": "I go to school every day except Sunday. - Je vais à l'école chaque jour sauf dimanche." },
+    { "id": 3, "english": "City", "french": "Ville", "example": "Paris is a beautiful city. - Paris est une belle ville." },
+    { "id": 4, "english": "Country", "french": "Pays", "example": "France is a country in Europe. - La France est un pays en Europe." },
+    { "id": 5, "english": "Street", "french": "Rue", "example": "The street is very busy. - La rue est très animée." },
+    { "id": 6, "english": "Here", "french": "Ici", "example": "Come here, I have something to show you. - Viens ici, j'ai quelque chose à te montrer." }
+  ]
+}

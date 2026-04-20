@@ -1,0 +1,43 @@
+{
+  "id": "w00064",
+  "title": "Birds",
+  "day": 64,
+  "words": [
+    {
+      "id": 1,
+      "english": "Eagle",
+      "french": "Aigle",
+      "example": "The eagle soars. - L'aigle plane."
+    },
+    {
+      "id": 2,
+      "english": "Owl",
+      "french": "Hibou",
+      "example": "The owl hunts at night. - Le hibou chasse la nuit."
+    },
+    {
+      "id": 3,
+      "english": "Penguin",
+      "french": "Manchot",
+      "example": "Penguins live in cold places. - Les manchots vivent dans des endroits froids."
+    },
+    {
+      "id": 4,
+      "english": "Sparrow",
+      "french": "Moineau",
+      "example": "The sparrow sings. - Le moineau chante."
+    },
+    {
+      "id": 5,
+      "english": "Flamingo",
+      "french": "Flamant",
+      "example": "The flamingo is pink. - Le flamant est rose."
+    },
+    {
+      "id": 6,
+      "english": "Peacock",
+      "french": "Paon",
+      "example": "The peacock displays its feathers. - Le paon display ses plumes."
+    }
+  ]
+}

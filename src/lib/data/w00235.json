@@ -1,0 +1,43 @@
+{
+  "id": "w00235",
+  "title": "Sports & Fitness",
+  "day": 235,
+  "words": [
+    {
+      "id": 1,
+      "english": "Athlete",
+      "french": "Athlète",
+      "example": "Professional athlete dedication. - Dévouement d'athlète professionnel."
+    },
+    {
+      "id": 2,
+      "english": "Coach",
+      "french": "Entraîneur",
+      "example": "Team sports coach. - Entraîneur d'équipes de sport."
+    },
+    {
+      "id": 3,
+      "english": "Trainer",
+      "french": "Formateur",
+      "example": "Personal trainer sessions. - Séances de formatrice personnelle."
+    },
+    {
+      "id": 4,
+      "english": "Referee",
+      "french": "Arbitre",
+      "example": "Fair referee decisions. - Décisions justes de l'arbitre."
+    },
+    {
+      "id": 5,
+      "english": "Trainer",
+      "french": "Dresseur",
+      "example": "Animal trainer skills. - Compétences du dresseur d'animaux."
+    },
+    {
+      "id": 6,
+      "english": " lifeguard",
+      "french": "Maître-nageur",
+      "example": "Pool lifeguard vigilance. - Vigilance du maître-nageur."
+    }
+  ]
+}

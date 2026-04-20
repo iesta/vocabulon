@@ -1,0 +1,43 @@
+{
+  "id": "w00117",
+  "title": "Communication",
+  "day": 117,
+  "words": [
+    {
+      "id": 1,
+      "english": "Email",
+      "french": "Email",
+      "example": "Send an email. - Envoie un email."
+    },
+    {
+      "id": 2,
+      "english": "Message",
+      "french": "Message",
+      "example": "Text message received. - Message texte reçu."
+    },
+    {
+      "id": 3,
+      "english": "Video call",
+      "french": "Appel vidéo",
+      "example": "Let's do a video call. - Faisons un appel vidéo."
+    },
+    {
+      "id": 4,
+      "english": "Voicemail",
+      "french": "Messagerie",
+      "example": "Check your voicemail. - Vérifie ta messagerie."
+    },
+    {
+      "id": 5,
+      "english": "Chat",
+      "french": "Discussion",
+      "example": "Online chat support. - Support par discussion en ligne."
+    },
+    {
+      "id": 6,
+      "english": "Conference",
+      "french": "Conférence",
+      "example": "Work conference call. - Appel conférence de travail."
+    }
+  ]
+}

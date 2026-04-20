@@ -1,0 +1,43 @@
+{
+  "id": "w00168",
+  "title": "Sizes",
+  "day": 168,
+  "words": [
+    {
+      "id": 1,
+      "english": "Small",
+      "french": "Petit",
+      "example": "Small size fit. - Taille petit."
+    },
+    {
+      "id": 2,
+      "english": "Medium",
+      "french": "Moyen",
+      "example": "Medium is just right. - Le moyen est juste bien."
+    },
+    {
+      "id": 3,
+      "english": "Large",
+      "french": "Grand",
+      "example": "Large T-shirt. - Grand t-shirt."
+    },
+    {
+      "id": 4,
+      "english": "Extra large",
+      "french": "Très grand",
+      "example": "Extra large XL. - Très grand XL."
+    },
+    {
+      "id": 5,
+      "english": "Fitting",
+      "french": "Essayage",
+      "example": "Try it for fitting. - Essaie-le pour l'essayage."
+    },
+    {
+      "id": 6,
+      "english": "Tailored",
+      "french": "Sur mesure",
+      "example": "Tailored suit fit. - Coupe de costume sur mesure."
+    }
+  ]
+}

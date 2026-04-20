@@ -1,0 +1,43 @@
+{
+  "id": "w00125",
+  "title": "Dance",
+  "day": 125,
+  "words": [
+    {
+      "id": 1,
+      "english": "Dance",
+      "french": "Danse",
+      "example": "Dance performance. - Spectacle de danse."
+    },
+    {
+      "id": 2,
+      "english": "Ballet",
+      "french": "Ballet",
+      "example": "Classical ballet show. - Spectacle de ballet classique."
+    },
+    {
+      "id": 3,
+      "english": "Hip hop",
+      "french": "Hip hop",
+      "example": "Hip hop dance style. - Style de danse hip hop."
+    },
+    {
+      "id": 4,
+      "english": "Salsa",
+      "french": "Salsa",
+      "example": "Latin salsa dancing. - Danse salsa latine."
+    },
+    {
+      "id": 5,
+      "english": "Waltz",
+      "french": "Valse",
+      "example": "Elegant waltz music. - Musique de valse élégante."
+    },
+    {
+      "id": 6,
+      "english": "Choreography",
+      "french": "Chorégraphie",
+      "example": "Dance choreography. - Chorégraphe de danse."
+    }
+  ]
+}

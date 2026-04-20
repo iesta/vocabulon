@@ -1,0 +1,22 @@
+{
+  "id": "p00069",
+  "title": "Advanced: Economics",
+  "day": 69,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Supply and demand determine prices.",
+      "french": "L'offre et la demande déterminent les prix."
+    },
+    {
+      "id": 2,
+      "english": "Inflation erodes purchasing power.",
+      "french": "L'inflation érode le pouvoir d'achat."
+    },
+    {
+      "id": 3,
+      "english": "Economic growth is unsustainable.",
+      "french": "La croissance économique n'est pas durable."
+    }
+  ]
+}

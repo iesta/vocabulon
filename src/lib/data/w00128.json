@@ -1,0 +1,43 @@
+{
+  "id": "w00128",
+  "title": "Museums",
+  "day": 128,
+  "words": [
+    {
+      "id": 1,
+      "english": "Museum",
+      "french": "Musée",
+      "example": "Visit the art museum. - Visite du musée d'art."
+    },
+    {
+      "id": 2,
+      "english": "Exhibit",
+      "french": "Exposition",
+      "example": "Special exhibit opening. - Ouverture d'exposition spéciale."
+    },
+    {
+      "id": 3,
+      "english": "Artifact",
+      "french": "Artefact",
+      "example": "Ancient artifact display. - Affichage d'artefact ancien."
+    },
+    {
+      "id": 4,
+      "english": "Sculpture",
+      "french": "Sculpture",
+      "example": "Marble sculpture statue. - Statue de sculpture en marbre."
+    },
+    {
+      "id": 5,
+      "english": "Gallery",
+      "french": "Galerie",
+      "example": "Art gallery opening. - Ouverture de galerie d'art."
+    },
+    {
+      "id": 6,
+      "english": "Curator",
+      "french": "Commissaire",
+      "example": "Museum curator tour. - Visite avec le commissaire."
+    }
+  ]
+}

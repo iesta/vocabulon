@@ -1,0 +1,13 @@
+{
+  "id": "w00009",
+  "title": "Descriptions",
+  "day": 9,
+  "words": [
+    { "id": 1, "english": "Beautiful", "french": "Beau / Belle", "example": "This is a beautiful sunset. - C'est un beau coucher de soleil." },
+    { "id": 2, "english": "Big", "french": "Grand", "example": "Paris is a big city. - Paris est une grande ville." },
+    { "id": 3, "english": "Small", "french": "Petit", "example": "I live in a small apartment. - J'habite dans un petit appartement." },
+    { "id": 4, "english": "New", "french": "Nouveau", "example": "I bought a new bicycle yesterday. - J'ai acheté un nouveau vélo hier." },
+    { "id": 5, "english": "Old", "french": "Vieux", "example": "My grandfather lives in an old house. - Mon grand-père vit dans une vieille maison." },
+    { "id": 6, "english": "Different", "french": "Différent", "example": "Everyone is different, and that's okay. - Tout le monde est différent, et c'est normal." }
+  ]
+}

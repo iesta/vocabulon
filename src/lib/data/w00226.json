@@ -1,0 +1,43 @@
+{
+  "id": "w00226",
+  "title": "Entertainment",
+  "day": 226,
+  "words": [
+    {
+      "id": 1,
+      "english": "Cinema",
+      "french": "Cinéma",
+      "example": "New cinema release. - Nouvelle sortie au cinéma."
+    },
+    {
+      "id": 2,
+      "english": "Theater",
+      "french": "Théâtre",
+      "example": "Broadway theater show. - Spectacle de théâtre Broadway."
+    },
+    {
+      "id": 3,
+      "english": "Concert hall",
+      "french": "Salle de concert",
+      "example": "Concert hall acoustics. - Acoustique de salle de concert."
+    },
+    {
+      "id": 4,
+      "english": "Arcade",
+      "french": "Salle d'arcade",
+      "example": "Retro arcade games. - Jeux d'arcade rétro."
+    },
+    {
+      "id": 5,
+      "english": "Amusement park",
+      "french": "Parc d'attractions",
+      "example": "Roller coaster at amusement park. - Montagnes russes au parc d'attractions."
+    },
+    {
+      "id": 6,
+      "english": "Zoo",
+      "french": "Zoo",
+      "example": "Zoo animal exhibits. - Expositions d'animaux du zoo."
+    }
+  ]
+}

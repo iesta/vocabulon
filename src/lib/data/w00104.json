@@ -1,0 +1,43 @@
+{
+  "id": "w00104",
+  "title": "Devices",
+  "day": 104,
+  "words": [
+    {
+      "id": 1,
+      "english": "Smartphone",
+      "french": "Smartphone",
+      "example": "Check your smartphone. - Vérifie ton smartphone."
+    },
+    {
+      "id": 2,
+      "english": "Tablet",
+      "french": "Tablette",
+      "example": "The tablet is touch screen. - La tablette est tactile."
+    },
+    {
+      "id": 3,
+      "english": "Laptop",
+      "french": "Ordinateur portable",
+      "example": "My laptop is fast. - Mon ordinateur portable est rapide."
+    },
+    {
+      "id": 4,
+      "english": "Computer",
+      "french": "Ordinateur",
+      "example": "Desktop computer setup. - Configuration ordinateur de bureau."
+    },
+    {
+      "id": 5,
+      "english": "Smartwatch",
+      "french": "Montre connectée",
+      "example": "My smartwatch tracks steps. - Ma montre connectée compte les pas."
+    },
+    {
+      "id": 6,
+      "english": "E-reader",
+      "french": "Liseuse",
+      "example": "I read on my e-reader. - Je lis sur ma liseuse."
+    }
+  ]
+}

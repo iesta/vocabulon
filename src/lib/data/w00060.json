@@ -1,0 +1,43 @@
+{
+  "id": "w00060",
+  "title": "Spectator Sports",
+  "day": 60,
+  "words": [
+    {
+      "id": 1,
+      "english": "Stadium",
+      "french": "Stade",
+      "example": "The stadium was full. - Le stade était plein."
+    },
+    {
+      "id": 2,
+      "english": "Championship",
+      "french": "Championnat",
+      "example": "The world championship is here. - Le championnat du monde est ici."
+    },
+    {
+      "id": 3,
+      "english": "Score",
+      "french": "Score",
+      "example": "What's the score? - Quel est le score?"
+    },
+    {
+      "id": 4,
+      "english": "Fans",
+      "french": "Fans",
+      "example": "The fans were cheering. - Les fans acclamient."
+    },
+    {
+      "id": 5,
+      "english": "Referee",
+      "french": "Arbitre",
+      "example": "The referee made a call. - L'arbitre a pris une décision."
+    },
+    {
+      "id": 6,
+      "english": "Trophy",
+      "french": "Trophée",
+      "example": "They won the trophy! - Ils ont gagné le trophée!"
+    }
+  ]
+}

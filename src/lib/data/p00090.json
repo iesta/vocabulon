@@ -1,0 +1,22 @@
+{
+  "id": "p00090",
+  "title": "Expert: Ethical",
+  "day": 90,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Ethical dilemmas require moral reasoning.",
+      "french": "Les dilemmes éthiques nécessitent un raisonnement moral."
+    },
+    {
+      "id": 2,
+      "english": "Morality transcends legality.",
+      "french": "La moralité transcende la légalité."
+    },
+    {
+      "id": 3,
+      "english": "Utilitarianism maximizes well-being.",
+      "french": "L'utilitarisme maximise le bien-être."
+    }
+  ]
+}

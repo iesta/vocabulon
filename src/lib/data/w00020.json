@@ -1,0 +1,13 @@
+{
+  "id": "w00020",
+  "title": "Friends & Family",
+  "day": 20,
+  "words": [
+    { "id": 1, "english": "Best friend", "french": "Meilleur ami", "example": "She's my best friend in the whole world. - Elle est ma meilleure amie au monde." },
+    { "id": 2, "english": "Party", "french": "Fête / Soirée", "example": "Are you coming to my party? - Tu viens à ma fête?" },
+    { "id": 3, "english": "Birthday", "french": "Anniversaire", "example": "Happy birthday to you! - Joyeux anniversaire!" },
+    { "id": 4, "english": "Gift", "french": "Cadeau", "example": "Thank you for this wonderful gift! - Merci pour ce magnifique cadeau!" },
+    { "id": 5, "english": "To meet", "french": "Rencontrer", "example": "Nice to meet you! - Enchanté de te rencontrer!" },
+    { "id": 6, "english": "Together", "french": "Ensemble", "example": "We should do this together. - Nous devrions faire ça ensemble." }
+  ]
+}

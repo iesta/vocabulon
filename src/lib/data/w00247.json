@@ -1,0 +1,43 @@
+{
+  "id": "w00247",
+  "title": "Architecture",
+  "day": 247,
+  "words": [
+    {
+      "id": 1,
+      "english": "Architect",
+      "french": "Architecte",
+      "example": "Famous architect design. - Design d'architecte célèbre."
+    },
+    {
+      "id": 2,
+      "english": "Blueprint",
+      "french": "Plan",
+      "example": "Read blueprint accurately. - Lis le plan avec précision."
+    },
+    {
+      "id": 3,
+      "english": "Foundation",
+      "french": "Fondation",
+      "example": "Building foundation concrete. - Béton de fondation du bâtiment."
+    },
+    {
+      "id": 4,
+      "english": "Skyscraper",
+      "french": "Gratte-ciel",
+      "example": "City skyscraper silhouette. - Silhouette du gratte-ciel de la ville."
+    },
+    {
+      "id": 5,
+      "english": "Monument",
+      "french": "Monument",
+      "example": "Historic monument preservation. - Préservation du monument historique."
+    },
+    {
+      "id": 6,
+      "english": "Renovation",
+      "french": "Rénovation",
+      "example": "Home renovation project. - Projet de rénovation domiciliaire."
+    }
+  ]
+}

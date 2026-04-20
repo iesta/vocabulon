@@ -1,0 +1,43 @@
+{
+  "id": "w00172",
+  "title": "Air Travel",
+  "day": 172,
+  "words": [
+    {
+      "id": 1,
+      "english": "Airplane",
+      "french": "Avion",
+      "example": "Commercial airplane. - Avion commercial."
+    },
+    {
+      "id": 2,
+      "english": "Airport",
+      "french": "Aéroport",
+      "example": "International airport terminal. - Terminal d'aéroport international."
+    },
+    {
+      "id": 3,
+      "english": "Flight",
+      "french": "Vol",
+      "example": "Morning flight departure. - Départ de vol matinal."
+    },
+    {
+      "id": 4,
+      "english": "Pilot",
+      "french": "Pilote",
+      "example": "Airline pilot. - Pilote de ligne."
+    },
+    {
+      "id": 5,
+      "english": "Stewardess",
+      "french": "Hôtesse de l'air",
+      "example": "Flight attendant. - Hôtesse de l'air."
+    },
+    {
+      "id": 6,
+      "english": "Luggage",
+      "french": "Bagages",
+      "example": "Checked luggage allowance. - Allocation de bagages enregistrés."
+    }
+  ]
+}

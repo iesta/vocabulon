@@ -1,0 +1,22 @@
+{
+  "id": "p00051",
+  "title": "Philosophy",
+  "day": 51,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The unexamined life is not worth living.",
+      "french": "La vie nonexaminée ne mérite pas d'être vécue."
+    },
+    {
+      "id": 2,
+      "english": "I think, therefore I am.",
+      "french": "Je pense, donc je suis."
+    },
+    {
+      "id": 3,
+      "english": "Knowledge is power.",
+      "french": "Le savoir c'est le pouvoir."
+    }
+  ]
+}

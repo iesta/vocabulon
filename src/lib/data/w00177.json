@@ -1,0 +1,43 @@
+{
+  "id": "w00177",
+  "title": "Boats & Ships",
+  "day": 177,
+  "words": [
+    {
+      "id": 1,
+      "english": "Boat",
+      "french": "Bateau",
+      "example": "Sailboat on lake. - Bateau à voile sur le lac."
+    },
+    {
+      "id": 2,
+      "english": "Ship",
+      "french": "Navire",
+      "example": "Cruise ship size. - Taille du navire de croisière."
+    },
+    {
+      "id": 3,
+      "english": "Yacht",
+      "french": "Yacht",
+      "example": "Luxury yacht. - Yacht de luxe."
+    },
+    {
+      "id": 4,
+      "english": "Ferry",
+      "french": "Traversier",
+      "example": "Car ferry service. - Service de traversier pour autos."
+    },
+    {
+      "id": 5,
+      "english": "Dock",
+      "french": "Quai",
+      "example": "Dock the boat. - Accoste le bateau."
+    },
+    {
+      "id": 6,
+      "english": "Captain",
+      "french": "Capitaine",
+      "example": "Ship captain command. - Commande du capitaine de navire."
+    }
+  ]
+}

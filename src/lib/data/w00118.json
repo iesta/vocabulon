@@ -1,0 +1,43 @@
+{
+  "id": "w00118",
+  "title": "Music",
+  "day": 118,
+  "words": [
+    {
+      "id": 1,
+      "english": "Song",
+      "french": "Chanson",
+      "example": "My favorite song. - Ma chanson préférée."
+    },
+    {
+      "id": 2,
+      "english": "Singer",
+      "french": "Chanteur",
+      "example": "The singer is talented. - Le chanteuse est talentueuse."
+    },
+    {
+      "id": 3,
+      "english": "Band",
+      "french": "Groupe",
+      "example": "Rock band concert. - Concert de groupe de rock."
+    },
+    {
+      "id": 4,
+      "english": "Concert",
+      "french": "Concert",
+      "example": "Music concert tonight. - Concert de musique ce soir."
+    },
+    {
+      "id": 5,
+      "english": "Melody",
+      "french": "Mélodie",
+      "example": "Sweet melody. - Douce mélodie."
+    },
+    {
+      "id": 6,
+      "english": "Rhythm",
+      "french": "Rythme",
+      "example": "Dance to the rhythm. - Danse sur le rythme."
+    }
+  ]
+}

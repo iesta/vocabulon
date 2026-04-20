@@ -1,0 +1,22 @@
+{
+  "id": "p00037",
+  "title": "Memories",
+  "day": 37,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I remember the good old days.",
+      "french": "Je me souviens des bons vieux jours."
+    },
+    {
+      "id": 2,
+      "english": "This reminds me of you.",
+      "french": "Cela me rappelle de toi."
+    },
+    {
+      "id": 3,
+      "english": "I'll never forget this moment.",
+      "french": "Je n'oublierai jamais ce moment."
+    }
+  ]
+}

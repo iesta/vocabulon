@@ -1,0 +1,22 @@
+{
+  "id": "p00007",
+  "title": "School Life",
+  "day": 7,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What did you learn today?",
+      "french": "Qu'avez-vous appris aujourd'hui?"
+    },
+    {
+      "id": 2,
+      "english": "I have a lot of homework.",
+      "french": "J'ai beaucoup de devoirs."
+    },
+    {
+      "id": 3,
+      "english": "The teacher is explaining the lesson.",
+      "french": "Le professeur explique la leçon."
+    }
+  ]
+}

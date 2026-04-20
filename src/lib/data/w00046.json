@@ -1,0 +1,43 @@
+{
+  "id": "w00046",
+  "title": "Environment V3",
+  "day": 46,
+  "words": [
+    {
+      "id": 1,
+      "english": "Climate",
+      "french": "Climat",
+      "example": "The climate is changing. - Le climat change."
+    },
+    {
+      "id": 2,
+      "english": "Pollution",
+      "french": "Pollution",
+      "example": "Pollution is a big problem. - La pollution est un grand problème."
+    },
+    {
+      "id": 3,
+      "english": "Recycling",
+      "french": "Recyclage",
+      "example": "Recycling helps the planet. - Le recyclage aide la planète."
+    },
+    {
+      "id": 4,
+      "english": "Environment",
+      "french": "Environnement",
+      "example": "We must protect the environment. - Nous devons protéger l'environnement."
+    },
+    {
+      "id": 5,
+      "english": "Global warming",
+      "french": "Réchauffement climatique",
+      "example": "Global warming is real. - Le réchauffement climatique est réel."
+    },
+    {
+      "id": 6,
+      "english": "Sustainable",
+      "french": "Durable",
+      "example": "We need sustainable energy. - Nous avons besoin d'énergie durable."
+    }
+  ]
+}

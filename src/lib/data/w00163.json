@@ -1,0 +1,43 @@
+{
+  "id": "w00163",
+  "title": "Sleepwear",
+  "day": 163,
+  "words": [
+    {
+      "id": 1,
+      "english": "Pajamas",
+      "french": "Pyjama",
+      "example": "Cozy pajamas. - Pyjama confortable."
+    },
+    {
+      "id": 2,
+      "english": "Nightgown",
+      "french": "Chemise de nuit",
+      "example": "Long nightgown. - Chemise de nuit longue."
+    },
+    {
+      "id": 3,
+      "english": "Robe",
+      "french": "Peignoir",
+      "example": "Bathrobe after shower. - Peignoir après la douche."
+    },
+    {
+      "id": 4,
+      "english": "Loungewear",
+      "french": "Tenues de détente",
+      "example": "Comfortable loungewear. - Tenues de détente confortables."
+    },
+    {
+      "id": 5,
+      "english": "Slippers",
+      "french": "Pantoufles",
+      "example": "Warm bedroom slippers. - Pantoufles chaudes de chambre."
+    },
+    {
+      "id": 6,
+      "english": "Eye mask",
+      "french": "Masque de sommeil",
+      "example": "Silk eye mask. - Masque de sommeil en soie."
+    }
+  ]
+}

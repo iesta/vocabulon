@@ -1,0 +1,43 @@
+{
+  "id": "w00126",
+  "title": "Fashion",
+  "day": 126,
+  "words": [
+    {
+      "id": 1,
+      "english": "Designer",
+      "french": "Créateur",
+      "example": "Fashion designer brand. - Marque de créateur de mode."
+    },
+    {
+      "id": 2,
+      "english": "Runway",
+      "french": "Défilé",
+      "example": "Fashion runway show. - Défilé de mode sur runway."
+    },
+    {
+      "id": 3,
+      "english": "Trend",
+      "french": "Tendance",
+      "example": "Latest fashion trend. - Dernière tendance mode."
+    },
+    {
+      "id": 4,
+      "english": "Collection",
+      "french": "Collection",
+      "example": "New clothing collection. - Nouvelle collection de vêtements."
+    },
+    {
+      "id": 5,
+      "english": "Style",
+      "french": "Style",
+      "example": "Personal style expression. - Expression du style personnel."
+    },
+    {
+      "id": 6,
+      "english": "Vintage",
+      "french": "Vintage",
+      "example": "Vintage clothing store. - Magasin de vêtements vintage."
+    }
+  ]
+}

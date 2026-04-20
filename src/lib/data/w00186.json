@@ -1,0 +1,43 @@
+{
+  "id": "w00186",
+  "title": "School People",
+  "day": 186,
+  "words": [
+    {
+      "id": 1,
+      "english": "Teacher",
+      "french": "Professeur",
+      "example": "Respected teacher mentor. - Professeur mentor respecté."
+    },
+    {
+      "id": 2,
+      "english": "Student",
+      "french": "Étudiant",
+      "example": "Diligent student effort. - Effort d'étudiant diligent."
+    },
+    {
+      "id": 3,
+      "english": "Principal",
+      "french": "Directeur",
+      "example": "Principal office meeting. - Réunion au bureau du directeur."
+    },
+    {
+      "id": 4,
+      "english": "Classmate",
+      "french": "Camarade",
+      "example": "Help your classmate. - Aide ta camarade de classe."
+    },
+    {
+      "id": 5,
+      "english": "Professor",
+      "french": "Professeur d'université",
+      "example": "University professor lecture. - Cours du professeur d'université."
+    },
+    {
+      "id": 6,
+      "english": "Tutor",
+      "french": "Tuteur",
+      "example": "Private tutor session. - Séance de tuteur privé."
+    }
+  ]
+}

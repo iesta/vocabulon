@@ -1,0 +1,22 @@
+{
+  "id": "p00026",
+  "title": "Travel",
+  "day": 26,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I have a layover in Paris.",
+      "french": "J'ai une escale à Paris."
+    },
+    {
+      "id": 2,
+      "english": "Passport and boarding pass please.",
+      "french": "Passeport et carte d'embarquement s'il vous plaît."
+    },
+    {
+      "id": 3,
+      "english": "I'm traveling light.",
+      "french": "Je voyage avec peu de bagages."
+    }
+  ]
+}

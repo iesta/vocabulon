@@ -1,0 +1,43 @@
+{
+  "id": "w00058",
+  "title": "Extreme Sports",
+  "day": 58,
+  "words": [
+    {
+      "id": 1,
+      "english": "Skydiving",
+      "french": "Parachutisme",
+      "example": "Skydiving is terrifying! - Le parachutisme est terrifiant!"
+    },
+    {
+      "id": 2,
+      "english": "Bungee jumping",
+      "french": "Saut à l'élastique",
+      "example": "Bungee jumping is so scary! - Le saut à l'élastique est si effrayant!"
+    },
+    {
+      "id": 3,
+      "english": "Paragliding",
+      "french": "Parapente",
+      "example": "Paragliding offers amazing views. - Le parapente offre des vues incroyables."
+    },
+    {
+      "id": 4,
+      "english": "Rafting",
+      "french": "Rafting",
+      "example": "White water rafting is adventure! - Le rafting en eau vive est une aventure!"
+    },
+    {
+      "id": 5,
+      "english": "BMX",
+      "french": "BMX",
+      "example": "He performs BMX tricks. - Il effectue des tricks en BMX."
+    },
+    {
+      "id": 6,
+      "english": "Motocross",
+      "french": "Motocross",
+      "example": "Motocross races are loud. - Les courses de motocross sont bruyantes."
+    }
+  ]
+}

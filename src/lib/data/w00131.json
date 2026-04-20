@@ -1,0 +1,43 @@
+{
+  "id": "w00131",
+  "title": "Radio & TV",
+  "day": 131,
+  "words": [
+    {
+      "id": 1,
+      "english": "Radio",
+      "french": "Radio",
+      "example": "Listen to the radio. - Écoute la radio."
+    },
+    {
+      "id": 2,
+      "english": "Station",
+      "french": "Station",
+      "example": "Radio station frequency. - Fréquence de station radio."
+    },
+    {
+      "id": 3,
+      "english": "Host",
+      "french": "Animateur",
+      "example": "Radio show host. - Animateur d'émissions radio."
+    },
+    {
+      "id": 4,
+      "english": "Broadcast",
+      "french": "Diffusion",
+      "example": "Live TV broadcast. - Diffusion TV en direct."
+    },
+    {
+      "id": 5,
+      "english": "Series",
+      "french": "Série",
+      "example": "TV series marathon. - Marathon de séries TV."
+    },
+    {
+      "id": 6,
+      "english": "Episode",
+      "french": "Épisode",
+      "example": "Next episode preview. - Aperçu de l'épisode suivant."
+    }
+  ]
+}

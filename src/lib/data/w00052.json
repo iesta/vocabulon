@@ -1,0 +1,43 @@
+{
+  "id": "w00052",
+  "title": "Individual Sports",
+  "day": 52,
+  "words": [
+    {
+      "id": 1,
+      "english": "Tennis",
+      "french": "Tennis",
+      "example": "She is a tennis champion. - Elle est championne de tennis."
+    },
+    {
+      "id": 2,
+      "english": "Swimming",
+      "french": "Natation",
+      "example": "Swimming is great exercise. - La natation est un excellent exercice."
+    },
+    {
+      "id": 3,
+      "english": "Cycling",
+      "french": "Cyclisme",
+      "example": "We went cycling in the mountains. - Nous avons fait du vélo dans les montagnes."
+    },
+    {
+      "id": 4,
+      "english": "Athletics",
+      "french": "Athlétisme",
+      "example": "Track athletics includes running. - L'athlétisme sur piste comprend la course."
+    },
+    {
+      "id": 5,
+      "english": "Gymnastics",
+      "french": "Gymnastique",
+      "example": "She does gymnastics every week. - Elle fait de la gymnastique chaque semaine."
+    },
+    {
+      "id": 6,
+      "english": "Boxing",
+      "french": "Boxe",
+      "example": "Boxing requires a lot of training. - La boxe demande beaucoup d'entraînement."
+    }
+  ]
+}

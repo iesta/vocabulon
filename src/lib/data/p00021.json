@@ -1,0 +1,22 @@
+{
+  "id": "p00021",
+  "title": "Opinions",
+  "day": 21,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "In my opinion, it's great.",
+      "french": "À mon avis, c'est génial."
+    },
+    {
+      "id": 2,
+      "english": "I totally agree with you.",
+      "french": "Je suis totally d'accord avec vous."
+    },
+    {
+      "id": 3,
+      "english": "I don't think that's right.",
+      "french": "Je ne pense pas que ce soit juste."
+    }
+  ]
+}

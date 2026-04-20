@@ -1,0 +1,43 @@
+{
+  "id": "w00206",
+  "title": "Conflict",
+  "day": 206,
+  "words": [
+    {
+      "id": 1,
+      "english": "Argument",
+      "french": "Dispute",
+      "example": "Heated argument resolved. - Dispute heated résolue."
+    },
+    {
+      "id": 2,
+      "english": "Fight",
+      "french": "Combat",
+      "example": "Make up after fight. - Réconciliez-vous après combat."
+    },
+    {
+      "id": 3,
+      "english": "Break up",
+      "french": "Rupture",
+      "example": "Difficult break up time. - Moment difficile de rupture."
+    },
+    {
+      "id": 4,
+      "english": "Divorce",
+      "french": "Divorce",
+      "example": "Divorce proceedings started. - Procédures de divorce commencées."
+    },
+    {
+      "id": 5,
+      "english": "Disagreement",
+      "french": "Désaccord",
+      "example": "Family disagreement discussion. - Discussion de désaccord familial."
+    },
+    {
+      "id": 6,
+      "english": "Resolution",
+      "french": "Résolution",
+      "example": "Conflict resolution communication. - Communication de résolution de conflit."
+    }
+  ]
+}

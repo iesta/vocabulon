@@ -1,0 +1,22 @@
+{
+  "id": "p00070",
+  "title": "Advanced: Literature",
+  "day": 70,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The author uses foreshadowing.",
+      "french": "L'auteur utilise l'anticipation."
+    },
+    {
+      "id": 2,
+      "english": "It's a study in irony.",
+      "french": "C'est une étude d'ironie."
+    },
+    {
+      "id": 3,
+      "english": "The symbolism is profound.",
+      "french": "Le symbolisme est profond."
+    }
+  ]
+}

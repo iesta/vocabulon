@@ -1,0 +1,22 @@
+{
+  "id": "p00062",
+  "title": "Advanced: Negotiations",
+  "day": 62,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Let's find a win-win solution.",
+      "french": "Trouvons une solution gagnant-gagnant."
+    },
+    {
+      "id": 2,
+      "english": "We need to cut to the chase.",
+      "french": "Nous devons aller droit au but."
+    },
+    {
+      "id": 3,
+      "english": "Let's take this offline.",
+      "french": "Prenons cela en privé."
+    }
+  ]
+}

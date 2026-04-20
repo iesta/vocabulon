@@ -1,0 +1,13 @@
+{
+  "id": "w00008",
+  "title": "Numbers & Quantities",
+  "day": 8,
+  "words": [
+    { "id": 1, "english": "One", "french": "Un", "example": "I have one brother and one sister. - J'ai un frère et une sœur." },
+    { "id": 2, "english": "Two", "french": "Deux", "example": "There are two cats in the garden. - Il y a deux chats dans le jardin." },
+    { "id": 3, "english": "Three", "french": "Trois", "example": "Three friends are coming to my party. - Trois amis viennent à ma fête." },
+    { "id": 4, "english": "Many", "french": " Beaucoup", "example": "There are many books in the library. - Il y a beaucoup de livres dans la bibliothèque." },
+    { "id": 5, "english": "A few", "french": "quelques", "example": "I have a few questions for you. - J'ai quelques questions pour vous." },
+    { "id": 6, "english": "All", "french": "Tout", "example": "All students must do their homework. - Tous les élèves doivent faire leurs devoirs." }
+  ]
+}

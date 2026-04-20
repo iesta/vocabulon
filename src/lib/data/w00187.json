@@ -1,0 +1,43 @@
+{
+  "id": "w00187",
+  "title": "Exams & Tests",
+  "day": 187,
+  "words": [
+    {
+      "id": 1,
+      "english": "Exam",
+      "french": "Examen",
+      "example": "Final exam week. - Semaine d'examens finaux."
+    },
+    {
+      "id": 2,
+      "english": "Test",
+      "french": "Contrôle",
+      "example": "Pop quiz test. - Contrôle surprise."
+    },
+    {
+      "id": 3,
+      "english": "Grade",
+      "french": "Note",
+      "example": "Achieved high grade. - Note élevée obtenue."
+    },
+    {
+      "id": 4,
+      "english": "Pass",
+      "french": "Réussir",
+      "example": "Pass the exam. - Réussis l'examen."
+    },
+    {
+      "id": 5,
+      "english": "Fail",
+      "french": "Échouer",
+      "example": "Failed the test. - A échoué le contrôle."
+    },
+    {
+      "id": 6,
+      "english": "Cheat",
+      "french": "Tricher",
+      "example": "Don't cheat on exams. - Ne triche pas aux examens."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00025",
+  "title": "Time V2",
+  "day": 25,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hour",
+      "french": "Heure",
+      "example": "What hour is it? - Quelle heure est-il?"
+    },
+    {
+      "id": 2,
+      "english": "Minute",
+      "french": "Minute",
+      "example": "Wait a minute please. - Attends une minute s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "Second",
+      "french": "Seconde",
+      "example": "I'll be there in a second. - J'arrive dans une seconde."
+    },
+    {
+      "id": 4,
+      "english": "Early",
+      "french": "Tôt",
+      "example": "I wake up very early. - Je me réveille très tôt."
+    },
+    {
+      "id": 5,
+      "english": "Late",
+      "french": "En retard",
+      "example": "Sorry, I'm late! - Désolé, je suis en retard!"
+    },
+    {
+      "id": 6,
+      "english": "On time",
+      "french": "À l'heure",
+      "example": "The bus arrived on time. - Le bus est arrivé à l'heure."
+    }
+  ]
+}

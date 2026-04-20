@@ -1,0 +1,43 @@
+{
+  "id": "w00237",
+  "title": "Science Jobs",
+  "day": 237,
+  "words": [
+    {
+      "id": 1,
+      "english": "Scientist",
+      "french": "Scientifique",
+      "example": "Research scientist discovery. - Découverte du chercheur scientifique."
+    },
+    {
+      "id": 2,
+      "english": "Biologist",
+      "french": "Biologist",
+      "example": "Marine biologist studies. - Études du biologiste marin."
+    },
+    {
+      "id": 3,
+      "english": "Chemist",
+      "french": "Chimiste",
+      "example": "Chemistry lab chemist. - Chimiste de laboratoire de chimie."
+    },
+    {
+      "id": 4,
+      "english": "Physicist",
+      "french": "Physicien",
+      "example": "Particle physicist research. - Recherche du physicien des particules."
+    },
+    {
+      "id": 5,
+      "english": "Astronomer",
+      "french": "Astronome",
+      "example": "Telescope astronomer watching. - Observation de l'astronome avec télescope."
+    },
+    {
+      "id": 6,
+      "english": "Geologist",
+      "french": "Géologue",
+      "example": "Field geologist exploration. - Exploration du géologue de terrain."
+    }
+  ]
+}

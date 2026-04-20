@@ -1,0 +1,22 @@
+{
+  "id": "p00077",
+  "title": "Expert: Existential",
+  "day": 77,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What is the meaning of existence?",
+      "french": "Quelle est la signification de l'existence?"
+    },
+    {
+      "id": 2,
+      "english": "We create our own purpose.",
+      "french": "Nous créons notre propre sens."
+    },
+    {
+      "id": 3,
+      "english": " authenticity defines humanity.",
+      "french": "L'authenticité définit l'humanité."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00047",
+  "title": "Agreements",
+  "day": 47,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Let's call it a deal.",
+      "french": "Disons que c'est fait."
+    },
+    {
+      "id": 2,
+      "english": "We have a deal!",
+      "french": "Nous avons un accord!"
+    },
+    {
+      "id": 3,
+      "english": "I couldn't agree more.",
+      "french": "Je ne pourrais être plus d'accord."
+    }
+  ]
+}

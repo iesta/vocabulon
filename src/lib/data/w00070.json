@@ -1,0 +1,43 @@
+{
+  "id": "w00070",
+  "title": "Ocean & Sea",
+  "day": 70,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ocean",
+      "french": "Océan",
+      "example": "The ocean is vast. - L'océan est vaste."
+    },
+    {
+      "id": 2,
+      "english": "Beach",
+      "french": "Plage",
+      "example": "The beach is sandy. - La plage est sablonneuse."
+    },
+    {
+      "id": 3,
+      "english": "Wave",
+      "french": "Vague",
+      "example": "The waves are big. - Les vagues sont grandes."
+    },
+    {
+      "id": 4,
+      "english": "Coral",
+      "french": "Corail",
+      "example": "Coral reefs are colorful. - Les récifs coralliens sont colorés."
+    },
+    {
+      "id": 5,
+      "english": "Tide",
+      "french": "Marée",
+      "example": "High tide is coming. - La marée haute arrive."
+    },
+    {
+      "id": 6,
+      "english": "Shell",
+      "french": "Coquillage",
+      "example": "I found a shell. - J'ai trouvé un coquillage."
+    }
+  ]
+}

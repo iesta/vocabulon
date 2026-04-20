@@ -1,0 +1,43 @@
+{
+  "id": "w00083",
+  "title": "Health Problems",
+  "day": 83,
+  "words": [
+    {
+      "id": 1,
+      "english": "Headache",
+      "french": "Mal de tête",
+      "example": "I have a headache. - J'ai mal à la tête."
+    },
+    {
+      "id": 2,
+      "english": "Cold",
+      "french": "Rhume",
+      "example": "I caught a cold. - J'ai attrapé un rhume."
+    },
+    {
+      "id": 3,
+      "english": "Fever",
+      "french": "Fièvre",
+      "example": "The fever is high. - La fièvre est haute."
+    },
+    {
+      "id": 4,
+      "english": "Cough",
+      "french": "Toux",
+      "example": "The cough won't stop. - La toux ne s'arrête pas."
+    },
+    {
+      "id": 5,
+      "english": "Stomachache",
+      "french": "Mal de ventre",
+      "example": "I have a stomachache. - J'ai mal au ventre."
+    },
+    {
+      "id": 6,
+      "english": "Backache",
+      "french": "Mal de dos",
+      "example": "My back hurts. - J'ai mal au dos."
+    }
+  ]
+}

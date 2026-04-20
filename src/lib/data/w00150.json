@@ -1,0 +1,43 @@
+{
+  "id": "w00150",
+  "title": "Music & Art Verbs",
+  "day": 150,
+  "words": [
+    {
+      "id": 1,
+      "english": "Sing",
+      "french": "Chanter",
+      "example": "Sing along with me. - Chante avec moi."
+    },
+    {
+      "id": 2,
+      "english": "Play",
+      "french": "Jouer",
+      "example": "Play an instrument. - Joue d'un instrument."
+    },
+    {
+      "id": 3,
+      "english": "Dance",
+      "french": "Danser",
+      "example": "Dance at the party. - Danse à la fête."
+    },
+    {
+      "id": 4,
+      "english": "Listen",
+      "french": "Écouter",
+      "example": "Listen to music. - Écoute de la musique."
+    },
+    {
+      "id": 5,
+      "english": "Draw",
+      "french": "Dessiner",
+      "example": "Draw what you feel. - Dessine ce que tu ressens."
+    },
+    {
+      "id": 6,
+      "english": "Photograph",
+      "french": "Photographier",
+      "example": "Photograph the sunset. - Photographier le coucher de soleil."
+    }
+  ]
+}

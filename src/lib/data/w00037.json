@@ -1,0 +1,43 @@
+{
+  "id": "w00037",
+  "title": "Hobbies V2",
+  "day": 37,
+  "words": [
+    {
+      "id": 1,
+      "english": "Reading",
+      "french": "Lecture",
+      "example": "Reading is my favorite hobby. - La lecture est mon loisir préféré."
+    },
+    {
+      "id": 2,
+      "english": "Painting",
+      "french": "Peinture",
+      "example": "She likes painting landscapes. - Elle aime peindre des paysages."
+    },
+    {
+      "id": 3,
+      "english": "Cooking",
+      "french": "Cuisine",
+      "example": "I enjoy cooking for my family. - J'aime cuisiner pour ma famille."
+    },
+    {
+      "id": 4,
+      "english": "Fishing",
+      "french": "Pêche",
+      "example": "My dad goes fishing on Sundays. - Mon père va à la pêche le dimanche."
+    },
+    {
+      "id": 5,
+      "english": "Gardening",
+      "french": "Jardinage",
+      "example": "Gardening is relaxing. - Le jardinage est relaxant."
+    },
+    {
+      "id": 6,
+      "english": "Photography",
+      "french": "Photographie",
+      "example": "She takes amazing photos. - Elle prend des photos incroyables."
+    }
+  ]
+}

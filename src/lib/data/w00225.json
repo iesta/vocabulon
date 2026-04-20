@@ -1,0 +1,43 @@
+{
+  "id": "w00225",
+  "title": "Neighborhood",
+  "day": 225,
+  "words": [
+    {
+      "id": 1,
+      "english": "Neighborhood",
+      "french": "Quartier",
+      "example": "Quiet neighborhood streets. - Rues de quartier tranquilles."
+    },
+    {
+      "id": 2,
+      "english": "Corner",
+      "french": "Coin",
+      "example": "Corner store run. - Course au magasin du coin."
+    },
+    {
+      "id": 3,
+      "english": "Block",
+      "french": "Bloc",
+      "example": "Whole block party. - Fête de tout le bloc."
+    },
+    {
+      "id": 4,
+      "english": "District",
+      "french": "Secteur",
+      "example": "Business district area. - Zone du secteur des affaires."
+    },
+    {
+      "id": 5,
+      "english": "Sidewalk",
+      "french": "Trottoir",
+      "example": "Sidewalk cafes line. - Rangée de cafes sidewalk."
+    },
+    {
+      "id": 6,
+      "english": "Crosswalk",
+      "french": "Passage piéton",
+      "example": "Crosswalk safety rules. - Règles de sécurité passage piéton."
+    }
+  ]
+}

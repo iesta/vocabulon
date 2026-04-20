@@ -1,0 +1,43 @@
+{
+  "id": "w00033",
+  "title": "City V2",
+  "day": 33,
+  "words": [
+    {
+      "id": 1,
+      "english": "Building",
+      "french": "Immeuble / Bâtiment",
+      "example": "That building is very tall. - Cet immeuble est très haut."
+    },
+    {
+      "id": 2,
+      "english": "Park",
+      "french": "Parc",
+      "example": "Let's meet in the park. - Retrouvons-nous dans le parc."
+    },
+    {
+      "id": 3,
+      "english": "Square",
+      "french": "Place",
+      "example": "There's a concert in the square. - Il y a un concert sur la place."
+    },
+    {
+      "id": 4,
+      "english": "Bridge",
+      "french": "Pont",
+      "example": "We walked across the bridge. - Nous avons traversé le pont."
+    },
+    {
+      "id": 5,
+      "english": "Station",
+      "french": "Gare",
+      "example": "The train station is far. - La gare est loin."
+    },
+    {
+      "id": 6,
+      "english": "Museum",
+      "french": "Musée",
+      "example": "The museum is free today. - Le musée est gratuit aujourd'hui."
+    }
+  ]
+}

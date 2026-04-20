@@ -1,0 +1,43 @@
+{
+  "id": "w00141",
+  "title": "Time Verbs",
+  "day": 141,
+  "words": [
+    {
+      "id": 1,
+      "english": "Start",
+      "french": "Commencer",
+      "example": "Start now. - Commence maintenant."
+    },
+    {
+      "id": 2,
+      "english": "Stop",
+      "french": "Arrêter",
+      "example": "Stop right there. - Arrête-toi là."
+    },
+    {
+      "id": 3,
+      "english": "Continue",
+      "french": "Continuer",
+      "example": "Continue walking. - Continue à marcher."
+    },
+    {
+      "id": 4,
+      "english": "Finish",
+      "french": "Finir",
+      "example": "Finish your work. - Finis ton travail."
+    },
+    {
+      "id": 5,
+      "english": "Begin",
+      "french": "Commencer",
+      "example": "Begin the journey. - Commence le voyage."
+    },
+    {
+      "id": 6,
+      "english": "End",
+      "french": "Terminer",
+      "example": "End on a high note. - Termine sur une note positive."
+    }
+  ]
+}

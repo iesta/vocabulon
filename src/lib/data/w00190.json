@@ -1,0 +1,43 @@
+{
+  "id": "w00190",
+  "title": "School Activities",
+  "day": 190,
+  "words": [
+    {
+      "id": 1,
+      "english": "Field trip",
+      "french": "Sortie scolaire",
+      "example": "Museum field trip day. - Jour de sortie scolaire au musée."
+    },
+    {
+      "id": 2,
+      "english": "Homework",
+      "french": "Devoirs",
+      "example": "Finish homework tonight. - Finis les devoirs ce soir."
+    },
+    {
+      "id": 3,
+      "english": "Project",
+      "french": "Projet",
+      "example": "Group project presentation. - Présentation de projet de groupe."
+    },
+    {
+      "id": 4,
+      "english": "Presentation",
+      "french": "Présentation",
+      "example": "Give presentation tomorrow. - Faire présentation demain."
+    },
+    {
+      "id": 5,
+      "english": "Assignment",
+      "french": "Devoir",
+      "example": "Assignment deadline extended. - Délai de devoir prolongé."
+    },
+    {
+      "id": 6,
+      "english": "Detention",
+      "french": "Retenue",
+      "example": "After school detention. - Retenue après l'école."
+    }
+  ]
+}

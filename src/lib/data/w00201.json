@@ -1,0 +1,43 @@
+{
+  "id": "w00201",
+  "title": "Babies & Kids",
+  "day": 201,
+  "words": [
+    {
+      "id": 1,
+      "english": "Baby",
+      "french": "Bébé",
+      "example": "Newborn baby arrival. - Arrivée du nouveau-né."
+    },
+    {
+      "id": 2,
+      "english": "Toddler",
+      "french": "Enfant en bas âge",
+      "example": "Toddler first steps. - Premiers pas du bambin."
+    },
+    {
+      "id": 3,
+      "english": "Child",
+      "french": "Enfant",
+      "example": "Growing child needs. - Besoins de l'enfant grandissant."
+    },
+    {
+      "id": 4,
+      "english": "Kids",
+      "french": "Enfants",
+      "example": "Kids playground time. - Temps de jeu des enfants."
+    },
+    {
+      "id": 5,
+      "english": "Newborn",
+      "french": "Nouveau-né",
+      "example": "Newborn baby care. - Soins du nouveau-né."
+    },
+    {
+      "id": 6,
+      "english": "Infant",
+      "french": "Nourrisson",
+      "example": "Infant development stages. - Stades de développement du nourrisson."
+    }
+  ]
+}

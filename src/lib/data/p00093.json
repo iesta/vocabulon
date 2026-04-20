@@ -1,0 +1,22 @@
+{
+  "id": "p00093",
+  "title": "Expert: Linguistic",
+  "day": 93,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Pragmatics shapes communication.",
+      "french": "La pragmatique façonne la communication."
+    },
+    {
+      "id": 2,
+      "english": "Semantics determines meaning.",
+      "french": "La sémantique détermine le sens."
+    },
+    {
+      "id": 3,
+      "english": "Syntax varies across languages.",
+      "french": "La syntaxe varie selon les langues."
+    }
+  ]
+}

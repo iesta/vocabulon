@@ -1,0 +1,43 @@
+{
+  "id": "w00175",
+  "title": "Parts & Maintenance",
+  "day": 175,
+  "words": [
+    {
+      "id": 1,
+      "english": "Engine",
+      "french": "Moteur",
+      "example": "Engine check light. - Voyant de contrôle moteur."
+    },
+    {
+      "id": 2,
+      "english": "Brake",
+      "french": "Frein",
+      "example": "Apply the brakes. - Applique les freins."
+    },
+    {
+      "id": 3,
+      "english": "Tire",
+      "french": "Pneu",
+      "example": "Flat tire problem. - Problème de pneu à plat."
+    },
+    {
+      "id": 4,
+      "english": "Battery",
+      "french": "Batterie",
+      "example": "Car battery dead. - Batterie de voiture à plat."
+    },
+    {
+      "id": 5,
+      "english": "Mirror",
+      "french": "Rétroviseur",
+      "example": "Check the mirror. - Vérifie le rétroviseur."
+    },
+    {
+      "id": 6,
+      "english": "Windshield",
+      "french": "Pare-brise",
+      "example": "Cracked windshield. - Pare-brise fissuré."
+    }
+  ]
+}

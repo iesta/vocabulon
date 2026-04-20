@@ -1,0 +1,22 @@
+{
+  "id": "p00078",
+  "title": "Expert: Paradoxes",
+  "day": 78,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Less is more.",
+      "french": "Moins c'est plus."
+    },
+    {
+      "id": 2,
+      "english": "The cure is worse than the disease.",
+      "french": "Le remède est pire que le mal."
+    },
+    {
+      "id": 3,
+      "english": "Silence speaks volumes.",
+      "french": "Le silence en dit long."
+    }
+  ]
+}

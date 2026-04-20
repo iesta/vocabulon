@@ -1,0 +1,43 @@
+{
+  "id": "w00219",
+  "title": "Water Places",
+  "day": 219,
+  "words": [
+    {
+      "id": 1,
+      "english": "Beach",
+      "french": "Plage",
+      "example": "Sandy beach vacation. - Vacances à la plage sablonneuse."
+    },
+    {
+      "id": 2,
+      "english": "Lake",
+      "french": "Lac",
+      "example": "Lake house retreat. - Retraite à la maison du lac."
+    },
+    {
+      "id": 3,
+      "english": "River",
+      "french": "Rivière",
+      "example": "River boat cruise. - Croisière en bateau sur la rivière."
+    },
+    {
+      "id": 4,
+      "english": "Ocean",
+      "french": "Océan",
+      "example": "Pacific ocean waves. - Vagues de l'océan Pacifique."
+    },
+    {
+      "id": 5,
+      "english": "Pond",
+      "french": "Étang",
+      "example": "Duck pond feeding. - Alimentation des canards à l'étang."
+    },
+    {
+      "id": 6,
+      "english": "Waterfall",
+      "french": "Cascade",
+      "example": "Beautiful waterfall hike. - Randonnée à la belle cascade."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00108",
+  "title": "Apps & Software",
+  "day": 108,
+  "words": [
+    {
+      "id": 1,
+      "english": "App",
+      "french": "Application",
+      "example": "Download the app. - Télécharge l'application."
+    },
+    {
+      "id": 2,
+      "english": "Update",
+      "french": "Mise à jour",
+      "example": "Update your apps. - Mets à jour tes applications."
+    },
+    {
+      "id": 3,
+      "english": "Install",
+      "french": "Installer",
+      "example": "Install the software. - Installe le logiciel."
+    },
+    {
+      "id": 4,
+      "english": "Uninstall",
+      "french": "Désinstaller",
+      "example": "Uninstall unused apps. - Désinstalle les applications inutilisées."
+    },
+    {
+      "id": 5,
+      "english": "Settings",
+      "french": "Paramètres",
+      "example": "Check app settings. - Vérifie les paramètres."
+    },
+    {
+      "id": 6,
+      "english": "Notification",
+      "french": "Notification",
+      "example": "Turn off notifications. - Désactive les notifications."
+    }
+  ]
+}

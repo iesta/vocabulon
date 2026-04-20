@@ -1,0 +1,22 @@
+{
+  "id": "p00042",
+  "title": "Present Perfect",
+  "day": 42,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I have lived here for 5 years.",
+      "french": "J'habite ici depuis 5 ans."
+    },
+    {
+      "id": 2,
+      "english": "Have you ever been to France?",
+      "french": "Avez-vous déjà été en France?"
+    },
+    {
+      "id": 3,
+      "english": "She's never tried sushi.",
+      "french": "Elle n'a jamais essayé de sushi."
+    }
+  ]
+}

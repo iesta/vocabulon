@@ -1,0 +1,43 @@
+{
+  "id": "w00096",
+  "title": "Drinks",
+  "day": 96,
+  "words": [
+    {
+      "id": 1,
+      "english": "Water",
+      "french": "Eau",
+      "example": "A bottle of water. - Une bouteille d'eau."
+    },
+    {
+      "id": 2,
+      "english": "Coffee",
+      "french": "Café",
+      "example": "Morning coffee is essential. - Le café du matin est essentiel."
+    },
+    {
+      "id": 3,
+      "english": "Tea",
+      "french": "Thé",
+      "example": "Herbal tea before bed. - Thé aux herbes avant de dormir."
+    },
+    {
+      "id": 4,
+      "english": "Juice",
+      "french": "Jus",
+      "example": "Orange juice for breakfast. - Jus d'orange au petit-déjeuner."
+    },
+    {
+      "id": 5,
+      "english": "Soda",
+      "french": "Soda",
+      "example": "Too much soda is bad. - Trop de soda c'est mauvais."
+    },
+    {
+      "id": 6,
+      "english": "Milkshake",
+      "french": "Milkshake",
+      "example": "Chocolate milkshake please. - Milkshake au chocolat s'il vous plaît."
+    }
+  ]
+}

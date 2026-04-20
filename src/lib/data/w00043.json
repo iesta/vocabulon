@@ -1,0 +1,43 @@
+{
+  "id": "w00043",
+  "title": "Complex Emotions V3",
+  "day": 43,
+  "words": [
+    {
+      "id": 1,
+      "english": "Jealous",
+      "french": "Jaloux",
+      "example": "I'm not jealous of anyone. - Je ne suis jaloux de personne."
+    },
+    {
+      "id": 2,
+      "english": "Grateful",
+      "french": "Reconnaissant",
+      "example": "I'm grateful for your help. - Je suis reconnaissant de ton aide."
+    },
+    {
+      "id": 3,
+      "english": "Confused",
+      "french": "Confus",
+      "example": "I'm confused about this. - Je suis confus à ce sujet."
+    },
+    {
+      "id": 4,
+      "english": "Embarrassed",
+      "french": "Gêné / Honteux",
+      "example": "I felt embarrassed. - Je me suis senti gêné."
+    },
+    {
+      "id": 5,
+      "english": "Hopeful",
+      "french": "Optimiste / Espoir",
+      "example": "I'm hopeful about the future. - Je suis optimiste pour l'avenir."
+    },
+    {
+      "id": 6,
+      "english": "Nervous",
+      "french": "Nerveux",
+      "example": "I'm nervous about my presentation. - Je suis nerveux pour ma présentation."
+    }
+  ]
+}

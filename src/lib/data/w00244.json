@@ -1,0 +1,43 @@
+{
+  "id": "w00244",
+  "title": "Space Exploration",
+  "day": 244,
+  "words": [
+    {
+      "id": 1,
+      "english": "Astronaut",
+      "french": "Astronaute",
+      "example": "International Space Station astronaut. - Astronaute de Station spatiale internationale."
+    },
+    {
+      "id": 2,
+      "english": "Rocket",
+      "french": "Fusée",
+      "example": "Space rocket launch. - Lancement de fusée spatiale."
+    },
+    {
+      "id": 3,
+      "english": "Satellite",
+      "french": "Satellite",
+      "example": "Communication satellite orbit. - Orbite de satellite de communication."
+    },
+    {
+      "id": 4,
+      "english": "Spacecraft",
+      "french": "Vaisseau spatial",
+      "example": "Robotic spacecraft exploration. - Exploration par vaisseau spatial robotique."
+    },
+    {
+      "id": 5,
+      "english": "Mission",
+      "french": "Mission",
+      "example": "Mars mission planning. - Planification de mission vers Mars."
+    },
+    {
+      "id": 6,
+      "english": "Spacewalk",
+      "french": "Sortie spatiale",
+      "example": "Astronaut spacewalk outside. - Sortie spatiale de l'astronaute à l'extérieur."
+    }
+  ]
+}

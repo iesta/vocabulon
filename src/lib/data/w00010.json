@@ -1,0 +1,13 @@
+{
+  "id": "w00010",
+  "title": "Advanced Verbs",
+  "day": 10,
+  "words": [
+    { "id": 1, "english": "To understand", "french": "Comprendre", "example": "I don't understand this exercise. - Je ne comprends pas cet exercice." },
+    { "id": 2, "english": "To learn", "french": "Apprendre", "example": "I am learning French this year. - J'apprends le français cette année." },
+    { "id": 3, "english": "To explain", "french": "Expliquer", "example": "Can you explain this to me? - Pouvez-vous m'expliquer cela?" },
+    { "id": 4, "english": "To help", "french": "Aider", "example": "Can you help me with this problem? - Pouvez-vous m'aider avec ce problème?" },
+    { "id": 5, "english": "To decide", "french": "Décider", "example": "I haven't decided yet what to do. - Je n'ai pas encore décidé quoi faire." },
+    { "id": 6, "english": "To remember", "french": "Se souvenir", "example": "I remember my first day at school. - Je me souviens de mon premier jour à l'école." }
+  ]
+}

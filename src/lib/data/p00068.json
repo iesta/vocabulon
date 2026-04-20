@@ -1,0 +1,22 @@
+{
+  "id": "p00068",
+  "title": "Advanced: Philosophy",
+  "day": 68,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Existence precedes essence.",
+      "french": "L'existence précède l'essence."
+    },
+    {
+      "id": 2,
+      "english": "We are condemned to be free.",
+      "french": "Nous sommes condamnés à être libres."
+    },
+    {
+      "id": 3,
+      "english": "The absurd hero triumphs.",
+      "french": "Le héros absurde triomphe."
+    }
+  ]
+}

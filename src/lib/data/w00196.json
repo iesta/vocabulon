@@ -1,0 +1,43 @@
+{
+  "id": "w00196",
+  "title": "Music Class",
+  "day": 196,
+  "words": [
+    {
+      "id": 1,
+      "english": "Scale",
+      "french": "Gamme",
+      "example": "Practice music scales. - Pratique des gammes musicales."
+    },
+    {
+      "id": 2,
+      "english": "Note",
+      "french": "Note",
+      "example": "Read music notes. - Lis les notes de musique."
+    },
+    {
+      "id": 3,
+      "english": "Rest",
+      "french": "Silence",
+      "example": "Whole rest symbol. - Symbole de silence whole."
+    },
+    {
+      "id": 4,
+      "english": "Staff",
+      "french": "Portée",
+      "example": "Five line music staff. - Portée de cinq lignes."
+    },
+    {
+      "id": 5,
+      "english": "Clef",
+      "french": "Clé",
+      "example": "Treble clef reading. - Lecture de clé de sol."
+    },
+    {
+      "id": 6,
+      "english": "Tempo",
+      "french": "Tempo",
+      "example": "Fast tempo rhythm. - Rythme de tempo rapide."
+    }
+  ]
+}

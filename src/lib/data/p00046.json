@@ -1,0 +1,22 @@
+{
+  "id": "p00046",
+  "title": " Complaints",
+  "day": 46,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "This is completely unacceptable.",
+      "french": "C'est complètement inacceptable."
+    },
+    {
+      "id": 2,
+      "english": "I've been waiting for an hour!",
+      "french": "J'attends depuis une heure!"
+    },
+    {
+      "id": 3,
+      "english": "I would like to file a complaint.",
+      "french": "Je voudrais déposer une plainte."
+    }
+  ]
+}

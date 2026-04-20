@@ -1,0 +1,43 @@
+{
+  "id": "w00209",
+  "title": "People Descriptions",
+  "day": 209,
+  "words": [
+    {
+      "id": 1,
+      "english": "Friendly",
+      "french": "Amical",
+      "example": "Friendly person approach. - Approche de personne amicale."
+    },
+    {
+      "id": 2,
+      "english": "Shy",
+      "french": "Timide",
+      "example": "Shy around strangers. - Timide avec les étrangers."
+    },
+    {
+      "id": 3,
+      "english": "Outgoing",
+      "french": "Extraverti",
+      "example": "Outgoing personality shine. - Brillance de personnalité extravertie."
+    },
+    {
+      "id": 4,
+      "english": "Loyal",
+      "french": "Loyal",
+      "example": "Loyal friend support. - Soutien d'ami loyal."
+    },
+    {
+      "id": 5,
+      "english": "Honest",
+      "french": "Honnête",
+      "example": "Honest answer always. - Réponse honnête toujours."
+    },
+    {
+      "id": 6,
+      "english": "Generous",
+      "french": "Généreux",
+      "example": "Generous heart giving. - Don généreux du cœur."
+    }
+  ]
+}

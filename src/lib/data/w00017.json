@@ -1,0 +1,13 @@
+{
+  "id": "w00017",
+  "title": "School & Studies",
+  "day": 17,
+  "words": [
+    { "id": 1, "english": "Homework", "french": "Devoirs", "example": "I have a lot of homework today. - J'ai beaucoup de devoirs aujourd'hui." },
+    { "id": 2, "english": "Exam", "french": "Examen", "example": "I have an exam tomorrow. - J'ai un examen demain." },
+    { "id": 3, "english": "Grade", "french": "Note", "example": "I got a good grade on my test. - J'ai eu une bonne note à mon contrôle." },
+    { "id": 4, "english": "Library", "french": "Bibliothèque", "example": "Let's study at the library. - Étudions à la bibliothèque." },
+    { "id": 5, "english": "Classmate", "french": "Camarade", "example": "She's my best classmate. - Elle est ma meilleure camarade." },
+    { "id": 6, "english": "To study", "french": "Étudier", "example": "I need to study for my exam. - Je dois étudier pour mon examen." }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00211",
+  "title": "Trust & Betrayal",
+  "day": 211,
+  "words": [
+    {
+      "id": 1,
+      "english": "Trust",
+      "french": "Confiance",
+      "example": "Build trust slowly. - Construis la confiance lentement."
+    },
+    {
+      "id": 2,
+      "english": "Betray",
+      "french": "Trahir",
+      "example": "Never betray friends. - Ne trahis jamais les amis."
+    },
+    {
+      "id": 3,
+      "english": "Loyal",
+      "french": "Fidèle",
+      "example": "Loyal until the end. - Fidèle jusqu'à la fin."
+    },
+    {
+      "id": 4,
+      "english": "Honesty",
+      "french": "Honnêteté",
+      "example": "Honesty is important. - L'honnêteté est importante."
+    },
+    {
+      "id": 5,
+      "english": "Promise",
+      "french": "Promesse",
+      "example": "Keep your promise. - Garde ta promesse."
+    },
+    {
+      "id": 6,
+      "english": "Secret",
+      "french": "Secret",
+      "example": "Keep a secret safe. - Garde un secret en sécurité."
+    }
+  ]
+}

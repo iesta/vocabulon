@@ -1,0 +1,22 @@
+{
+  "id": "p00022",
+  "title": "Movies & TV",
+  "day": 22,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "This movie is amazing!",
+      "french": "Ce film est incroyable!"
+    },
+    {
+      "id": 2,
+      "english": "What episode are we watching?",
+      "french": "Quel épisode regardons-nous?"
+    },
+    {
+      "id": 3,
+      "english": "This is my favorite series.",
+      "french": "C'est ma série préférée."
+    }
+  ]
+}

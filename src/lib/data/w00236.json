@@ -1,0 +1,43 @@
+{
+  "id": "w00236",
+  "title": "Trades",
+  "day": 236,
+  "words": [
+    {
+      "id": 1,
+      "english": "Carpenter",
+      "french": "Charpentier",
+      "example": "Skilled carpenter craftsmanship. - Artisanat du charpentier qualifié."
+    },
+    {
+      "id": 2,
+      "english": "Electrician",
+      "french": "Électricien",
+      "example": "Licensed electrician work. - Travail d'électricien autorisé."
+    },
+    {
+      "id": 3,
+      "english": "Plumber",
+      "french": "Plombier",
+      "example": "Emergency plumber call. - Appel d'urgence du plombier."
+    },
+    {
+      "id": 4,
+      "english": "Painter",
+      "french": "Peintre",
+      "example": "House painter color choices. - Choix de couleur du peintre de maison."
+    },
+    {
+      "id": 5,
+      "english": "Roofer",
+      "french": "Couvreur",
+      "example": "Professional roofer repair. - Réparation de couvreur professionnel."
+    },
+    {
+      "id": 6,
+      "english": "Landscaper",
+      "french": "Paysagiste",
+      "example": "Garden landscaper design. - Design du paysagiste de jardin."
+    }
+  ]
+}

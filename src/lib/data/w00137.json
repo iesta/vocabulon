@@ -1,0 +1,43 @@
+{
+  "id": "w00137",
+  "title": "Emotions",
+  "day": 137,
+  "words": [
+    {
+      "id": 1,
+      "english": "Love",
+      "french": "Aimer",
+      "example": "Love your family. - Aime ta famille."
+    },
+    {
+      "id": 2,
+      "english": "Hate",
+      "french": "Détester",
+      "example": "I hate waiting. - Je déteste attendre."
+    },
+    {
+      "id": 3,
+      "english": "Like",
+      "french": "Aimer",
+      "example": "I like pizza. - J'aime la pizza."
+    },
+    {
+      "id": 4,
+      "english": "Want",
+      "french": "Vouloir",
+      "example": "I want this. - Je veux ça."
+    },
+    {
+      "id": 5,
+      "english": "Need",
+      "french": "Avoir besoin",
+      "example": "I need help. - J'ai besoin d'aide."
+    },
+    {
+      "id": 6,
+      "english": "Feel",
+      "french": "Se sentir",
+      "example": "Feel happy today. - Sens-toi heureux aujourd'hui."
+    }
+  ]
+}

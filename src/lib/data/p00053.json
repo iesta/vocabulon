@@ -1,0 +1,22 @@
+{
+  "id": "p00053",
+  "title": "Art & Culture",
+  "day": 53,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Art is the universal language.",
+      "french": "L'art est le langage universel."
+    },
+    {
+      "id": 2,
+      "english": "Let's visit a museum.",
+      "french": "Visitons un musée."
+    },
+    {
+      "id": 3,
+      "english": "Culture enriches the soul.",
+      "french": "La culture enrichit l'âme."
+    }
+  ]
+}

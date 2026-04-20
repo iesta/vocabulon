@@ -1,0 +1,43 @@
+{
+  "id": "w00241",
+  "title": "Hospitality",
+  "day": 241,
+  "words": [
+    {
+      "id": 1,
+      "english": "Hotel manager",
+      "french": "Directeur d'hôtel",
+      "example": "Hotel manager responsibilities. - Responsabilités du directeur d'hôtel."
+    },
+    {
+      "id": 2,
+      "english": "Concierge",
+      "french": "Concierge",
+      "example": "Hotel concierge recommendations. - Recommandations du concierge d'hôtel."
+    },
+    {
+      "id": 3,
+      "english": "Housekeeper",
+      "french": "Femme de ménage",
+      "example": "Efficient housekeeper skills. - Compétences efficaces de la femme de ménage."
+    },
+    {
+      "id": 4,
+      "english": "Tour guide",
+      "french": "Guide touristique",
+      "example": "Local tour guide expertise. - Expertise du guide touristique local."
+    },
+    {
+      "id": 5,
+      "english": "Flight attendant",
+      "french": "Hôtesse de l'air",
+      "example": "Flight attendant safety demo. - Démonstration de sécurité de l'hôtesse de l'air."
+    },
+    {
+      "id": 6,
+      "english": "Cruise director",
+      "french": "Directeur de croisière",
+      "example": "Entertainment cruise director. - Divertissement du directeur de croisière."
+    }
+  ]
+}

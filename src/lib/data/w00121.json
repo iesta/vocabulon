@@ -1,0 +1,43 @@
+{
+  "id": "w00121",
+  "title": "Movies & Film",
+  "day": 121,
+  "words": [
+    {
+      "id": 1,
+      "english": "Movie",
+      "french": "Film",
+      "example": "New movie release. - Nouvelle sortie de film."
+    },
+    {
+      "id": 2,
+      "english": "Actor",
+      "french": "Acteur",
+      "example": "Famous movie actor. - Acteur de film célèbre."
+    },
+    {
+      "id": 3,
+      "english": "Actress",
+      "french": "Actrice",
+      "example": "Oscar winning actress. - Actrice primée aux Oscars."
+    },
+    {
+      "id": 4,
+      "english": "Director",
+      "french": "Réalisateur",
+      "example": "Film director. - Le réalisateur de film."
+    },
+    {
+      "id": 5,
+      "english": "Scene",
+      "french": "Scène",
+      "example": "Action scene. - Scène d'action."
+    },
+    {
+      "id": 6,
+      "english": "Trailer",
+      "french": "Bande-annonce",
+      "example": "Movie trailer online. - Bande-annonce de film en ligne."
+    }
+  ]
+}

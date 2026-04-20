@@ -1,0 +1,43 @@
+{
+  "id": "w00160",
+  "title": "Jewelry",
+  "day": 160,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ring",
+      "french": "Bague",
+      "example": "Diamond ring. - Bague en diamant."
+    },
+    {
+      "id": 2,
+      "english": "Necklace",
+      "french": "Collier",
+      "example": "Gold necklace. - Collier en or."
+    },
+    {
+      "id": 3,
+      "english": "Bracelet",
+      "french": "Bracelet",
+      "example": "Silver bracelet. - Bracelet en argent."
+    },
+    {
+      "id": 4,
+      "english": "Earrings",
+      "french": "Boucles d'oreilles",
+      "example": "Pearl earrings. - Boucles d'oreilles en perle."
+    },
+    {
+      "id": 5,
+      "english": "Watch",
+      "french": "Montre",
+      "example": "Smart watch. - Montre connectée."
+    },
+    {
+      "id": 6,
+      "english": "Brooch",
+      "french": "Broche",
+      "example": "Vintage brooch. - Broche vintage."
+    }
+  ]
+}

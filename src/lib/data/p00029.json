@@ -1,0 +1,22 @@
+{
+  "id": "p00029",
+  "title": "Emotions",
+  "day": 29,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I'm so happy right now!",
+      "french": "Je suis si heureux en ce moment!"
+    },
+    {
+      "id": 2,
+      "english": "This makes me really sad.",
+      "french": "Ça me rend vraiment triste."
+    },
+    {
+      "id": 3,
+      "english": "I'm excited about the trip!",
+      "french": "Je suis excité pour le voyage!"
+    }
+  ]
+}

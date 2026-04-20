@@ -1,0 +1,43 @@
+{
+  "id": "w00166",
+  "title": "Fabrics",
+  "day": 166,
+  "words": [
+    {
+      "id": 1,
+      "english": "Cotton",
+      "french": "Coton",
+      "example": "100% cotton shirt. - Chemise 100% coton."
+    },
+    {
+      "id": 2,
+      "english": "Silk",
+      "french": "Soie",
+      "example": "Smooth silk fabric. - Tissu de soie lisse."
+    },
+    {
+      "id": 3,
+      "english": "Wool",
+      "french": "Laine",
+      "example": "Warm wool sweater. - Chandail de laine chaud."
+    },
+    {
+      "id": 4,
+      "english": "Leather",
+      "french": "Cuir",
+      "example": "Genuine leather jacket. - Veste en cuir véritable."
+    },
+    {
+      "id": 5,
+      "english": "Denim",
+      "french": "Denim",
+      "example": "Denim jeans material. - Matière denim pour jeans."
+    },
+    {
+      "id": 6,
+      "english": "Linen",
+      "french": "Lin",
+      "example": "Breathable linen shirt. - Chemise en lin respirant."
+    }
+  ]
+}

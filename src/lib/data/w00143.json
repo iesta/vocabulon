@@ -1,0 +1,43 @@
+{
+  "id": "w00143",
+  "title": "Finding & Searching",
+  "day": 143,
+  "words": [
+    {
+      "id": 1,
+      "english": "Find",
+      "french": "Trouver",
+      "example": "Find your keys. - Trouve tes clés."
+    },
+    {
+      "id": 2,
+      "english": "Search",
+      "french": "Chercher",
+      "example": "Search online. - Cherche en ligne."
+    },
+    {
+      "id": 3,
+      "english": "Look",
+      "french": "Regarder",
+      "example": "Look at me. - Regarde-moi."
+    },
+    {
+      "id": 4,
+      "english": "See",
+      "french": "Voir",
+      "example": "See the view. - Vois le paysage."
+    },
+    {
+      "id": 5,
+      "english": "Watch",
+      "french": "Regarder",
+      "example": "Watch a movie. - Regarde un film."
+    },
+    {
+      "id": 6,
+      "english": "Discover",
+      "french": "Découvrir",
+      "example": "Discover new places. - Découvre de nouveaux endroits."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00224",
+  "title": "Nature Areas",
+  "day": 224,
+  "words": [
+    {
+      "id": 1,
+      "english": "Forest",
+      "french": "Forêt",
+      "example": "Dense forest hiking. - Randonnée en forêt dense."
+    },
+    {
+      "id": 2,
+      "english": "Mountain",
+      "french": "Montagne",
+      "example": "Mountain peak climbing. - Ascension de pic de montagne."
+    },
+    {
+      "id": 3,
+      "english": "Valley",
+      "french": "Vallée",
+      "example": "Green valley view. - Vue de vallée verte."
+    },
+    {
+      "id": 4,
+      "english": "Canyon",
+      "french": "Canyon",
+      "example": "Grand canyon exploration. - Exploration du grand canyon."
+    },
+    {
+      "id": 5,
+      "english": "Desert",
+      "french": "Désert",
+      "example": "Hot desert landscape. - Paysage de désert chaud."
+    },
+    {
+      "id": 6,
+      "english": "Island",
+      "french": "Île",
+      "example": "Tropical island paradise. - Paradis d'île tropicale."
+    }
+  ]
+}

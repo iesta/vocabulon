@@ -1,0 +1,43 @@
+{
+  "id": "w00050",
+  "title": "Philosophy V3",
+  "day": 50,
+  "words": [
+    {
+      "id": 1,
+      "english": "Truth",
+      "french": "Vérité",
+      "example": "Tell me the truth. - Dis-moi la vérité."
+    },
+    {
+      "id": 2,
+      "english": "Wisdom",
+      "french": "Sagesse",
+      "example": "Age brings wisdom. - L'âge apporte la sagesse."
+    },
+    {
+      "id": 3,
+      "english": "Opinion",
+      "french": "Opinion",
+      "example": "What's your opinion? - Quelle est ton opinion?"
+    },
+    {
+      "id": 4,
+      "english": "Belief",
+      "french": "Croyance",
+      "example": "Everyone has their own beliefs. - Tout le monde a ses propres croyances."
+    },
+    {
+      "id": 5,
+      "english": "Meaning",
+      "french": "Sens / Signification",
+      "example": "What's the meaning of life? - Quelle est le sens de la vie?"
+    },
+    {
+      "id": 6,
+      "english": "Purpose",
+      "french": "But / Raison d'être",
+      "example": "What's your purpose? - Quel est ton but?"
+    }
+  ]
+}

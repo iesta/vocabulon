@@ -1,0 +1,43 @@
+{
+  "id": "w00115",
+  "title": "Programming",
+  "day": 115,
+  "words": [
+    {
+      "id": 1,
+      "english": "Code",
+      "french": "Code",
+      "example": "Write code. - Écris du code."
+    },
+    {
+      "id": 2,
+      "english": "Bug",
+      "french": "Bug",
+      "example": "Debug the code. - Débogue le code."
+    },
+    {
+      "id": 3,
+      "english": "Function",
+      "french": "Fonction",
+      "example": "This function works. - Cette fonction marche."
+    },
+    {
+      "id": 4,
+      "english": "Variable",
+      "french": "Variable",
+      "example": "Define a variable. - Définis une variable."
+    },
+    {
+      "id": 5,
+      "english": "Loop",
+      "french": "Boucle",
+      "example": "For loop syntax. - Syntaxe de boucle for."
+    },
+    {
+      "id": 6,
+      "english": "Algorithm",
+      "french": "Algorithme",
+      "example": "Algorithm optimization. - Optimisation d'algorithme."
+    }
+  ]
+}

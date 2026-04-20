@@ -1,0 +1,22 @@
+{
+  "id": "p00061",
+  "title": "Advanced: Business",
+  "day": 61,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Time is money, as they say.",
+      "french": "Le temps c'est de l'argent, comme on dit."
+    },
+    {
+      "id": 2,
+      "english": "Let's touch base on this project.",
+      "french": "Faisons le point sur ce projet."
+    },
+    {
+      "id": 3,
+      "english": "The bottom line is positive.",
+      "french": "Le résultat net est positif."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00034",
+  "title": "Animals V2",
+  "day": 34,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bird",
+      "french": "Oiseau",
+      "example": "A bird is singing in the tree. - Un oiseau chante dans l'arbre."
+    },
+    {
+      "id": 2,
+      "english": "Fish",
+      "french": "Poisson",
+      "example": "I have a pet fish. - J'ai un poisson domestique."
+    },
+    {
+      "id": 3,
+      "english": "Horse",
+      "french": "Cheval",
+      "example": "She rides a horse every weekend. - Elle monte à cheval chaque week-end."
+    },
+    {
+      "id": 4,
+      "english": "Rabbit",
+      "french": "Lapin",
+      "example": "The rabbit is eating carrots. - Le lapin mange des carottes."
+    },
+    {
+      "id": 5,
+      "english": "Mouse",
+      "french": "Souris",
+      "example": "A mouse ran across the floor. - Une souris a traversé le sol."
+    },
+    {
+      "id": 6,
+      "english": "Bee",
+      "french": "Abeille",
+      "example": "Be careful, there's a bee! - Attention, il y a une abeille!"
+    }
+  ]
+}

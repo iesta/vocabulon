@@ -1,0 +1,22 @@
+{
+  "id": "p00092",
+  "title": "Expert: Aesthetic",
+  "day": 92,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Beauty is in the eye of the beholder.",
+      "french": "La beauté est dans l'œil de celui qui regarde."
+    },
+    {
+      "id": 2,
+      "english": "Aesthetic appreciation varies culturally.",
+      "french": "L'appréciation esthétique varie culturellement."
+    },
+    {
+      "id": 3,
+      "english": "Art transcends boundaries.",
+      "french": "L'art transcende les frontières."
+    }
+  ]
+}

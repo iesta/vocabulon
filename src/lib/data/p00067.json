@@ -1,0 +1,22 @@
+{
+  "id": "p00067",
+  "title": "Advanced: Science",
+  "day": 67,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Quantum physics defies logic.",
+      "french": "La physique quantique défie la logique."
+    },
+    {
+      "id": 2,
+      "english": "Evolution explains biodiversity.",
+      "french": "L'évolution explique la biodiversité."
+    },
+    {
+      "id": 3,
+      "english": "The universe is infinitely expanding.",
+      "french": "L'univers s'étend à l'infini."
+    }
+  ]
+}

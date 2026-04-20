@@ -1,0 +1,43 @@
+{
+  "id": "w00055",
+  "title": "Fitness & Exercise",
+  "day": 55,
+  "words": [
+    {
+      "id": 1,
+      "english": "Running",
+      "french": "Course",
+      "example": "Morning running keeps me fit. - La course du matin me garde en forme."
+    },
+    {
+      "id": 2,
+      "english": "Yoga",
+      "french": "Yoga",
+      "example": "Yoga helps me relax. - Le yoga m'aide à me détendre."
+    },
+    {
+      "id": 3,
+      "english": "Pilates",
+      "french": "Pilates",
+      "example": "Pilates strengthens your core. - Le Pilates renforce votre centre."
+    },
+    {
+      "id": 4,
+      "english": "Weightlifting",
+      "french": "Haltérophilie",
+      "example": "He does weightlifting at the gym. - Il fait de l'haltérophilie à la salle."
+    },
+    {
+      "id": 5,
+      "english": "Stretching",
+      "french": "Étirements",
+      "example": "Stretching prevents injuries. - Les étirements préviennent les blessures."
+    },
+    {
+      "id": 6,
+      "english": "Dancing",
+      "french": "Danse",
+      "example": "Dancing is so much fun! - La danse est tellement amusante!"
+    }
+  ]
+}

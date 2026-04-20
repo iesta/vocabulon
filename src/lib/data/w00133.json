@@ -1,0 +1,43 @@
+{
+  "id": "w00133",
+  "title": "Action Verbs 2",
+  "day": 133,
+  "words": [
+    {
+      "id": 1,
+      "english": "Eat",
+      "french": "Manger",
+      "example": "Eat your vegetables. - Mange tes légumes."
+    },
+    {
+      "id": 2,
+      "english": "Drink",
+      "french": "Boire",
+      "example": "Drink water please. - Bois de l'eau s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "Sleep",
+      "french": "Dormir",
+      "example": "Sleep eight hours. - Dors huit heures."
+    },
+    {
+      "id": 4,
+      "english": "Read",
+      "french": "Lire",
+      "example": "Read a book tonight. - Lis un livre ce soir."
+    },
+    {
+      "id": 5,
+      "english": "Write",
+      "french": "Écrire",
+      "example": "Write in your journal. - Écris dans ton journal."
+    },
+    {
+      "id": 6,
+      "english": "Speak",
+      "french": "Parler",
+      "example": "Speak clearly. - Parle clairement."
+    }
+  ]
+}

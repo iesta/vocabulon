@@ -1,0 +1,22 @@
+{
+  "id": "p00033",
+  "title": "Plans",
+  "day": 33,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What are you doing this weekend?",
+      "french": "Que fais-tu ce week-end?"
+    },
+    {
+      "id": 2,
+      "english": "I'm planning a trip to London.",
+      "french": "Je план a trip to London."
+    },
+    {
+      "id": 3,
+      "english": "Let's make a plan.",
+      "french": "Faisons un plan."
+    }
+  ]
+}

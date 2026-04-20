@@ -1,0 +1,43 @@
+{
+  "id": "w00087",
+  "title": "Physical States",
+  "day": 87,
+  "words": [
+    {
+      "id": 1,
+      "english": "Tired",
+      "french": "Fatigué",
+      "example": "I'm tired. - Je suis fatigué."
+    },
+    {
+      "id": 2,
+      "english": "Hungry",
+      "french": "Affamé",
+      "example": "I'm hungry. - J'ai faim."
+    },
+    {
+      "id": 3,
+      "english": "Thirsty",
+      "french": "Assoiffé",
+      "example": "I'm thirsty. - J'ai soif."
+    },
+    {
+      "id": 4,
+      "english": "Sleepy",
+      "french": "Endormi",
+      "example": "I'm sleepy. - Je suis endormi."
+    },
+    {
+      "id": 5,
+      "english": "Weak",
+      "french": "Faible",
+      "example": "I feel weak. - Je me sens faible."
+    },
+    {
+      "id": 6,
+      "english": "Dizzy",
+      "french": "Étourdi",
+      "example": "The room is spinning. - J'ai la tête qui tourne."
+    }
+  ]
+}

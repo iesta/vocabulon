@@ -1,0 +1,43 @@
+{
+  "id": "w00182",
+  "title": "Emergency Vehicles",
+  "day": 182,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ambulance",
+      "french": "Ambulance",
+      "example": "Ambulance emergency sirens. - Sirènes d'urgence d'ambulance."
+    },
+    {
+      "id": 2,
+      "english": "Fire truck",
+      "french": "Camion de pompier",
+      "example": "Fire truck response. - Intervention du camion de pompier."
+    },
+    {
+      "id": 3,
+      "english": "Police car",
+      "french": "Voiture de police",
+      "example": "Police car pursuit. - Poursuite de voiture de police."
+    },
+    {
+      "id": 4,
+      "english": "Siren",
+      "french": "Sirène",
+      "example": "Loud ambulance siren. - Forte sirène d'ambulance."
+    },
+    {
+      "id": 5,
+      "english": "Emergency",
+      "french": "Urgence",
+      "example": "Call emergency services. - Appelle les services d'urgence."
+    },
+    {
+      "id": 6,
+      "english": "Tow truck",
+      "french": "Dépanneuse",
+      "example": "Call the tow truck. - Appelle la dépanneuse."
+    }
+  ]
+}

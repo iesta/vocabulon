@@ -1,0 +1,43 @@
+{
+  "id": "w00092",
+  "title": "Meat & Poultry",
+  "day": 92,
+  "words": [
+    {
+      "id": 1,
+      "english": "Beef",
+      "french": "Bœuf",
+      "example": "Beef steak is delicious. - Le steak de bœuf est délicieux."
+    },
+    {
+      "id": 2,
+      "english": "Pork",
+      "french": "Porc",
+      "example": "Pork is meat from pigs. - Le porc est la viande des cochons."
+    },
+    {
+      "id": 3,
+      "english": "Chicken",
+      "french": "Poulet",
+      "example": "Roasted chicken for dinner. - Poulet rôti pour le dîner."
+    },
+    {
+      "id": 4,
+      "english": "Turkey",
+      "french": "Dinde",
+      "example": "Turkey is for Thanksgiving. - La dinde est pour Thanksgiving."
+    },
+    {
+      "id": 5,
+      "english": "Lamb",
+      "french": "Agneau",
+      "example": "Lamb chops are tasty. - Les côtelettes d'agneau sont savoureuses."
+    },
+    {
+      "id": 6,
+      "english": "Veal",
+      "french": "Veau",
+      "example": "Veal is young cow. - Le veau est un jeune bovin."
+    }
+  ]
+}

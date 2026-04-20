@@ -1,0 +1,22 @@
+{
+  "id": "p00040",
+  "title": "Past Tense",
+  "day": 40,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I went to the cinema yesterday.",
+      "french": "Je suis allé au cinéma hier."
+    },
+    {
+      "id": 2,
+      "english": "She has already eaten.",
+      "french": "Elle a déjà mangé."
+    },
+    {
+      "id": 3,
+      "english": "We were very happy.",
+      "french": "Nous étions très heureux."
+    }
+  ]
+}

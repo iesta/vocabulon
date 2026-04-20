@@ -1,0 +1,43 @@
+{
+  "id": "w00215",
+  "title": "Rooms",
+  "day": 215,
+  "words": [
+    {
+      "id": 1,
+      "english": "Kitchen",
+      "french": "Cuisine",
+      "example": "Modern kitchen design. - Design de cuisine moderne."
+    },
+    {
+      "id": 2,
+      "english": "Bedroom",
+      "french": "Chambre",
+      "example": "Cozy bedroom setup. - Aménagement de chambre cozy."
+    },
+    {
+      "id": 3,
+      "english": "Bathroom",
+      "french": "Salle de bain",
+      "example": "Bathroom renovation project. - Projet de rénovation de salle de bain."
+    },
+    {
+      "id": 4,
+      "english": "Living room",
+      "french": "Salon",
+      "example": "Family living room gathering. - Rassemblement familial au salon."
+    },
+    {
+      "id": 5,
+      "english": "Dining room",
+      "french": "Salle à manger",
+      "example": "Dining room table setting. - Dressage de table de salle à manger."
+    },
+    {
+      "id": 6,
+      "english": "Basement",
+      "french": "Sous-sol",
+      "example": "Finished basement space. - Espace de sous-sol fini."
+    }
+  ]
+}

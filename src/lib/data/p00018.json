@@ -1,0 +1,22 @@
+{
+  "id": "p00018",
+  "title": "Internet",
+  "day": 18,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The WiFi is not working.",
+      "french": "Le WiFi ne fonctionne pas."
+    },
+    {
+      "id": 2,
+      "english": "Can I have the password?",
+      "french": "Puis-je avoir le mot de passe?"
+    },
+    {
+      "id": 3,
+      "english": "I'll send you an email.",
+      "french": "Je vous enverrai un email."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "w00006",
+  "title": "Time & Days",
+  "day": 6,
+  "words": [
+    { "id": 1, "english": "Today", "french": "Aujourd'hui", "example": "Today is a beautiful day. - Aujourd'hui est une belle journée." },
+    { "id": 2, "english": "Tomorrow", "french": "Demain", "example": "Tomorrow we will visit the museum. - Demain, nous visiterons le musée." },
+    { "id": 3, "english": "Yesterday", "french": "Hier", "example": "Yesterday I met my friends. - Hier, j'ai rencontré mes amis." },
+    { "id": 4, "english": "Morning", "french": "Matin", "example": "I drink coffee every morning. - Je bois du café chaque matin." },
+    { "id": 5, "english": "Evening", "french": "Soir", "example": "In the evening, I watch TV. - Le soir, je regarde la télé." },
+    { "id": 6, "english": "Week", "french": "Semaine", "example": "There are seven days in a week. - Il y a sept jours dans une semaine." }
+  ]
+}

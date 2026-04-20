@@ -1,0 +1,43 @@
+{
+  "id": "w00045",
+  "title": "Science V3",
+  "day": 45,
+  "words": [
+    {
+      "id": 1,
+      "english": "Experiment",
+      "french": "Expérience",
+      "example": "We did an experiment in class. - Nous avons fait une expérience en cours."
+    },
+    {
+      "id": 2,
+      "english": "Discovery",
+      "french": "Découverte",
+      "example": "That's an important discovery. - C'est une découverte importante."
+    },
+    {
+      "id": 3,
+      "english": "Theory",
+      "french": "Théorie",
+      "example": "Einstein's theory is famous. - La théorie d'Einstein est célèbre."
+    },
+    {
+      "id": 4,
+      "english": "Research",
+      "french": "Recherche",
+      "example": "This research is important. - Cette recherche est importante."
+    },
+    {
+      "id": 5,
+      "english": "Energy",
+      "french": "Énergie",
+      "example": "Solar energy is renewable. - L'énergie solaire est renouvelable."
+    },
+    {
+      "id": 6,
+      "english": "Technology",
+      "french": "Technologie",
+      "example": "Technology is advancing fast. - La technologie avance vite."
+    }
+  ]
+}

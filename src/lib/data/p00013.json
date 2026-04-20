@@ -1,0 +1,22 @@
+{
+  "id": "p00013",
+  "title": "Weather",
+  "day": 13,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What's the weather like?",
+      "french": "Quel temps fait-il?"
+    },
+    {
+      "id": 2,
+      "english": "It's sunny today.",
+      "french": "Il fait beau aujourd'hui."
+    },
+    {
+      "id": 3,
+      "english": "It's raining cats and dogs.",
+      "french": "Il pleut des cordes."
+    }
+  ]
+}

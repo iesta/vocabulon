@@ -1,0 +1,13 @@
+{
+  "id": "w00019",
+  "title": "Nature & Animals",
+  "day": 19,
+  "words": [
+    { "id": 1, "english": "Dog", "french": "Chien", "example": "My dog is very friendly. - Mon chien est très amical." },
+    { "id": 2, "english": "Cat", "french": "Chat", "example": "The cat is sleeping on the couch. - Le chat dort sur le canapé." },
+    { "id": 3, "english": "Tree", "french": "Arbre", "example": "There are many trees in the park. - Il y a beaucoup d'arbres dans le parc." },
+    { "id": 4, "english": "River", "french": "Rivière", "example": "We swam in the river. - Nous avons nagé dans la rivière." },
+    { "id": 5, "english": "Sun", "french": "Soleil", "example": "The sun is very bright today. - Le soleil est très brillant aujourd'hui." },
+    { "id": 6, "english": "Rain", "french": "Pluie", "example": "Don't forget your umbrella, it's going to rain. - N'oublie pas ton parapluie, il va pleuvoir." }
+  ]
+}

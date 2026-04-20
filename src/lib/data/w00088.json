@@ -1,0 +1,43 @@
+{
+  "id": "w00088",
+  "title": "Healthy Habits",
+  "day": 88,
+  "words": [
+    {
+      "id": 1,
+      "english": "Exercise",
+      "french": "Exercice",
+      "example": "Exercise daily. - Fais de l'exercice quotidiennement."
+    },
+    {
+      "id": 2,
+      "english": "Sleep",
+      "french": "Dormir",
+      "example": "I sleep eight hours. - Je dors huit heures."
+    },
+    {
+      "id": 3,
+      "english": "Hydrate",
+      "french": "S'hydrater",
+      "example": "Drink water to hydrate. - Bois de l'eau pour t'hydrater."
+    },
+    {
+      "id": 4,
+      "english": "Balanced diet",
+      "french": "Régime équilibré",
+      "example": "Eat a balanced diet. - Mange équilibré."
+    },
+    {
+      "id": 5,
+      "english": "Rest",
+      "french": "Se reposer",
+      "example": "Rest is important. - Le repos est important."
+    },
+    {
+      "id": 6,
+      "english": "Vaccination",
+      "french": "Vaccination",
+      "example": "Get your vaccination. - Fais ta vaccination."
+    }
+  ]
+}

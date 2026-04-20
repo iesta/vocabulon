@@ -1,0 +1,43 @@
+{
+  "id": "w00101",
+  "title": "Lunch & Dinner",
+  "day": 101,
+  "words": [
+    {
+      "id": 1,
+      "english": "Sandwich",
+      "french": "Sandwich",
+      "example": "Ham sandwich for lunch. - Sandwich au jambon pour le déjeuner."
+    },
+    {
+      "id": 2,
+      "english": "Salad",
+      "french": "Salade",
+      "example": "Caesar salad please. - Salade César s'il vous plaît."
+    },
+    {
+      "id": 3,
+      "english": "Soup",
+      "french": "Soupe",
+      "example": "Hot vegetable soup. - Soupe chaude aux légumes."
+    },
+    {
+      "id": 4,
+      "english": "Steak",
+      "french": "Steak",
+      "example": "Medium rare steak. - Steak à point."
+    },
+    {
+      "id": 5,
+      "english": "Roast",
+      "french": "Rôti",
+      "example": "Sunday roast dinner. - Rôti du dimanche."
+    },
+    {
+      "id": 6,
+      "english": "Grill",
+      "french": "Grillade",
+      "example": "Summer grill party. - Fête au grill en été."
+    }
+  ]
+}

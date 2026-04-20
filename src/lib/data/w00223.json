@@ -1,0 +1,43 @@
+{
+  "id": "w00223",
+  "title": "Educational",
+  "day": 223,
+  "words": [
+    {
+      "id": 1,
+      "english": "School",
+      "french": "École",
+      "example": "Elementary school yard. - Cour d'école primaire."
+    },
+    {
+      "id": 2,
+      "english": "College",
+      "french": "Collège",
+      "example": "Community college course. - Cours de collège communautaire."
+    },
+    {
+      "id": 3,
+      "english": "University",
+      "french": "Université",
+      "example": "Large university campus. - Grand campus universitaire."
+    },
+    {
+      "id": 4,
+      "english": "Library",
+      "french": "Bibliothèque",
+      "example": "University library study. - Étude à la bibliothèque universitaire."
+    },
+    {
+      "id": 5,
+      "english": "Laboratory",
+      "french": "Laboratoire",
+      "example": "Science laboratory equipment. - Équipement de laboratoire scientifique."
+    },
+    {
+      "id": 6,
+      "english": "Campus",
+      "french": "Campus",
+      "example": "Beautiful campus grounds. - Beaux terrains de campus."
+    }
+  ]
+}

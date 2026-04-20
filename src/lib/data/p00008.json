@@ -1,0 +1,22 @@
+{
+  "id": "p00008",
+  "title": "Hobbies",
+  "day": 8,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "What do you like to do?",
+      "french": "Qu'aimez-vous faire?"
+    },
+    {
+      "id": 2,
+      "english": "I enjoy playing football.",
+      "french": "J'aime jouer au football."
+    },
+    {
+      "id": 3,
+      "english": "Do you have any hobbies?",
+      "french": "Avez-vous des loisirs?"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00066",
+  "title": "Advanced: Technology",
+  "day": 66,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Artificial intelligence is the future.",
+      "french": "L'intelligence artificielle est l'avenir."
+    },
+    {
+      "id": 2,
+      "english": "Data is the new oil.",
+      "french": "Les données sont le nouveau pétrole."
+    },
+    {
+      "id": 3,
+      "english": "Blockchain revolutionizes finance.",
+      "french": "La blockchain révolutionne la finance."
+    }
+  ]
+}

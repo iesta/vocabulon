@@ -1,0 +1,43 @@
+{
+  "id": "w00039",
+  "title": "Health V2",
+  "day": 39,
+  "words": [
+    {
+      "id": 1,
+      "english": "Doctor",
+      "french": "Docteur / Médecin",
+      "example": "I need to see a doctor. - J'ai besoin de voir un médecin."
+    },
+    {
+      "id": 2,
+      "english": "Medicine",
+      "french": "Médicament",
+      "example": "Take this medicine twice a day. - Prends ce médicament deux fois par jour."
+    },
+    {
+      "id": 3,
+      "english": "Hospital",
+      "french": "Hôpital",
+      "example": "My mom works at the hospital. - Ma mère travaille à l'hôpital."
+    },
+    {
+      "id": 4,
+      "english": "Stomachache",
+      "french": "Mal de ventre",
+      "example": "I have a stomachache. - J'ai mal au ventre."
+    },
+    {
+      "id": 5,
+      "english": "Fever",
+      "french": "Fièvre",
+      "example": "She has a high fever. - Elle a une forte fièvre."
+    },
+    {
+      "id": 6,
+      "english": "To rest",
+      "french": "Se reposer",
+      "example": "You need to rest. - Tu as besoin de te reposer."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00014",
+  "title": "Directions",
+  "day": 14,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Where is the station?",
+      "french": "Où est la gare?"
+    },
+    {
+      "id": 2,
+      "english": "Turn left here.",
+      "french": "Tournez à gauche ici."
+    },
+    {
+      "id": 3,
+      "english": "It's straight ahead.",
+      "french": "C'est tout droit."
+    }
+  ]
+}

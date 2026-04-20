@@ -1,0 +1,43 @@
+{
+  "id": "w00049",
+  "title": "Law & Crime V3",
+  "day": 49,
+  "words": [
+    {
+      "id": 1,
+      "english": "Police",
+      "french": "Police",
+      "example": "Call the police! - Appelez la police!"
+    },
+    {
+      "id": 2,
+      "english": "Crime",
+      "french": "Crime / Délit",
+      "example": "Crime is not acceptable. - Le crime n'est pas acceptable."
+    },
+    {
+      "id": 3,
+      "english": "Jail",
+      "french": "Prison",
+      "example": "He went to jail. - Il est allé en prison."
+    },
+    {
+      "id": 4,
+      "english": "Judge",
+      "french": "Juge",
+      "example": "The judge made a decision. - Le juge a pris une décision."
+    },
+    {
+      "id": 5,
+      "english": "Guilty",
+      "french": "Coupable",
+      "example": "The jury found him guilty. - Le jury l'a trouvé coupable."
+    },
+    {
+      "id": 6,
+      "english": "Innocent",
+      "french": "Innocent",
+      "example": "He is innocent until proven guilty. - Il est innocent jusqu'à preuve du contraire."
+    }
+  ]
+}

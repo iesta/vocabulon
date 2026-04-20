@@ -1,0 +1,22 @@
+{
+  "id": "p00082",
+  "title": "Expert: Medical",
+  "day": 82,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The diagnosis was conclusive.",
+      "french": "Le diagnostic était concluant."
+    },
+    {
+      "id": 2,
+      "english": "The treatment yielded positive results.",
+      "french": "Le traitement a donné des résultats positifs."
+    },
+    {
+      "id": 3,
+      "english": "Chronic conditions require management.",
+      "french": "Les conditions chroniques nécessitent une gestion."
+    }
+  ]
+}

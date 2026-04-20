@@ -1,0 +1,43 @@
+{
+  "id": "w00089",
+  "title": "Emergency",
+  "day": 89,
+  "words": [
+    {
+      "id": 1,
+      "english": "Emergency",
+      "french": "Urgence",
+      "example": "Call emergency! - Appelez les urgences!"
+    },
+    {
+      "id": 2,
+      "english": "Ambulance",
+      "french": "Ambulance",
+      "example": "The ambulance is coming. - L'ambulance arrive."
+    },
+    {
+      "id": 3,
+      "english": "First aid",
+      "french": "Premiers secours",
+      "example": "I know first aid. - Je connais les premiers secours."
+    },
+    {
+      "id": 4,
+      "english": "Bleeding",
+      "french": "Saignement",
+      "example": "Stop the bleeding. - Arrête le saignement."
+    },
+    {
+      "id": 5,
+      "english": "Bandage",
+      "french": "Pansement",
+      "example": "Put a bandage on it. - Mets un pansement dessus."
+    },
+    {
+      "id": 6,
+      "english": "Unconscious",
+      "french": "Inconscient",
+      "example": "He is unconscious. - Il est inconscient."
+    }
+  ]
+}

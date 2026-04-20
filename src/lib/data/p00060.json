@@ -1,0 +1,22 @@
+{
+  "id": "p00060",
+  "title": "Wisdom",
+  "day": 60,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Actions speak louder than words.",
+      "french": "Les actes valent plus que les mots."
+    },
+    {
+      "id": 2,
+      "english": "Better late than never.",
+      "french": "Mieux vaut tard que jamais."
+    },
+    {
+      "id": 3,
+      "english": "Don't count your chickens before they hatch.",
+      "french": "Ne vends pas la peau de l'ours."
+    }
+  ]
+}

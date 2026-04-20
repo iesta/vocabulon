@@ -1,0 +1,43 @@
+{
+  "id": "w00054",
+  "title": "Water Sports",
+  "day": 54,
+  "words": [
+    {
+      "id": 1,
+      "english": "Diving",
+      "french": "Plongée",
+      "example": "Scuba diving is fascinating. - La plongée sous-marine est fascinante."
+    },
+    {
+      "id": 2,
+      "english": "Kayaking",
+      "french": "Canoë-kayak",
+      "example": "We went kayaking on the river. - Nous avons fait du canoe-kayak sur la rivière."
+    },
+    {
+      "id": 3,
+      "english": "Sailing",
+      "french": "Voile",
+      "example": "Sailing requires wind. - La voile nécessite du vent."
+    },
+    {
+      "id": 4,
+      "english": "Rowing",
+      "french": "Aviron",
+      "example": "He practices rowing every morning. - Il pratique l'aviron chaque matin."
+    },
+    {
+      "id": 5,
+      "english": "Windsurfing",
+      "french": "Planche à voile",
+      "example": "Windsurfing combines sailing and surfing. - La planche à voile combine la voile et le surf."
+    },
+    {
+      "id": 6,
+      "english": "Snorkeling",
+      "french": "Snorkeling",
+      "example": "Snorkeling lets you see fish. - Le snorkeling permet de voir les poissons."
+    }
+  ]
+}

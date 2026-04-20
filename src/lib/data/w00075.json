@@ -1,0 +1,43 @@
+{
+  "id": "w00075",
+  "title": "Animal Homes",
+  "day": 75,
+  "words": [
+    {
+      "id": 1,
+      "english": "Nest",
+      "french": "Nid",
+      "example": "Birds live in nests. - Les oiseaux vivent dans des nids."
+    },
+    {
+      "id": 2,
+      "english": "Den",
+      "french": "Tanière",
+      "example": "The bear sleeps in its den. - L'ours dort dans sa tanière."
+    },
+    {
+      "id": 3,
+      "english": "Burrow",
+      "french": "Terrier",
+      "example": "The rabbit is in its burrow. - Le lapin est dans son terrier."
+    },
+    {
+      "id": 4,
+      "english": "Hive",
+      "french": "Ruche",
+      "example": "Bees live in a hive. - Les abeilles vivent dans une ruche."
+    },
+    {
+      "id": 5,
+      "english": "Aquarium",
+      "french": "Aquarium",
+      "example": "Fish live in an aquarium. - Les poissons vivent dans un aquarium."
+    },
+    {
+      "id": 6,
+      "english": "Cage",
+      "french": "Cage",
+      "example": "The bird is in a cage. - L'oiseau est dans une cage."
+    }
+  ]
+}

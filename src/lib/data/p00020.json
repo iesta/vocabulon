@@ -1,0 +1,22 @@
+{
+  "id": "p00020",
+  "title": "Parties & Events",
+  "day": 20,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Are you coming to my party?",
+      "french": "Tu viens à ma fête?"
+    },
+    {
+      "id": 2,
+      "english": "Happy birthday to you!",
+      "french": "Joyeux anniversaire!"
+    },
+    {
+      "id": 3,
+      "english": "Let's celebrate together!",
+      "french": "Célébrons ensemble!"
+    }
+  ]
+}

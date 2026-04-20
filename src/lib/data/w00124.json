@@ -1,0 +1,43 @@
+{
+  "id": "w00124",
+  "title": "Photography",
+  "day": 124,
+  "words": [
+    {
+      "id": 1,
+      "english": "Portrait",
+      "french": "Portrait",
+      "example": "Professional portrait photo. - Photo de portrait professionnelle."
+    },
+    {
+      "id": 2,
+      "english": "Landscape",
+      "french": "Paysage",
+      "example": "Beautiful landscape shot. - Belle photo de paysage."
+    },
+    {
+      "id": 3,
+      "english": "Aperture",
+      "french": "Ouverture",
+      "example": "Camera aperture setting. - Réglage d'ouverture de l'appareil."
+    },
+    {
+      "id": 4,
+      "english": "Exposure",
+      "french": "Exposition",
+      "example": "Photo exposure time. - Temps d'exposition photo."
+    },
+    {
+      "id": 5,
+      "english": "Snapshot",
+      "french": "Instantané",
+      "example": "Quick snapshot moment. - Moment d'instantané rapide."
+    },
+    {
+      "id": 6,
+      "english": "Framing",
+      "french": "Cadrage",
+      "example": "Creative photo framing. - Cadrage photo créatif."
+    }
+  ]
+}

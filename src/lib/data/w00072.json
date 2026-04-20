@@ -1,0 +1,43 @@
+{
+  "id": "w00072",
+  "title": "Reptiles & Amphibians",
+  "day": 72,
+  "words": [
+    {
+      "id": 1,
+      "english": "Snake",
+      "french": "Serpent",
+      "example": "The snake slithers. - Le serpent rampe."
+    },
+    {
+      "id": 2,
+      "english": "Turtle",
+      "french": "Tortue",
+      "example": "The turtle is slow. - La tortue est lente."
+    },
+    {
+      "id": 3,
+      "english": "Frog",
+      "french": "Grenouille",
+      "example": "The frog jumps. - La grenouille saute."
+    },
+    {
+      "id": 4,
+      "english": "Lizard",
+      "french": "Lézard",
+      "example": "The lizard basks in the sun. - Le lézard se chauffe au soleil."
+    },
+    {
+      "id": 5,
+      "english": "Crocodile",
+      "french": "Crocodile",
+      "example": "The crocodile is dangerous. - Le crocodile est dangereux."
+    },
+    {
+      "id": 6,
+      "english": "Chameleon",
+      "french": "Caméléon",
+      "example": "The chameleon changes color. - Le caméléon change de couleur."
+    }
+  ]
+}

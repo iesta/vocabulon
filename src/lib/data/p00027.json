@@ -1,0 +1,22 @@
+{
+  "id": "p00027",
+  "title": "Dreams & Goals",
+  "day": 27,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I want to become a doctor.",
+      "french": "Je veux devenir médecin."
+    },
+    {
+      "id": 2,
+      "english": "Dreams do come true!",
+      "french": "Les rêves deviennent réalité!"
+    },
+    {
+      "id": 3,
+      "english": "Never give up on your dreams.",
+      "french": "N'abandonne jamais tes rêves."
+    }
+  ]
+}

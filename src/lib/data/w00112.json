@@ -1,0 +1,43 @@
+{
+  "id": "w00112",
+  "title": "TV & Video",
+  "day": 112,
+  "words": [
+    {
+      "id": 1,
+      "english": "Television",
+      "french": "Télévision",
+      "example": "Watch television. - Regarder la télévision."
+    },
+    {
+      "id": 2,
+      "english": "Remote",
+      "french": "Télécommande",
+      "example": "Where's the remote? - Où est la télécommande?"
+    },
+    {
+      "id": 3,
+      "english": "Channel",
+      "french": "Chaîne",
+      "example": "Change the channel. - Change de chaîne."
+    },
+    {
+      "id": 4,
+      "english": "Volume",
+      "french": "Volume",
+      "example": "Turn up the volume. - Monte le son."
+    },
+    {
+      "id": 5,
+      "english": "HDMI",
+      "french": "HDMI",
+      "example": "HDMI cable connection. - Connexion cable HDMI."
+    },
+    {
+      "id": 6,
+      "english": "Projector",
+      "french": "Projecteur",
+      "example": "Movie projector. - Projecteur de cinéma."
+    }
+  ]
+}

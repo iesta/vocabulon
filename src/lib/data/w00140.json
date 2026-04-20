@@ -1,0 +1,43 @@
+{
+  "id": "w00140",
+  "title": "Buying & Selling",
+  "day": 140,
+  "words": [
+    {
+      "id": 1,
+      "english": "Buy",
+      "french": "Acheter",
+      "example": "Buy groceries. - Achète des provisions."
+    },
+    {
+      "id": 2,
+      "english": "Sell",
+      "french": "Vendre",
+      "example": "Sell your old stuff. - Vends tes vieilles choses."
+    },
+    {
+      "id": 3,
+      "english": "Pay",
+      "french": "Payer",
+      "example": "Pay the bill. - Paie l'addition."
+    },
+    {
+      "id": 4,
+      "english": "Cost",
+      "french": "Coûter",
+      "example": "How much does it cost? - Combien ça coûte?"
+    },
+    {
+      "id": 5,
+      "english": "Spend",
+      "french": "Dépenser",
+      "example": "Spend wisely. - Dépense judicieusement."
+    },
+    {
+      "id": 6,
+      "english": "Save",
+      "french": "Épargner",
+      "example": "Save money. - Épargne de l'argent."
+    }
+  ]
+}

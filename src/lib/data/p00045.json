@@ -1,0 +1,22 @@
+{
+  "id": "p00045",
+  "title": "Congratulations",
+  "day": 45,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Congratulations on your success!",
+      "french": "Félicitations pour votre succès!"
+    },
+    {
+      "id": 2,
+      "english": "Well done, you did it!",
+      "french": "Bien joué, tu l'as fait!"
+    },
+    {
+      "id": 3,
+      "english": "I'm proud of you!",
+      "french": "Je suis fier de toi!"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00048",
+  "title": "Literature V3",
+  "day": 48,
+  "words": [
+    {
+      "id": 1,
+      "english": "Novel",
+      "french": "Roman",
+      "example": "I'm reading an exciting novel. - Je lis un roman passionnant."
+    },
+    {
+      "id": 2,
+      "english": "Author",
+      "french": "Auteur",
+      "example": "Who is your favorite author? - Qui est ton auteur préféré?"
+    },
+    {
+      "id": 3,
+      "english": "Chapter",
+      "french": "Chapitre",
+      "example": "Read chapter three for tomorrow. - Lis le chapitre trois pour demain."
+    },
+    {
+      "id": 4,
+      "english": "Story",
+      "french": "Histoire",
+      "example": "Tell me a story. - Raconte-moi une histoire."
+    },
+    {
+      "id": 5,
+      "english": "Poem",
+      "french": "Poème",
+      "example": "She wrote a beautiful poem. - Elle a écrit un beau poème."
+    },
+    {
+      "id": 6,
+      "english": "Character",
+      "french": "Personnage",
+      "example": "Who's your favorite character? - Qui est ton personnage préféré?"
+    }
+  ]
+}

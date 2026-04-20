@@ -1,0 +1,43 @@
+{
+  "id": "w00148",
+  "title": "Maintenance",
+  "day": 148,
+  "words": [
+    {
+      "id": 1,
+      "english": "Clean",
+      "french": "Nettoyer",
+      "example": "Clean your room. - Nettoie ta chambre."
+    },
+    {
+      "id": 2,
+      "english": "Wash",
+      "french": "Laver",
+      "example": "Wash your hands. - Lave-toi les mains."
+    },
+    {
+      "id": 3,
+      "english": "Fix",
+      "french": "Réparer",
+      "example": "Fix the bike. - Répare le vélo."
+    },
+    {
+      "id": 4,
+      "english": "Repair",
+      "french": "Réparer",
+      "example": "Repair the broken item. - Répare l'objet cassé."
+    },
+    {
+      "id": 5,
+      "english": "Paint",
+      "french": "Peindre",
+      "example": "Paint over the stain. - Peins par-dessus la tache."
+    },
+    {
+      "id": 6,
+      "english": "Replace",
+      "french": "Remplacer",
+      "example": "Replace the battery. - Remplace la batterie."
+    }
+  ]
+}

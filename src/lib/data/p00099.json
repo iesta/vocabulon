@@ -1,0 +1,22 @@
+{
+  "id": "p00099",
+  "title": "Expert: Final Reflections",
+  "day": 99,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Wisdom lies in knowing what you don't know.",
+      "french": "La sagesse consiste à savoir ce que vous ne savez pas."
+    },
+    {
+      "id": 2,
+      "english": "The pursuit of knowledge is endless.",
+      "french": "La quête du savoir est sans fin."
+    },
+    {
+      "id": 3,
+      "english": "Excellence is a habit, not an act.",
+      "french": "L'excellence est une habitude, pas un acte."
+    }
+  ]
+}

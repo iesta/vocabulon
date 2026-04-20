@@ -1,0 +1,43 @@
+{
+  "id": "w00167",
+  "title": "Colors & Patterns",
+  "day": 167,
+  "words": [
+    {
+      "id": 1,
+      "english": "Striped",
+      "french": "Rayé",
+      "example": "Horizontal striped shirt. - Chemise à rayures horizontales."
+    },
+    {
+      "id": 2,
+      "english": "Plaid",
+      "french": "À carreaux",
+      "example": "Classic plaid pattern. - Motif à carreaux classique."
+    },
+    {
+      "id": 3,
+      "english": "Polka dot",
+      "french": "À pois",
+      "example": "Polka dot dress. - Robe à pois."
+    },
+    {
+      "id": 4,
+      "english": "Floral",
+      "french": "Fleuri",
+      "example": "Floral print summer dress. - Robe d'été à motif floral."
+    },
+    {
+      "id": 5,
+      "english": "Paisley",
+      "french": "Paisley",
+      "example": "Paisley tie pattern. - Motif de cravate paisley."
+    },
+    {
+      "id": 6,
+      "english": "Argyle",
+      "french": "Argyles",
+      "example": "Argyle socks. - Chaussettes en argyles."
+    }
+  ]
+}

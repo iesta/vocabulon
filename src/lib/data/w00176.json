@@ -1,0 +1,43 @@
+{
+  "id": "w00176",
+  "title": "Train Travel",
+  "day": 176,
+  "words": [
+    {
+      "id": 1,
+      "english": "Station",
+      "french": "Gare",
+      "example": "Train station platform. - Quai de la gare."
+    },
+    {
+      "id": 2,
+      "english": "Platform",
+      "french": "Quai",
+      "example": "Platform number seven. - Quai numéro sept."
+    },
+    {
+      "id": 3,
+      "english": "Ticket",
+      "french": "Billet",
+      "example": "Round trip ticket. - Billet aller-retour."
+    },
+    {
+      "id": 4,
+      "english": "Passenger",
+      "french": "Passager",
+      "example": "Train passenger car. - Voiture à passagers."
+    },
+    {
+      "id": 5,
+      "english": "Schedule",
+      "french": "Horaire",
+      "example": "Train schedule changes. - Changements d'horaire de train."
+    },
+    {
+      "id": 6,
+      "english": "Conductor",
+      "french": "Contrôleur",
+      "example": "Ticket from conductor. - Billet du contrôleur."
+    }
+  ]
+}

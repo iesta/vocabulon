@@ -1,0 +1,22 @@
+{
+  "id": "p00006",
+  "title": "Daily Activities",
+  "day": 6,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I wake up at 7am.",
+      "french": "Je me réveille à 7h."
+    },
+    {
+      "id": 2,
+      "english": "I have breakfast at 8am.",
+      "french": "Je prends le petit-déjeuner à 8h."
+    },
+    {
+      "id": 3,
+      "english": "I go to school by bus.",
+      "french": "Je vais à l'école en bus."
+    }
+  ]
+}

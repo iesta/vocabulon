@@ -1,0 +1,22 @@
+{
+  "id": "p00049",
+  "title": "Science",
+  "day": 49,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Science is the key to the future.",
+      "french": "La science est la clé de l'avenir."
+    },
+    {
+      "id": 2,
+      "english": "Have you heard about climate change?",
+      "french": "Avez-vous entendu parler du changement climatique?"
+    },
+    {
+      "id": 3,
+      "english": "Technology is evolving rapidly.",
+      "french": "La technologie évolue rapidement."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00238",
+  "title": "Media & Communication",
+  "day": 238,
+  "words": [
+    {
+      "id": 1,
+      "english": "Reporter",
+      "french": "Reporter",
+      "example": "News reporter live. - Reportage du reporter d'actualités en direct."
+    },
+    {
+      "id": 2,
+      "english": "Producer",
+      "french": "Producteur",
+      "example": "Film producer funding. - Financement du producteur de film."
+    },
+    {
+      "id": 3,
+      "english": "Director",
+      "french": "Réalisateur",
+      "example": "Movie director vision. - Vision du réalisateur de film."
+    },
+    {
+      "id": 4,
+      "english": "Editor",
+      "french": "Éditeur",
+      "example": "News editor decisions. - Décisions de l'éditeur de nouvelles."
+    },
+    {
+      "id": 5,
+      "english": "Blogger",
+      "french": "Blogueur",
+      "example": "Popular blogger posts. - Publications duBlogueur populaire."
+    },
+    {
+      "id": 6,
+      "english": "Influencer",
+      "french": "Influenceur",
+      "example": "Social media influencer. - Influenceur des réseaux sociaux."
+    }
+  ]
+}

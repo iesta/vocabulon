@@ -1,0 +1,43 @@
+{
+  "id": "w00156",
+  "title": "Tops",
+  "day": 156,
+  "words": [
+    {
+      "id": 1,
+      "english": "Shirt",
+      "french": "Chemise",
+      "example": "Wear a clean shirt. - Porte une chemise propre."
+    },
+    {
+      "id": 2,
+      "english": "T-shirt",
+      "french": "T-shirt",
+      "example": "Cotton t-shirt. - T-shirt en coton."
+    },
+    {
+      "id": 3,
+      "english": "Blouse",
+      "french": "Blouse",
+      "example": "Silk blouse. - Blouse en soie."
+    },
+    {
+      "id": 4,
+      "english": "Sweater",
+      "french": "Chandail",
+      "example": "Wool sweater. - Chandail en laine."
+    },
+    {
+      "id": 5,
+      "english": "Jacket",
+      "french": "Veste",
+      "example": "Leather jacket. - Veste en cuir."
+    },
+    {
+      "id": 6,
+      "english": "Coat",
+      "french": "Manteau",
+      "example": "Winter coat. - Manteau d'hiver."
+    }
+  ]
+}

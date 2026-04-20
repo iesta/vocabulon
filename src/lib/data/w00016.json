@@ -1,0 +1,13 @@
+{
+  "id": "w00016",
+  "title": "Food & Drinks",
+  "day": 16,
+  "words": [
+    { "id": 1, "english": "Restaurant", "french": "Restaurant", "example": "This restaurant is very famous. - Ce restaurant est très célèbre." },
+    { "id": 2, "english": "Menu", "french": "Carte / Menu", "example": "Can I see the menu please? - Puis-je voir la carte s'il vous plaît?" },
+    { "id": 3, "english": "Delicious", "french": "Délicieux", "example": "This cake is delicious! - Ce gâteau est délicieux!" },
+    { "id": 4, "english": "Coffee", "french": "Café", "example": "I drink coffee every morning. - Je bois du café chaque matin." },
+    { "id": 5, "english": "Ice cream", "french": "Glace", "example": "Do you want some ice cream? - Tu veux une glace?" },
+    { "id": 6, "english": "Bill", "french": "L'addition", "example": "Can I have the bill please? - L'addition s'il vous plaît!" }
+  ]
+}

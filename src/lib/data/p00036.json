@@ -1,0 +1,22 @@
+{
+  "id": "p00036",
+  "title": "Money",
+  "day": 36,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Money doesn't grow on trees.",
+      "french": "L'argent ne pousse pas dans les arbres."
+    },
+    {
+      "id": 2,
+      "english": "I need to save money.",
+      "french": "J'ai besoin d'épargner de l'argent."
+    },
+    {
+      "id": 3,
+      "english": "How much do you earn?",
+      "french": "Combien gagnez-vous?"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00207",
+  "title": "Life Events",
+  "day": 207,
+  "words": [
+    {
+      "id": 1,
+      "english": "Birth",
+      "french": "Naissance",
+      "example": "Birth announcement joy. - Joie d'annonce de naissance."
+    },
+    {
+      "id": 2,
+      "english": "Birthday",
+      "french": "Anniversaire",
+      "example": "Happy birthday wishes. - Souhaits d'anniversaire feliz."
+    },
+    {
+      "id": 3,
+      "english": "Death",
+      "french": "Mort",
+      "example": "Funeral ceremony respect. - Respect de cérémonie funéraire."
+    },
+    {
+      "id": 4,
+      "english": "Wedding",
+      "french": "Mariage",
+      "example": "Wedding celebration dance. - Danse de célébration de mariage."
+    },
+    {
+      "id": 5,
+      "english": "Retirement",
+      "french": "Retraite",
+      "example": "Retirement party planning. - Planification de fête de retraite."
+    },
+    {
+      "id": 6,
+      "english": "Reunion",
+      "french": "Réunion",
+      "example": "Family reunion gathering. - Rassemblement de réunion de famille."
+    }
+  ]
+}

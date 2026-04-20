@@ -1,0 +1,43 @@
+{
+  "id": "w00022",
+  "title": "Clothes V2",
+  "day": 22,
+  "words": [
+    {
+      "id": 1,
+      "english": "T-shirt",
+      "french": "T-shirt",
+      "example": "I'm wearing my favorite t-shirt. - Je porte mon t-shirt préféré."
+    },
+    {
+      "id": 2,
+      "english": "Jeans",
+      "french": "Jean",
+      "example": "These jeans are too tight. - Ce jean est trop serré."
+    },
+    {
+      "id": 3,
+      "english": "Shoes",
+      "french": "Chaussures",
+      "example": "I need new shoes for school. - J'ai besoin de nouvelles chaussures pour l'école."
+    },
+    {
+      "id": 4,
+      "english": "Jacket",
+      "french": "Veste",
+      "example": "Bring your jacket, it's cold. - Apporte ta veste, il fait froid."
+    },
+    {
+      "id": 5,
+      "english": "Hat",
+      "french": "Chapeau",
+      "example": "This hat looks cool! - Ce chapeau a l'air cool!"
+    },
+    {
+      "id": 6,
+      "english": "Dress",
+      "french": "Robe",
+      "example": "She wore a beautiful dress to the party. - Elle portait une belle robe à la fête."
+    }
+  ]
+}

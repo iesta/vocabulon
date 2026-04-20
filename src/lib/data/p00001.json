@@ -1,0 +1,22 @@
+{
+  "id": "p00001",
+  "title": "Basic Greetings",
+  "day": 1,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Hello, how are you?",
+      "french": "Bonjour, comment allez-vous?"
+    },
+    {
+      "id": 2,
+      "english": "Nice to meet you!",
+      "french": "Enchanté de vous rencontrer!"
+    },
+    {
+      "id": 3,
+      "english": "Have a nice day!",
+      "french": "Passez une bonne journée!"
+    }
+  ]
+}

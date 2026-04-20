@@ -1,0 +1,43 @@
+{
+  "id": "w00062",
+  "title": "Wild Animals",
+  "day": 62,
+  "words": [
+    {
+      "id": 1,
+      "english": "Lion",
+      "french": "Lion",
+      "example": "The lion is the king. - Le lion est le roi."
+    },
+    {
+      "id": 2,
+      "english": "Elephant",
+      "french": "Élphant",
+      "example": "An elephant never forgets. - Un éléphant n'oublie jamais."
+    },
+    {
+      "id": 3,
+      "english": "Monkey",
+      "french": "Singe",
+      "example": "The monkey swings in trees. - Le singe se balance dans les arbres."
+    },
+    {
+      "id": 4,
+      "english": "Giraffe",
+      "french": "Girafe",
+      "example": "The giraffe has a long neck. - La girafe a un long cou."
+    },
+    {
+      "id": 5,
+      "english": "Zebra",
+      "french": "Zèbre",
+      "example": "Zebras are striped. - Les zèbres sont rayés."
+    },
+    {
+      "id": 6,
+      "english": "Kangaroo",
+      "french": "Kangourou",
+      "example": "The kangaroo hops. - Le kangourou saute."
+    }
+  ]
+}

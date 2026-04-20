@@ -1,0 +1,43 @@
+{
+  "id": "w00103",
+  "title": "Condiments",
+  "day": 103,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ketchup",
+      "french": "Ketchup",
+      "example": "Ketchup on fries. - Du ketchup avec les frites."
+    },
+    {
+      "id": 2,
+      "english": "Mustard",
+      "french": "Moutarde",
+      "example": "Yellow mustard on hot dog. - Moutarde jaune sur hot dog."
+    },
+    {
+      "id": 3,
+      "english": "Mayonnaise",
+      "french": "Mayonnaise",
+      "example": "Mayo on my sandwich. - Mayo sur mon sandwich."
+    },
+    {
+      "id": 4,
+      "english": "Soy sauce",
+      "french": "Sauce soja",
+      "example": "Soy sauce for sushi. - Sauce soja pour sushi."
+    },
+    {
+      "id": 5,
+      "english": "Hot sauce",
+      "french": "Sauce piquante",
+      "example": "Extra hot sauce please. - Sauce piquante supplémentaire."
+    },
+    {
+      "id": 6,
+      "english": "Vinegar",
+      "french": "Vinaigre",
+      "example": "Oil and vinegar dressing. - Vinaigrette huile et vinaigre."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00087",
+  "title": "Expert: Psychological",
+  "day": 87,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Cognitive dissonance affects behavior.",
+      "french": "La dissonance cognitive affecte le comportement."
+    },
+    {
+      "id": 2,
+      "english": "Subconscious biases influence decisions.",
+      "french": "Les biais subconscients influencent les décisions."
+    },
+    {
+      "id": 3,
+      "english": "Emotional intelligence is crucial.",
+      "french": "L'intelligence émotionnelle est cruciale."
+    }
+  ]
+}

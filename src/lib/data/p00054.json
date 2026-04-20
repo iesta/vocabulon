@@ -1,0 +1,22 @@
+{
+  "id": "p00054",
+  "title": "Music & Dance",
+  "day": 54,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Music feeds the soul.",
+      "french": "La musique nourrit l'âme."
+    },
+    {
+      "id": 2,
+      "english": "Shall we dance?",
+      "french": "Danse-t-on?"
+    },
+    {
+      "id": 3,
+      "english": "I have music in my heart.",
+      "french": "J'ai de la musique dans mon cœur."
+    }
+  ]
+}

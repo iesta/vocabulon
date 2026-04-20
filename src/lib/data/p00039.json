@@ -1,0 +1,22 @@
+{
+  "id": "p00039",
+  "title": "Future Tense",
+  "day": 39,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I will call you tomorrow.",
+      "french": "Je t'appellerai demain."
+    },
+    {
+      "id": 2,
+      "english": "We're going to travel next month.",
+      "french": "Nous allons voyager le mois prochain."
+    },
+    {
+      "id": 3,
+      "english": "One day, I'll visit Japan.",
+      "french": "Un jour, je visiterai le Japon."
+    }
+  ]
+}

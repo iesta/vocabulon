@@ -1,0 +1,43 @@
+{
+  "id": "w00036",
+  "title": "Breakfast V2",
+  "day": 36,
+  "words": [
+    {
+      "id": 1,
+      "english": "Eggs",
+      "french": "Œufs",
+      "example": "I have eggs for breakfast. - Je mange des œufs au petit-déjeuner."
+    },
+    {
+      "id": 2,
+      "english": "Butter",
+      "french": "Beurre",
+      "example": "Put butter on your bread. - Mets du beurre sur ton pain."
+    },
+    {
+      "id": 3,
+      "english": "Cereal",
+      "french": "Céréales",
+      "example": "I eat cereal with milk. - Je mange des céréales avec du lait."
+    },
+    {
+      "id": 4,
+      "english": "Yogurt",
+      "french": "Yaourt",
+      "example": "This yogurt is strawberry flavor. - Ce yaourt est goût fraise."
+    },
+    {
+      "id": 5,
+      "english": "Honey",
+      "french": "Miel",
+      "example": "I like honey in my tea. - J'aime le miel dans mon thé."
+    },
+    {
+      "id": 6,
+      "english": "Toast",
+      "french": "Toast",
+      "example": "Two toasts please. - Deux toasts s'il vous plaît."
+    }
+  ]
+}

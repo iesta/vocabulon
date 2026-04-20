@@ -1,0 +1,43 @@
+{
+  "id": "w00180",
+  "title": "Tickets & Fares",
+  "day": 180,
+  "words": [
+    {
+      "id": 1,
+      "english": "Fare",
+      "french": "Tarif",
+      "example": "Monthly pass fare. - Tarif de pass mensuel."
+    },
+    {
+      "id": 2,
+      "english": "Pass",
+      "french": "Passe",
+      "example": "Unlimited ride pass. - Passe de trajets illimités."
+    },
+    {
+      "id": 3,
+      "english": "Reservation",
+      "french": "Réservation",
+      "example": "Train seat reservation. - Réservation de siège train."
+    },
+    {
+      "id": 4,
+      "english": "Seat",
+      "french": "Siège",
+      "example": "Window seat please. - Siège côté fenêtre s'il vous plaît."
+    },
+    {
+      "id": 5,
+      "english": "Boarding pass",
+      "french": "Carte d'embarquement",
+      "example": "Scan boarding pass. - Scan de la carte d'embarquement."
+    },
+    {
+      "id": 6,
+      "english": "Checkpoint",
+      "french": "Point de contrôle",
+      "example": "Security checkpoint line. - File du point de contrôle sécurité."
+    }
+  ]
+}

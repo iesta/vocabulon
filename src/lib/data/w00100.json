@@ -1,0 +1,43 @@
+{
+  "id": "w00100",
+  "title": "Breakfast",
+  "day": 100,
+  "words": [
+    {
+      "id": 1,
+      "english": "Eggs",
+      "french": "Œufs",
+      "example": "Scrambled eggs for breakfast. - Œufs brouillés au petit-déjeuner."
+    },
+    {
+      "id": 2,
+      "english": "Bacon",
+      "french": "Bacon",
+      "example": "Crispy bacon strips. - Tranches de bacon croustillantes."
+    },
+    {
+      "id": 3,
+      "english": "Pancakes",
+      "french": "Crêpes",
+      "example": "Stack of pancakes. - Une pile de crêpes."
+    },
+    {
+      "id": 4,
+      "english": "Waffles",
+      "french": "Gaufres",
+      "example": "Belgian waffles. - Gaufres belges."
+    },
+    {
+      "id": 5,
+      "english": "Oatmeal",
+      "french": "Porridge",
+      "example": "Warm oatmeal in winter. - Porridge chaud en hiver."
+    },
+    {
+      "id": 6,
+      "english": "Toast",
+      "french": "Toast",
+      "example": "Buttered toast. - Toast beurré."
+    }
+  ]
+}

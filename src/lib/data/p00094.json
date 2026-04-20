@@ -1,0 +1,22 @@
+{
+  "id": "p00094",
+  "title": "Expert: Complex Situations",
+  "day": 94,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The situation escalated beyond control.",
+      "french": "La situation a dégénéré beyond contrôle."
+    },
+    {
+      "id": 2,
+      "english": "We must navigate these treacherous waters.",
+      "french": "Nous devons naviguer dans ces eaux treacherous."
+    },
+    {
+      "id": 3,
+      "english": "The status quo is untenable.",
+      "french": "Le statu quo est intenable."
+    }
+  ]
+}

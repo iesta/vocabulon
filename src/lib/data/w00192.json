@@ -1,0 +1,43 @@
+{
+  "id": "w00192",
+  "title": "Languages",
+  "day": 192,
+  "words": [
+    {
+      "id": 1,
+      "english": "French",
+      "french": "Français",
+      "example": "French language fluency. - Fluidité en langue française."
+    },
+    {
+      "id": 2,
+      "english": "Spanish",
+      "french": "Espagnol",
+      "example": "Spanish conversation practice. - Pratique de conversation espagnole."
+    },
+    {
+      "id": 3,
+      "english": "German",
+      "french": "Allemand",
+      "example": "German grammar rules. - Règles de grammaire allemandes."
+    },
+    {
+      "id": 4,
+      "english": "Chinese",
+      "french": "Chinois",
+      "example": "Mandarin Chinese tones. - Tons du chinois mandarin."
+    },
+    {
+      "id": 5,
+      "english": "Japanese",
+      "french": "Japonais",
+      "example": "Japanese kanji characters. - Caractères kanji japonais."
+    },
+    {
+      "id": 6,
+      "english": "Translation",
+      "french": "Traduction",
+      "example": "English to French translation. - Traduction anglais vers français."
+    }
+  ]
+}

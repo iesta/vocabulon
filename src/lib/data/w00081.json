@@ -1,0 +1,43 @@
+{
+  "id": "w00081",
+  "title": "Bones & Muscles",
+  "day": 81,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bone",
+      "french": "Os",
+      "example": "The bone is strong. - L'os est fort."
+    },
+    {
+      "id": 2,
+      "english": "Muscle",
+      "french": "Muscle",
+      "example": "Exercise builds muscle. - L'exercice construit du muscle."
+    },
+    {
+      "id": 3,
+      "english": "Skeleton",
+      "french": "Squelette",
+      "example": "The skeleton supports the body. - Le squelette supporte le corps."
+    },
+    {
+      "id": 4,
+      "english": "Spine",
+      "french": "Colonne vertébrale",
+      "example": "The spine is flexible. - La colonne vertébrale est flexible."
+    },
+    {
+      "id": 5,
+      "english": "Joint",
+      "french": "Articulation",
+      "example": "The joint allows movement. - L'articulation permet le mouvement."
+    },
+    {
+      "id": 6,
+      "english": "Tendon",
+      "french": "Tendon",
+      "example": "The tendon connects muscle to bone. - Le tendon relie le muscle à l'os."
+    }
+  ]
+}

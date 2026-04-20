@@ -1,0 +1,22 @@
+{
+  "id": "p00084",
+  "title": "Expert: Academic",
+  "day": 84,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The hypothesis requires testing.",
+      "french": "L'hypothèse nécessite des tests."
+    },
+    {
+      "id": 2,
+      "english": "Peer review validates research.",
+      "french": "L'évaluation par les pairs valide la recherche."
+    },
+    {
+      "id": 3,
+      "english": "Academic integrity is paramount.",
+      "french": "L'intégrité académique est primordiale."
+    }
+  ]
+}

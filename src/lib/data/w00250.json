@@ -1,0 +1,43 @@
+{
+  "id": "w00250",
+  "title": "Fashion",
+  "day": 250,
+  "words": [
+    {
+      "id": 1,
+      "english": "Designer",
+      "french": "Designer",
+      "example": "Fashion designer collection. - Collection de designer de mode."
+    },
+    {
+      "id": 2,
+      "english": "Runway",
+      "french": "Podium",
+      "example": "Fashion runway show. - Défilé de mode sur le podium."
+    },
+    {
+      "id": 3,
+      "english": "Vintage",
+      "french": "Vintage",
+      "example": "Vintage clothing store. - Magasin de vêtements vintage."
+    },
+    {
+      "id": 4,
+      "english": "Accessory",
+      "french": "Accessoire",
+      "example": "Fashion accessory choice. - Choix d'accessoire de mode."
+    },
+    {
+      "id": 5,
+      "english": "Tailor",
+      "french": "Tailleur",
+      "example": "Custom tailor suit. - Costume sur mesure du tailleur."
+    },
+    {
+      "id": 6,
+      "english": " Boutique",
+      "french": "Boutique",
+      "example": "Luxury boutique shopping. - Shopping de boutique de luxe."
+    }
+  ]
+}

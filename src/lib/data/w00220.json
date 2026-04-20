@@ -1,0 +1,43 @@
+{
+  "id": "w00220",
+  "title": "Landmarks",
+  "day": 220,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bridge",
+      "french": "Pont",
+      "example": "Golden Gate Bridge view. - Vue du pont du Golden Gate."
+    },
+    {
+      "id": 2,
+      "english": "Tower",
+      "french": "Tour",
+      "example": "Eiffel Tower visit. - Visite de la Tour Eiffel."
+    },
+    {
+      "id": 3,
+      "english": "Monument",
+      "french": "Monument",
+      "example": "Historical monument honored. - Monument historique honoré."
+    },
+    {
+      "id": 4,
+      "english": "Castle",
+      "french": "Château",
+      "example": "Medieval castle tour. - Visite de château médiéval."
+    },
+    {
+      "id": 5,
+      "english": "Palace",
+      "french": "Palais",
+      "example": "Royal palace gardens. - Jardins du palais royal."
+    },
+    {
+      "id": 6,
+      "english": "Cathedral",
+      "french": "Cathédrale",
+      "example": "Gothic cathedral architecture. - Architecture de cathédrale gothique."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00242",
+  "title": "Jobs & Work",
+  "day": 242,
+  "words": [
+    {
+      "id": 1,
+      "english": "Job",
+      "french": "Emploi",
+      "example": "Find a new job. - Trouve un nouvel emploi."
+    },
+    {
+      "id": 2,
+      "english": "Career",
+      "french": "Carrière",
+      "example": "Career development path. - Chemin de développement de carrière."
+    },
+    {
+      "id": 3,
+      "english": "Salary",
+      "french": "Salaire",
+      "example": "Competitive salary offer. - Offre de salaire compétitif."
+    },
+    {
+      "id": 4,
+      "english": "Promotion",
+      "french": "Promotion",
+      "example": "Well deserved promotion. - Promotion méritée."
+    },
+    {
+      "id": 5,
+      "english": "Resignation",
+      "french": "Démission",
+      "example": "Resignation letter writing. - Rédaction de lettre de démission."
+    },
+    {
+      "id": 6,
+      "english": "Unemployment",
+      "french": "Chômage",
+      "example": "Unemployment benefits application. - Demande d'allocation de chômage."
+    }
+  ]
+}

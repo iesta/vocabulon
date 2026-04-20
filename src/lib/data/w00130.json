@@ -1,0 +1,43 @@
+{
+  "id": "w00130",
+  "title": "Animation",
+  "day": 130,
+  "words": [
+    {
+      "id": 1,
+      "english": "Animation",
+      "french": "Animation",
+      "example": "Cartoon animation show. - Émission d'animation de dessin animé."
+    },
+    {
+      "id": 2,
+      "english": "Cartoon",
+      "french": "Dessin animé",
+      "example": "Kids cartoon character. - Personnage de dessin animé."
+    },
+    {
+      "id": 3,
+      "english": "Anime",
+      "french": "Anime",
+      "example": "Japanese anime series. - Série d'anime japonaise."
+    },
+    {
+      "id": 4,
+      "english": "Comic",
+      "french": "Bande dessinée",
+      "example": "Superhero comic book. - Livre de bande dessinée superhero."
+    },
+    {
+      "id": 5,
+      "english": "Storyboard",
+      "french": "Storyboard",
+      "example": "Film storyboard planning. - Planification storyboard de film."
+    },
+    {
+      "id": 6,
+      "english": "Manga",
+      "french": "Manga",
+      "example": "Popular manga series. - Série de manga populaire."
+    }
+  ]
+}

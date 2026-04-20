@@ -1,0 +1,43 @@
+{
+  "id": "w00129",
+  "title": "Graphic Design",
+  "day": 129,
+  "words": [
+    {
+      "id": 1,
+      "english": "Design",
+      "french": "Design",
+      "example": "Graphic design work. - Travail de design graphique."
+    },
+    {
+      "id": 2,
+      "english": "Logo",
+      "french": "Logo",
+      "example": "Company logo design. - Design de logo d'entreprise."
+    },
+    {
+      "id": 3,
+      "english": "Font",
+      "french": "Police",
+      "example": "Choose a different font. - Choisis une autre police."
+    },
+    {
+      "id": 4,
+      "english": "Layout",
+      "french": "Mise en page",
+      "example": "Magazine layout design. - Design de mise en page magazine."
+    },
+    {
+      "id": 5,
+      "english": "Banner",
+      "french": "Bannière",
+      "example": "Web banner advertisement. - Publicité en bannière web."
+    },
+    {
+      "id": 6,
+      "english": "Poster",
+      "french": "Affiche",
+      "example": "Concert poster design. - Design d'affiche de concert."
+    }
+  ]
+}

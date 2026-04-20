@@ -1,0 +1,22 @@
+{
+  "id": "p00071",
+  "title": "Expert: Idiomatic Expressions",
+  "day": 71,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "It's raining cats and dogs.",
+      "french": "Il pleut des cordes."
+    },
+    {
+      "id": 2,
+      "english": "Break a leg in your exam!",
+      "french": "Bonne chance pour ton examen!"
+    },
+    {
+      "id": 3,
+      "english": "Bite the bullet and apologize.",
+      "french": "Prends ton courage à deux mains et présente tes excuses."
+    }
+  ]
+}

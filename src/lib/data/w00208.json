@@ -1,0 +1,43 @@
+{
+  "id": "w00208",
+  "title": "Generations",
+  "day": 208,
+  "words": [
+    {
+      "id": 1,
+      "english": "Generation",
+      "french": "Génération",
+      "example": "New generation ideas. - Idées de nouvelle génération."
+    },
+    {
+      "id": 2,
+      "english": "Ancestor",
+      "french": "Ancêtre",
+      "example": "Family ancestor roots. - Racines d'ancêtres familiaux."
+    },
+    {
+      "id": 3,
+      "english": "Heritage",
+      "french": "Héritage",
+      "example": "Cultural heritage preservation. - Préservation de l'héritage culturel."
+    },
+    {
+      "id": 4,
+      "english": "Tradition",
+      "french": "Tradition",
+      "example": "Family tradition continues. - La tradition familiale continue."
+    },
+    {
+      "id": 5,
+      "english": "Legacy",
+      "french": "Héritage",
+      "example": "Leave a positive legacy. - Laisse un héritage positif."
+    },
+    {
+      "id": 6,
+      "english": "Descendant",
+      "french": "Descendant",
+      "example": "Proud descendant pride. - Fierté de descendant."
+    }
+  ]
+}

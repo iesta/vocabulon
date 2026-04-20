@@ -1,0 +1,22 @@
+{
+  "id": "p00085",
+  "title": "Expert: Political",
+  "day": 85,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Geopolitics shapes nations.",
+      "french": "La géopolitique façonne les nations."
+    },
+    {
+      "id": 2,
+      "english": "International relations are complex.",
+      "french": "Les relations internationales sont complexes."
+    },
+    {
+      "id": 3,
+      "english": "Diplomacy prevails over conflict.",
+      "french": "La diplomatie prévaut sur le conflit."
+    }
+  ]
+}

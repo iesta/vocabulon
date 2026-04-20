@@ -1,0 +1,43 @@
+{
+  "id": "w00234",
+  "title": "Legal & Government",
+  "day": 234,
+  "words": [
+    {
+      "id": 1,
+      "english": "Lawyer",
+      "french": "Avocat",
+      "example": "Defense lawyer skills. - Compétences de l'avocate de la défense."
+    },
+    {
+      "id": 2,
+      "english": "Judge",
+      "french": "Juge",
+      "example": "Judge courtroom decision. - Décision de salle d'audience du juge."
+    },
+    {
+      "id": 3,
+      "english": "Police officer",
+      "french": "Agent de police",
+      "example": "Police officer duty. - Devoir de l'agent de police."
+    },
+    {
+      "id": 4,
+      "english": "Firefighter",
+      "french": "Pompier",
+      "example": "Brave firefighter rescue. - Sauvetage courageux du pompier."
+    },
+    {
+      "id": 5,
+      "english": "Soldier",
+      "french": "Soldat",
+      "example": "Military soldier training. - Entraînement du soldat militaire."
+    },
+    {
+      "id": 6,
+      "english": "Politician",
+      "french": "Homme politique",
+      "example": "Local politician campaign. - Campagne de l'homme politique local."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00084",
+  "title": "Medical Terms",
+  "day": 84,
+  "words": [
+    {
+      "id": 1,
+      "english": "Doctor",
+      "french": "Médecin",
+      "example": "The doctor examined me. - Le médecin m'a examiné."
+    },
+    {
+      "id": 2,
+      "english": "Nurse",
+      "french": "Infirmier",
+      "example": "The nurse gave me medicine. - L'infirmier m'a donné des médicaments."
+    },
+    {
+      "id": 3,
+      "english": "Hospital",
+      "french": "Hôpital",
+      "example": "She works at the hospital. - Elle travaille à l'hôpital."
+    },
+    {
+      "id": 4,
+      "english": "Medicine",
+      "french": "Médicament",
+      "example": "Take your medicine. - Prends ton médicament."
+    },
+    {
+      "id": 5,
+      "english": "Surgery",
+      "french": "Chirurgie",
+      "example": "The surgery was successful. - La chirurgie a réussi."
+    },
+    {
+      "id": 6,
+      "english": "Appointment",
+      "french": "Rendez-vous",
+      "example": "I have a doctor's appointment. - J'ai un rendez-vous chez le médecin."
+    }
+  ]
+}

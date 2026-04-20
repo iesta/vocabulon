@@ -1,0 +1,22 @@
+{
+  "id": "p00073",
+  "title": "Expert: Abstract Concepts",
+  "day": 73,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Freedom of thought is essential.",
+      "french": "La liberté de pensée est essentielle."
+    },
+    {
+      "id": 2,
+      "english": "Happiness is a state of mind.",
+      "french": "Le bonheur est un état d'esprit."
+    },
+    {
+      "id": 3,
+      "english": "Truth is subjective.",
+      "french": "La vérité est subjective."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00205",
+  "title": "Social",
+  "day": 205,
+  "words": [
+    {
+      "id": 1,
+      "english": "Group",
+      "french": "Groupe",
+      "example": "Friend group hangout. - Sortie de groupe d'amis."
+    },
+    {
+      "id": 2,
+      "english": "Team",
+      "french": "Équipe",
+      "example": "Team spirit support. - Soutien de l'esprit d'équipe."
+    },
+    {
+      "id": 3,
+      "english": "Club",
+      "french": "Club",
+      "example": "Join the book club. - Rejoins le club de lecture."
+    },
+    {
+      "id": 4,
+      "english": "Organization",
+      "french": "Organisation",
+      "example": "Youth organization involvement. - Implication dans organisation jeunesse."
+    },
+    {
+      "id": 5,
+      "english": "Community",
+      "french": "Communauté",
+      "example": "Community event volunteering. - Bénévolat d'événement communautaire."
+    },
+    {
+      "id": 6,
+      "english": "Society",
+      "french": "Société",
+      "example": "Honor society membership. - Adhésion à la société d'honneur."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00134",
+  "title": "Communication",
+  "day": 134,
+  "words": [
+    {
+      "id": 1,
+      "english": "Talk",
+      "french": "Parler",
+      "example": "Let's talk about it. - Parlons-en."
+    },
+    {
+      "id": 2,
+      "english": "Say",
+      "french": "Dire",
+      "example": "Say what you think. - Dis ce que tu penses."
+    },
+    {
+      "id": 3,
+      "english": "Ask",
+      "french": "Demander",
+      "example": "Ask a question. - Pose une question."
+    },
+    {
+      "id": 4,
+      "english": "Answer",
+      "french": "Répondre",
+      "example": "Answer the phone. - Réponds au téléphone."
+    },
+    {
+      "id": 5,
+      "english": "Tell",
+      "french": "Dire",
+      "example": "Tell me a story. - Dis-moi une histoire."
+    },
+    {
+      "id": 6,
+      "english": "Explain",
+      "french": "Expliquer",
+      "example": "Explain the problem. - Explique le problème."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00056",
+  "title": "Relationships",
+  "day": 56,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "A friend in need is a friend indeed.",
+      "french": "Un ami dans le besoin est un ami véritable."
+    },
+    {
+      "id": 2,
+      "english": "Distance makes the heart grow fonder.",
+      "french": "L'absence rend le cœur plus affectueux."
+    },
+    {
+      "id": 3,
+      "english": "Love knows no bounds.",
+      "french": "L'amour ne connaît pas de frontières."
+    }
+  ]
+}

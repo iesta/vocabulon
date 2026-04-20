@@ -1,0 +1,22 @@
+{
+  "id": "p00002",
+  "title": "Common Responses",
+  "day": 2,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I'm fine, thank you.",
+      "french": "Je vais bien, merci."
+    },
+    {
+      "id": 2,
+      "english": "And you?",
+      "french": "Et vous?"
+    },
+    {
+      "id": 3,
+      "english": "See you later!",
+      "french": "À plus tard!"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00181",
+  "title": "Driver Terms",
+  "day": 181,
+  "words": [
+    {
+      "id": 1,
+      "english": "Drive",
+      "french": "Conduire",
+      "example": "Learn to drive. - Apprendre à conduire."
+    },
+    {
+      "id": 2,
+      "english": "Steer",
+      "french": "Diriger",
+      "example": "Steer the vehicle. - Dirige le véhicule."
+    },
+    {
+      "id": 3,
+      "english": "Accelerate",
+      "french": "Accélérer",
+      "example": "Accelerate smoothly. - Accélère en douceur."
+    },
+    {
+      "id": 4,
+      "english": "Brake",
+      "french": "Freiner",
+      "example": "Brake gradually here. - Freine progressivement ici."
+    },
+    {
+      "id": 5,
+      "english": "Park",
+      "french": "Stationner",
+      "example": "Park the car here. - Stationne la voiture ici."
+    },
+    {
+      "id": 6,
+      "english": "Reverse",
+      "french": "Reculer",
+      "example": "Reverse into the spot. - Recule dans la place."
+    }
+  ]
+}

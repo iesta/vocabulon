@@ -1,0 +1,43 @@
+{
+  "id": "w00077",
+  "title": "Face Features",
+  "day": 77,
+  "words": [
+    {
+      "id": 1,
+      "english": "Cheek",
+      "french": "Joue",
+      "example": "Her cheeks are red. - Ses joues sont rouges."
+    },
+    {
+      "id": 2,
+      "english": "Chin",
+      "french": "Menton",
+      "example": "He has a strong chin. - Il a un menton fort."
+    },
+    {
+      "id": 3,
+      "english": "Forehead",
+      "french": "Front",
+      "example": "She has a high forehead. - Elle a le front haut."
+    },
+    {
+      "id": 4,
+      "english": "Lip",
+      "french": "Lèvre",
+      "example": "Her lips are red. - Ses lèvres sont rouges."
+    },
+    {
+      "id": 5,
+      "english": "Teeth",
+      "french": "Dents",
+      "example": "Brush your teeth. - Brosse tes dents."
+    },
+    {
+      "id": 6,
+      "english": "Tongue",
+      "french": "Langue",
+      "example": "The tongue tastes. - La langue goûte."
+    }
+  ]
+}

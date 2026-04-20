@@ -1,0 +1,13 @@
+{
+  "id": "w00011",
+  "title": "Sports & Games",
+  "day": 11,
+  "words": [
+    { "id": 1, "english": "Football", "french": "Football", "example": "I play football every Saturday. - Je joue au football chaque samedi." },
+    { "id": 2, "english": "Basketball", "french": "Basketball", "example": "My favorite team won the basketball game. - Mon équipe préférée a gagné le match de basketball." },
+    { "id": 3, "english": "Tennis", "french": "Tennis", "example": "She plays tennis at the club. - Elle joue au tennis au club." },
+    { "id": 4, "english": "To win", "french": "Gagner", "example": "We want to win the championship. - Nous voulons gagner le championnat." },
+    { "id": 5, "english": "To lose", "french": "Perdre", "example": "Don't be sad if you lose. - Ne sois pas triste si tu perds." },
+    { "id": 6, "english": "Score", "french": "Score", "example": "What's the final score? - Quel est le score final?" }
+  ]
+}

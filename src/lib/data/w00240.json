@@ -1,0 +1,43 @@
+{
+  "id": "w00240",
+  "title": "Transportation",
+  "day": 240,
+  "words": [
+    {
+      "id": 1,
+      "english": "Driver",
+      "french": "Chauffeur",
+      "example": "Professional driver license. - Permis de chauffeur professionnel."
+    },
+    {
+      "id": 2,
+      "english": "Pilot",
+      "french": "Pilote",
+      "example": "Airline pilot career. - Carrière de pilote de ligne."
+    },
+    {
+      "id": 3,
+      "english": "Captain",
+      "french": "Capitaine",
+      "example": "Ship captain command. - Commande du capitaine de navire."
+    },
+    {
+      "id": 4,
+      "english": "Conductor",
+      "french": "Contrôleur",
+      "example": "Train conductor duties. - Devoirs du contrôleur de train."
+    },
+    {
+      "id": 5,
+      "english": "Delivery person",
+      "french": "Livreur",
+      "example": "Package delivery person. - Livreur de colis."
+    },
+    {
+      "id": 6,
+      "english": "Garbage collector",
+      "french": "Éboueur",
+      "example": "Municipal garbage collector. - Éboueur municipal."
+    }
+  ]
+}

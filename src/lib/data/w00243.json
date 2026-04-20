@@ -1,0 +1,43 @@
+{
+  "id": "w00243",
+  "title": "Space Objects",
+  "day": 243,
+  "words": [
+    {
+      "id": 1,
+      "english": "Star",
+      "french": "Étoile",
+      "example": "Bright star shining. - Étoile brillante luisante."
+    },
+    {
+      "id": 2,
+      "english": "Planet",
+      "french": "Planète",
+      "example": "Eight planets orbit. - Huit planètes en orbite."
+    },
+    {
+      "id": 3,
+      "english": "Moon",
+      "french": "Lune",
+      "example": "Full moon tonight. - Lune pleine ce soir."
+    },
+    {
+      "id": 4,
+      "english": "Sun",
+      "french": "Soleil",
+      "example": "Sunrise and sunset. - Lever et coucher du soleil."
+    },
+    {
+      "id": 5,
+      "english": "Galaxy",
+      "french": "Galaxie",
+      "example": "Milky Way galaxy. - Galaxie de la Voie lactée."
+    },
+    {
+      "id": 6,
+      "english": "Universe",
+      "french": "Univers",
+      "example": "Expanding universe theory. - Théorie de l'univers en expansion."
+    }
+  ]
+}

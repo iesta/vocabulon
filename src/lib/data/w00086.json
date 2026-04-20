@@ -1,0 +1,43 @@
+{
+  "id": "w00086",
+  "title": "Senses",
+  "day": 86,
+  "words": [
+    {
+      "id": 1,
+      "english": "Sight",
+      "french": "Vue",
+      "example": "My sight is good. - Ma vue est bonne."
+    },
+    {
+      "id": 2,
+      "english": "Hearing",
+      "french": "Audition",
+      "example": "My hearing is fine. - Mon audition est bonne."
+    },
+    {
+      "id": 3,
+      "english": "Smell",
+      "french": "Odorat",
+      "example": "Dogs have good smell. - Les chiens ont un bon odorat."
+    },
+    {
+      "id": 4,
+      "english": "Taste",
+      "french": "Goût",
+      "example": "The taste is sweet. - Le goût est sucré."
+    },
+    {
+      "id": 5,
+      "english": "Touch",
+      "french": "Toucher",
+      "example": "The touch is soft. - Le toucher est doux."
+    },
+    {
+      "id": 6,
+      "english": "Sixth sense",
+      "french": "Sixième sens",
+      "example": "It's my sixth sense. - C'est mon sixième sens."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00111",
+  "title": "Music Tech",
+  "day": 111,
+  "words": [
+    {
+      "id": 1,
+      "english": "Headphones",
+      "french": "Écouteurs",
+      "example": "Wireless headphones. - Écouteurs sans fil."
+    },
+    {
+      "id": 2,
+      "english": "Earbuds",
+      "french": "Ecouteurs",
+      "example": "Bluetooth earbuds. - Écouteurs Bluetooth."
+    },
+    {
+      "id": 3,
+      "english": "Speaker",
+      "french": "Haut-parleur",
+      "example": "Bluetooth speaker. - Haut-parleur Bluetooth."
+    },
+    {
+      "id": 4,
+      "english": "MP3 player",
+      "french": "Lecteur MP3",
+      "example": "Old school MP3 player. - Vieux lecteur MP3."
+    },
+    {
+      "id": 5,
+      "english": "DJ equipment",
+      "french": "Équipement DJ",
+      "example": "Professional DJ equipment. - Équipement DJ professionnel."
+    },
+    {
+      "id": 6,
+      "english": "Amplifier",
+      "french": "Amplificateur",
+      "example": "Guitar amplifier. - Amplificateur de guitare."
+    }
+  ]
+}

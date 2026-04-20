@@ -1,0 +1,22 @@
+{
+  "id": "p00086",
+  "title": "Expert: Environmental",
+  "day": 86,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Biodiversity is essential for ecosystems.",
+      "french": "La biodiversité est essentielle pour les écosystèmes."
+    },
+    {
+      "id": 2,
+      "english": "Carbon emissions accelerate warming.",
+      "french": "Les émissions de carbone accélèrent le réchauffement."
+    },
+    {
+      "id": 3,
+      "english": "Sustainable development is imperative.",
+      "french": "Le développement durable est impératif."
+    }
+  ]
+}

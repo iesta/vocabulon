@@ -1,0 +1,43 @@
+{
+  "id": "w00228",
+  "title": "Medical Jobs",
+  "day": 228,
+  "words": [
+    {
+      "id": 1,
+      "english": "Doctor",
+      "french": "Médecin",
+      "example": "Family doctor appointment. - Rendez-vous chez le médecin de famille."
+    },
+    {
+      "id": 2,
+      "english": "Nurse",
+      "french": "Infirmier",
+      "example": "Nurse caring dedication. - Dévouement soignant de l'infirmier."
+    },
+    {
+      "id": 3,
+      "english": "Surgeon",
+      "french": "Chirurgien",
+      "example": "Skilled surgeon hands. - Mains expertes du chirurgien."
+    },
+    {
+      "id": 4,
+      "english": "Dentist",
+      "french": "Dentiste",
+      "example": "Regular dentist checkup. - Contrôle régulier chez le dentiste."
+    },
+    {
+      "id": 5,
+      "english": "Pharmacist",
+      "french": "Pharmacien",
+      "example": "Pharmacist advice helpful. - Conseil utile du pharmacien."
+    },
+    {
+      "id": 6,
+      "english": "Therapist",
+      "french": "Thérapeute",
+      "example": "Mental health therapist. - Thérapeute de santé mentale."
+    }
+  ]
+}

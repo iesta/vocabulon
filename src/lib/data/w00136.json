@@ -1,0 +1,43 @@
+{
+  "id": "w00136",
+  "title": "Thinking",
+  "day": 136,
+  "words": [
+    {
+      "id": 1,
+      "english": "Think",
+      "french": "Penser",
+      "example": "Think before you speak. - Réfléchis avant de parler."
+    },
+    {
+      "id": 2,
+      "english": "Know",
+      "french": "Savoir",
+      "example": "I know the answer. - Je sais la réponse."
+    },
+    {
+      "id": 3,
+      "english": "Understand",
+      "french": "Comprendre",
+      "example": "I understand now. - Je comprends maintenant."
+    },
+    {
+      "id": 4,
+      "english": "Remember",
+      "french": "Se souvenir",
+      "example": "Remember this moment. - Souviens-toi de ce moment."
+    },
+    {
+      "id": 5,
+      "english": "Forget",
+      "french": "Oublier",
+      "example": "Don't forget me. - Ne m'oublie pas."
+    },
+    {
+      "id": 6,
+      "english": "Believe",
+      "french": "Croire",
+      "example": "I believe in you. - Je crois en toi."
+    }
+  ]
+}

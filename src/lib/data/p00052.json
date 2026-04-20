@@ -1,0 +1,22 @@
+{
+  "id": "p00052",
+  "title": "Literature",
+  "day": 52,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "A book is a gift you can open forever.",
+      "french": "Un livre est un cadeau que vous pouvez ouvrir pour toujours."
+    },
+    {
+      "id": 2,
+      "english": "Every chapter tells a story.",
+      "french": "Chaque chapitre raconte une histoire."
+    },
+    {
+      "id": 3,
+      "english": "Reading is fundamental.",
+      "french": "La lecture est fondamentale."
+    }
+  ]
+}

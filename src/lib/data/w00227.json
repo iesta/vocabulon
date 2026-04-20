@@ -1,0 +1,43 @@
+{
+  "id": "w00227",
+  "title": "Service Places",
+  "day": 227,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bank",
+      "french": "Banque",
+      "example": "Bank ATM withdrawal. - Retrait au DAB de la banque."
+    },
+    {
+      "id": 2,
+      "english": "Gas station",
+      "french": "Station-service",
+      "example": "Gas station fill up. - Faire le plein à la station-service."
+    },
+    {
+      "id": 3,
+      "english": "Repair shop",
+      "french": "Atelier de réparation",
+      "example": "Bike repair shop help. - Aide d'atelier de réparation de vélo."
+    },
+    {
+      "id": 4,
+      "english": "Dry cleaner",
+      "french": "Pressing",
+      "example": "Pick up dry cleaning. - Récupère le pressing."
+    },
+    {
+      "id": 5,
+      "english": "Barbershop",
+      "french": "Coiffeur",
+      "example": "Barbershop haircut style. - Style de coupe au barbier."
+    },
+    {
+      "id": 6,
+      "english": "Salon",
+      "french": "Salon de beauté",
+      "example": "Beauty salon appointment. - Rendez-vous au salon de beauté."
+    }
+  ]
+}

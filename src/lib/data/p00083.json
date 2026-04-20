@@ -1,0 +1,22 @@
+{
+  "id": "p00083",
+  "title": "Expert: Financial",
+  "day": 83,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The markets are volatile today.",
+      "french": "Les marchés sont volatils aujourd'hui."
+    },
+    {
+      "id": 2,
+      "english": "Diversification mitigates risk.",
+      "french": "La diversification atténue le risque."
+    },
+    {
+      "id": 3,
+      "english": "Return on investment is promising.",
+      "french": "Le retour sur investissement est prometteur."
+    }
+  ]
+}

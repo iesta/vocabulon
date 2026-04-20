@@ -1,0 +1,22 @@
+{
+  "id": "p00009",
+  "title": "Family",
+  "day": 9,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I live with my family.",
+      "french": "J'habite avec ma famille."
+    },
+    {
+      "id": 2,
+      "english": "My mother is a teacher.",
+      "french": "Ma mère est professeur."
+    },
+    {
+      "id": 3,
+      "english": "We are a family of four.",
+      "french": "Nous sommes une famille de quatre."
+    }
+  ]
+}

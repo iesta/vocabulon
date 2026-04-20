@@ -1,0 +1,13 @@
+{
+  "id": "w00002",
+  "title": "Family & People",
+  "day": 2,
+  "words": [
+    { "id": 1, "english": "Mother", "french": "Mère", "example": "My mother cooks very well. - Ma mère cuisine très bien." },
+    { "id": 2, "english": "Father", "french": "Père", "example": "My father works in an office. - Mon père travaille dans un bureau." },
+    { "id": 3, "english": "Brother", "french": "Frère", "example": "My brother plays football. - Mon frère joue au football." },
+    { "id": 4, "english": "Sister", "french": "Sœur", "example": "My sister is 15 years old. - Ma sœur a 15 ans." },
+    { "id": 5, "english": "Friend", "french": "Ami", "example": "She is my best friend. - Elle est ma meilleure amie." },
+    { "id": 6, "english": "Teacher", "french": "Professeur", "example": "The teacher explains the lesson. - Le professeur explique la leçon." }
+  ]
+}

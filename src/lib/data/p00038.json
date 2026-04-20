@@ -1,0 +1,22 @@
+{
+  "id": "p00038",
+  "title": "Comparisons",
+  "day": 38,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "French is harder than English.",
+      "french": "Le français est plus difficile que l'anglais."
+    },
+    {
+      "id": 2,
+      "english": "This is the best movie ever.",
+      "french": "C'est le meilleur film jamais."
+    },
+    {
+      "id": 3,
+      "english": "She's taller than her brother.",
+      "french": "Elle est plus grande que son frère."
+    }
+  ]
+}

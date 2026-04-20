@@ -1,0 +1,43 @@
+{
+  "id": "w00151",
+  "title": "Nature Verbs",
+  "day": 151,
+  "words": [
+    {
+      "id": 1,
+      "english": "Grow",
+      "french": "Pousser",
+      "example": "Plants grow in sunlight. - Les plantes poussent à la lumière."
+    },
+    {
+      "id": 2,
+      "english": "Bloom",
+      "french": "Fleurir",
+      "example": "Flowers bloom in spring. - Les fleurs fleurissent au printemps."
+    },
+    {
+      "id": 3,
+      "english": "Rain",
+      "french": "Pleuvoir",
+      "example": "It rains cats and dogs. - Il pleut des cordes."
+    },
+    {
+      "id": 4,
+      "english": "Snow",
+      "french": "Neiger",
+      "example": "It snowed last night. - Il a neigé cette nuit."
+    },
+    {
+      "id": 5,
+      "english": "Shine",
+      "french": "Briller",
+      "example": "The sun shines bright. - Le soleil brille."
+    },
+    {
+      "id": 6,
+      "english": "Sparkle",
+      "french": "Scintiller",
+      "example": "Stars sparkle at night. - Les étoiles scintillent la nuit."
+    }
+  ]
+}

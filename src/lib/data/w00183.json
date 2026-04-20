@@ -1,0 +1,43 @@
+{
+  "id": "w00183",
+  "title": "Shipping & Cargo",
+  "day": 183,
+  "words": [
+    {
+      "id": 1,
+      "english": "Cargo",
+      "french": "Cargo",
+      "example": "Cargo ship containers. - Conteneurs de cargo."
+    },
+    {
+      "id": 2,
+      "english": "Container",
+      "french": "Conteneur",
+      "example": "Shipping container yard. - Cour de conteneurs d'expédition."
+    },
+    {
+      "id": 3,
+      "english": "Freight",
+      "french": "Fret",
+      "example": "Freight train service. - Service de train de fret."
+    },
+    {
+      "id": 4,
+      "english": "Delivery",
+      "french": "Livraison",
+      "example": "Package delivery truck. - Camion de livraison de colis."
+    },
+    {
+      "id": 5,
+      "english": "Warehouse",
+      "french": "Entrepôt",
+      "example": "Large warehouse storage. - Grand stockage d'entrepôt."
+    },
+    {
+      "id": 6,
+      "english": "Cargo plane",
+      "french": "Avion cargo",
+      "example": "International cargo plane. - Avion cargo international."
+    }
+  ]
+}

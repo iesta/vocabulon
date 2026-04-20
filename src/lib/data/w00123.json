@@ -1,0 +1,43 @@
+{
+  "id": "w00123",
+  "title": "Literature",
+  "day": 123,
+  "words": [
+    {
+      "id": 1,
+      "english": "Book",
+      "french": "Livre",
+      "example": "Read a book. - Lis un livre."
+    },
+    {
+      "id": 2,
+      "english": "Author",
+      "french": "Auteur",
+      "example": "Famous author visit. - Visite d'un auteur célèbre."
+    },
+    {
+      "id": 3,
+      "english": "Novel",
+      "french": "Roman",
+      "example": "Bestselling novel. - Roman à succès."
+    },
+    {
+      "id": 4,
+      "english": "Poem",
+      "french": "Poème",
+      "example": "Write a poem. - Écris un poème."
+    },
+    {
+      "id": 5,
+      "english": "Chapter",
+      "french": "Chapitre",
+      "example": "Read the next chapter. - Lis le chapitre suivant."
+    },
+    {
+      "id": 6,
+      "english": "Character",
+      "french": "Personnage",
+      "example": "Main character development. - Développement du personnage principal."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00005",
+  "title": "Apologies",
+  "day": 5,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I'm sorry.",
+      "french": "Je suis désolé."
+    },
+    {
+      "id": 2,
+      "english": "I apologize for being late.",
+      "french": "Je m'excuse pour le retard."
+    },
+    {
+      "id": 3,
+      "english": "No problem!",
+      "french": "Pas de problème!"
+    }
+  ]
+}

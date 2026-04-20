@@ -1,0 +1,22 @@
+{
+  "id": "p00011",
+  "title": "Ordering Food",
+  "day": 11,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I would like to order please.",
+      "french": "Je voudrais commander s'il vous plaît."
+    },
+    {
+      "id": 2,
+      "english": "Can I see the menu?",
+      "french": "Puis-je voir la carte?"
+    },
+    {
+      "id": 3,
+      "english": "The bill please!",
+      "french": "L'addition s'il vous plaît!"
+    }
+  ]
+}

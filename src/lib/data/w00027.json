@@ -1,0 +1,43 @@
+{
+  "id": "w00027",
+  "title": "Verbs V2",
+  "day": 27,
+  "words": [
+    {
+      "id": 1,
+      "english": "To give",
+      "french": "Donner",
+      "example": "Can you give me that? - Tu peux me donner ça?"
+    },
+    {
+      "id": 2,
+      "english": "To take",
+      "french": "Prendre",
+      "example": "Take this book please. - Prends ce livre s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "To put",
+      "french": "Mettre / Poser",
+      "example": "Put the plate on the table. - Mets l'assiette sur la table."
+    },
+    {
+      "id": 4,
+      "english": "To leave",
+      "french": "Partir / Quitter",
+      "example": "I need to leave now. - Je dois partir maintenant."
+    },
+    {
+      "id": 5,
+      "english": "To wait",
+      "french": "Attendre",
+      "example": "Please wait for me. - Attends-moi s'il te plaît."
+    },
+    {
+      "id": 6,
+      "english": "To stay",
+      "french": "Rester",
+      "example": "Stay here with me. - Reste ici avec moi."
+    }
+  ]
+}

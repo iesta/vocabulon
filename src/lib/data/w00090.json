@@ -1,0 +1,43 @@
+{
+  "id": "w00090",
+  "title": "Fruits",
+  "day": 90,
+  "words": [
+    {
+      "id": 1,
+      "english": "Apple",
+      "french": "Pomme",
+      "example": "An apple a day. - Une pomme par jour."
+    },
+    {
+      "id": 2,
+      "english": "Banana",
+      "french": "Banane",
+      "example": "The banana is ripe. - La banane est mûre."
+    },
+    {
+      "id": 3,
+      "english": "Orange",
+      "french": "Orange",
+      "example": "I juice oranges. - Je fais du jus d'orange."
+    },
+    {
+      "id": 4,
+      "english": "Strawberry",
+      "french": "Fraise",
+      "example": "Strawberries are red. - Les fraises sont rouges."
+    },
+    {
+      "id": 5,
+      "english": "Grape",
+      "french": "Raisin",
+      "example": "Grapes grow in clusters. - Les raisins poussent en grappes."
+    },
+    {
+      "id": 6,
+      "english": "Watermelon",
+      "french": "Pastèque",
+      "example": "Watermelon is refreshing. - La pastèque est rafraîchissante."
+    }
+  ]
+}

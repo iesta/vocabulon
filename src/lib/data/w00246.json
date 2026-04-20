@@ -1,0 +1,43 @@
+{
+  "id": "w00246",
+  "title": "Philosophy",
+  "day": 246,
+  "words": [
+    {
+      "id": 1,
+      "english": "Ethics",
+      "french": "Éthique",
+      "example": "Medical ethics committee. - Comité d'éthique médicale."
+    },
+    {
+      "id": 2,
+      "english": "Logic",
+      "french": "Logique",
+      "example": "Philosophical logic reasoning. - Raisonnement de logique philosophique."
+    },
+    {
+      "id": 3,
+      "english": "Metaphysics",
+      "french": "Métaphysique",
+      "example": "Study of metaphysics. - Étude de la métaphysique."
+    },
+    {
+      "id": 4,
+      "english": "Epistemology",
+      "french": "Épistémologie",
+      "example": "Branch of epistemology. - Branche de l'épistémologie."
+    },
+    {
+      "id": 5,
+      "english": "Existentialism",
+      "french": "Existentialisme",
+      "example": "Philosophy of existentialism. - Philosophie de l'existentialisme."
+    },
+    {
+      "id": 6,
+      "english": "Rationality",
+      "french": "Rationalité",
+      "example": "Human rationality limit. - Limite de la rationalité humaine."
+    }
+  ]
+}

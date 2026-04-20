@@ -1,0 +1,43 @@
+{
+  "id": "w00041",
+  "title": "Advanced Verbs V3",
+  "day": 41,
+  "words": [
+    {
+      "id": 1,
+      "english": "To discover",
+      "french": "Découvrir",
+      "example": "I want to discover new cultures. - Je veux découvrir de nouvelles cultures."
+    },
+    {
+      "id": 2,
+      "english": "To achieve",
+      "french": "Accomplir / Réussir",
+      "example": "You can achieve anything! - Tu peux accomplir n'importe quoi!"
+    },
+    {
+      "id": 3,
+      "english": "To improve",
+      "french": "Améliorer",
+      "example": "I need to improve my French. - Je dois améliorer mon français."
+    },
+    {
+      "id": 4,
+      "english": "To develop",
+      "french": "Développer",
+      "example": "This app developed quickly. - Cette application s'est développée rapidement."
+    },
+    {
+      "id": 5,
+      "english": "To succeed",
+      "french": "Réussir",
+      "example": "She succeeded in her exam. - Elle a réussi son examen."
+    },
+    {
+      "id": 6,
+      "english": "To fail",
+      "french": "Échouer",
+      "example": "Don't be afraid to fail. - N'aie pas peur d'échouer."
+    }
+  ]
+}

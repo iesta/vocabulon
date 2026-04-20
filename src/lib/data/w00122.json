@@ -1,0 +1,43 @@
+{
+  "id": "w00122",
+  "title": "Theater",
+  "day": 122,
+  "words": [
+    {
+      "id": 1,
+      "english": "Theater",
+      "french": "Théâtre",
+      "example": "Broadway theater show. - Spectacle de théâtre Broadway."
+    },
+    {
+      "id": 2,
+      "english": "Stage",
+      "french": "Scène",
+      "example": "On stage performing. - En train de performer sur scène."
+    },
+    {
+      "id": 3,
+      "english": "Audience",
+      "french": "Public",
+      "example": "The audience applauded. - Le public a applaudi."
+    },
+    {
+      "id": 4,
+      "english": "Curtain",
+      "french": "Rideau",
+      "example": "The curtain rose. - Le rideau s'est levé."
+    },
+    {
+      "id": 5,
+      "english": "Drama",
+      "french": "Drame",
+      "example": "Theater drama performance. - Performance de drame théâtral."
+    },
+    {
+      "id": 6,
+      "english": "Comedy",
+      "french": "Comédie",
+      "example": "Funny comedy show. - Spectacle de comédie marrant."
+    }
+  ]
+}

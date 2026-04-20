@@ -1,0 +1,22 @@
+{
+  "id": "p00088",
+  "title": "Expert: Sociological",
+  "day": 88,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Social norms evolve over time.",
+      "french": "Les normes sociales évoluent avec le temps."
+    },
+    {
+      "id": 2,
+      "english": "Collective behavior shapes society.",
+      "french": "Le comportement collectif façonne la société."
+    },
+    {
+      "id": 3,
+      "english": "Cultural relativism promotes understanding.",
+      "french": "Le relativisme culturel favorise la compréhension."
+    }
+  ]
+}

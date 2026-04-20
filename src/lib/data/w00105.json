@@ -1,0 +1,43 @@
+{
+  "id": "w00105",
+  "title": "Computer Parts",
+  "day": 105,
+  "words": [
+    {
+      "id": 1,
+      "english": "Screen",
+      "french": "Écran",
+      "example": "The screen is bright. - L'écran est lumineux."
+    },
+    {
+      "id": 2,
+      "english": "Keyboard",
+      "french": "Clavier",
+      "example": "Wireless keyboard. - Clavier sans fil."
+    },
+    {
+      "id": 3,
+      "english": "Mouse",
+      "french": "Souris",
+      "example": "Click the mouse. - Clique la souris."
+    },
+    {
+      "id": 4,
+      "english": "Speaker",
+      "french": "Haut-parleur",
+      "example": "External speakers. - Haut-parleurs externes."
+    },
+    {
+      "id": 5,
+      "english": "Webcam",
+      "french": "Webcam",
+      "example": "Turn on the webcam. - Active la webcam."
+    },
+    {
+      "id": 6,
+      "english": "Microphone",
+      "french": "Microphone",
+      "example": "Studio microphone. - Microphone de studio."
+    }
+  ]
+}

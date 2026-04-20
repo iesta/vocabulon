@@ -1,0 +1,43 @@
+{
+  "id": "w00078",
+  "title": "Arm & Hand",
+  "day": 78,
+  "words": [
+    {
+      "id": 1,
+      "english": "Arm",
+      "french": "Bras",
+      "example": "I raise my arm. - Je lève mon bras."
+    },
+    {
+      "id": 2,
+      "english": "Elbow",
+      "french": "Coude",
+      "example": "My elbow hurts. - Mon coude me fait mal."
+    },
+    {
+      "id": 3,
+      "english": "Wrist",
+      "french": "Poignet",
+      "example": "She wears a bracelet on her wrist. - Elle porte un bracelet à son poignet."
+    },
+    {
+      "id": 4,
+      "english": "Hand",
+      "french": "Main",
+      "example": "I wave my hand. - Je fais un signe de la main."
+    },
+    {
+      "id": 5,
+      "english": "Finger",
+      "french": "Doigt",
+      "example": "I point with my finger. - Je pointe du doigt."
+    },
+    {
+      "id": 6,
+      "english": "Thumb",
+      "french": "Pouce",
+      "example": "The thumb is important. - Le pouce est important."
+    }
+  ]
+}

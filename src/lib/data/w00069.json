@@ -1,0 +1,43 @@
+{
+  "id": "w00069",
+  "title": "Nature Elements",
+  "day": 69,
+  "words": [
+    {
+      "id": 1,
+      "english": "River",
+      "french": "Rivière",
+      "example": "The river flows. - La rivière coule."
+    },
+    {
+      "id": 2,
+      "english": "Mountain",
+      "french": "Montagne",
+      "example": "The mountain is high. - La montagne est haute."
+    },
+    {
+      "id": 3,
+      "english": "Valley",
+      "french": "Vallée",
+      "example": "The valley is green. - La vallée est verte."
+    },
+    {
+      "id": 4,
+      "english": "Lake",
+      "french": "Lac",
+      "example": "The lake is calm. - Le lac est calme."
+    },
+    {
+      "id": 5,
+      "english": "Forest",
+      "french": "Forêt",
+      "example": "The forest is dense. - La forêt est dense."
+    },
+    {
+      "id": 6,
+      "english": "Desert",
+      "french": "Désert",
+      "example": "The desert is dry. - Le désert est sec."
+    }
+  ]
+}

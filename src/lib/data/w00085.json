@@ -1,0 +1,43 @@
+{
+  "id": "w00085",
+  "title": "Body Actions",
+  "day": 85,
+  "words": [
+    {
+      "id": 1,
+      "english": "Breathe",
+      "french": "Respirer",
+      "example": "Breathe deeply. - Respire profondément."
+    },
+    {
+      "id": 2,
+      "english": "Swallow",
+      "french": "Avaler",
+      "example": "Swallow the pill. - Avale le comprimé."
+    },
+    {
+      "id": 3,
+      "english": "Sneeze",
+      "french": "Éternuer",
+      "example": "I need to sneeze. - Je dois éternuer."
+    },
+    {
+      "id": 4,
+      "english": "Yawn",
+      "french": "Bâiller",
+      "example": "I can't stop yawning. - Je n'arrive pas à arrêter de bâiller."
+    },
+    {
+      "id": 5,
+      "english": "Blink",
+      "french": "Cligner",
+      "example": "Blink your eyes. - Cligne des yeux."
+    },
+    {
+      "id": 6,
+      "english": "Shiver",
+      "french": "Frissonner",
+      "example": "I'm shivering. - Je frissonne."
+    }
+  ]
+}

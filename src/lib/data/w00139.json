@@ -1,0 +1,43 @@
+{
+  "id": "w00139",
+  "title": "Work & Jobs",
+  "day": 139,
+  "words": [
+    {
+      "id": 1,
+      "english": "Work",
+      "french": "Travailler",
+      "example": "Work hard today. - Travaille dur aujourd'hui."
+    },
+    {
+      "id": 2,
+      "english": "Study",
+      "french": "Étudier",
+      "example": "Study for exams. - Étudie pour les examens."
+    },
+    {
+      "id": 3,
+      "english": "Learn",
+      "french": "Apprendre",
+      "example": "Learn French. - Apprends le français."
+    },
+    {
+      "id": 4,
+      "english": "Teach",
+      "french": "Enseigner",
+      "example": "Teach the students. - Enseigne aux étudiants."
+    },
+    {
+      "id": 5,
+      "english": "Help",
+      "french": "Aider",
+      "example": "Help your neighbor. - Aide ton voisin."
+    },
+    {
+      "id": 6,
+      "english": "Serve",
+      "french": "Servir",
+      "example": "Serve customers. - Sers les clients."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00098",
+  "title": "Expert: Ultimate",
+  "day": 98,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The only certainty is uncertainty.",
+      "french": "La seule certitude est l'incertitude."
+    },
+    {
+      "id": 2,
+      "english": "We are but a speck in the cosmos.",
+      "french": "Nous ne sommes qu'une tache dans le cosmos."
+    },
+    {
+      "id": 3,
+      "english": "Infinite possibilities await.",
+      "french": "Des possibilités infinies nous attendent."
+    }
+  ]
+}

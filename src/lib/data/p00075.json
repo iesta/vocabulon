@@ -1,0 +1,22 @@
+{
+  "id": "p00075",
+  "title": "Expert: Cultural References",
+  "day": 75,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "French cuisine is world-renowned.",
+      "french": "La cuisine française est reconnue mondialement."
+    },
+    {
+      "id": 2,
+      "english": "The Eiffel Tower symbolizes Paris.",
+      "french": "La Tour Eiffel symbolise Paris."
+    },
+    {
+      "id": 3,
+      "english": "French savoir-vivre is legendary.",
+      "french": "Le savoir-vivre français est légendaire."
+    }
+  ]
+}

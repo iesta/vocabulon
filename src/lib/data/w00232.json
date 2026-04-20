@@ -1,0 +1,43 @@
+{
+  "id": "w00232",
+  "title": "Service Jobs",
+  "day": 232,
+  "words": [
+    {
+      "id": 1,
+      "english": "Server",
+      "french": "Serveur",
+      "example": "Restaurant server tips. - Pourboires du serveur de restaurant."
+    },
+    {
+      "id": 2,
+      "english": "Cashier",
+      "french": "Caissier",
+      "example": "Friendly cashier interaction. - Interaction amicale du caissier."
+    },
+    {
+      "id": 3,
+      "english": "Bartender",
+      "french": "Barman",
+      "example": "Mixology bartender skills. - Compétences de mixologie du barman."
+    },
+    {
+      "id": 4,
+      "english": "Chef",
+      "french": "Chef",
+      "example": "Executive chef creations. - Créations du chef exécutif."
+    },
+    {
+      "id": 5,
+      "english": "Janitor",
+      "french": "Concierge",
+      "example": "Building janitor duties. - Devoirs du concierge d'immeuble."
+    },
+    {
+      "id": 6,
+      "english": "Mechanic",
+      "french": "Mécanicien",
+      "example": "Auto mechanic expertise. - Expertise du mécanicien auto."
+    }
+  ]
+}

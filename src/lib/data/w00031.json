@@ -1,0 +1,43 @@
+{
+  "id": "w00031",
+  "title": "Family V2",
+  "day": 31,
+  "words": [
+    {
+      "id": 1,
+      "english": "Grandmother",
+      "french": "Grand-mère",
+      "example": "My grandmother bakes great cakes. - Ma grand-mère fait de excellents gâteaux."
+    },
+    {
+      "id": 2,
+      "english": "Grandfather",
+      "french": "Grand-père",
+      "example": "My grandfather tells amazing stories. - Mon grand-père raconte des histoires incroyables."
+    },
+    {
+      "id": 3,
+      "english": "Uncle",
+      "french": "Oncle",
+      "example": "My uncle is a doctor. - Mon oncle est médecin."
+    },
+    {
+      "id": 4,
+      "english": "Aunt",
+      "french": "Tante",
+      "example": "My aunt lives in Paris. - Ma tante habite à Paris."
+    },
+    {
+      "id": 5,
+      "english": "Cousin",
+      "french": "Cousin",
+      "example": "My cousin is my age. - Mon cousin a mon âge."
+    },
+    {
+      "id": 6,
+      "english": "Nephew",
+      "french": "Neveu",
+      "example": "My nephew is very cute. - Mon neveu est très mignon."
+    }
+  ]
+}

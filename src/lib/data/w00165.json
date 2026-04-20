@@ -1,0 +1,43 @@
+{
+  "id": "w00165",
+  "title": "Weather Gear",
+  "day": 165,
+  "words": [
+    {
+      "id": 1,
+      "english": "Raincoat",
+      "french": "Imperméable",
+      "example": "Yellow raincoat. - Imperméable jaune."
+    },
+    {
+      "id": 2,
+      "english": "Umbrella",
+      "french": "Parapluie",
+      "example": "Open the umbrella. - Ouvre le parapluie."
+    },
+    {
+      "id": 3,
+      "english": "Poncho",
+      "french": "Poncho",
+      "example": "Mexican poncho. - Poncho mexicain."
+    },
+    {
+      "id": 4,
+      "english": "Overalls",
+      "french": "Salopette",
+      "example": "Denim overalls. - Salopette en jean."
+    },
+    {
+      "id": 5,
+      "english": "Parka",
+      "french": "Parka",
+      "example": "Winter parka with hood. - Parka d'hiver avec capuche."
+    },
+    {
+      "id": 6,
+      "english": "Windbreaker",
+      "french": "Coupe-vent",
+      "example": "Light windbreaker. - Coupe-vent léger."
+    }
+  ]
+}

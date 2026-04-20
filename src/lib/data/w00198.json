@@ -1,0 +1,43 @@
+{
+  "id": "w00198",
+  "title": "Immediate Family",
+  "day": 198,
+  "words": [
+    {
+      "id": 1,
+      "english": "Mother",
+      "french": "Mère",
+      "example": "Mother's Day gift. - Cadeau pour la Fête des Mères."
+    },
+    {
+      "id": 2,
+      "english": "Father",
+      "french": "Père",
+      "example": "Father's Day surprise. - Surprise pour la Fête des Pères."
+    },
+    {
+      "id": 3,
+      "english": "Brother",
+      "french": "Frère",
+      "example": "Older brother protection. - Protection du frère aîné."
+    },
+    {
+      "id": 4,
+      "english": "Sister",
+      "french": "Sœur",
+      "example": "Younger sister look. - Look de petite sœur."
+    },
+    {
+      "id": 5,
+      "english": "Son",
+      "french": "Fils",
+      "example": "Proud of my son. - Fier de mon fils."
+    },
+    {
+      "id": 6,
+      "english": "Daughter",
+      "french": "Fille",
+      "example": "Beautiful daughter smile. - Sourire de belle fille."
+    }
+  ]
+}

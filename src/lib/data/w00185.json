@@ -1,0 +1,43 @@
+{
+  "id": "w00185",
+  "title": "Classroom",
+  "day": 185,
+  "words": [
+    {
+      "id": 1,
+      "english": "Desk",
+      "french": "Bureau",
+      "example": "Student desk arrangement. - Arrangement des bureaux d'étudiants."
+    },
+    {
+      "id": 2,
+      "english": "Chalkboard",
+      "french": "Tableau noir",
+      "example": "Write on chalkboard. - Écris au tableau noir."
+    },
+    {
+      "id": 3,
+      "english": "Notebook",
+      "french": "Cahier",
+      "example": "Take notebook notes. - Prends des notes dans le cahier."
+    },
+    {
+      "id": 4,
+      "english": "Textbook",
+      "french": "Manuel",
+      "example": "Math textbook chapter. - Chapitre du manuel de maths."
+    },
+    {
+      "id": 5,
+      "english": "Pencil",
+      "french": "Crayon",
+      "example": "Sharpen your pencil. - Taille ton crayon."
+    },
+    {
+      "id": 6,
+      "english": "Eraser",
+      "french": "Gomme",
+      "example": "Eraser mistakes cleanly. - Gomme les erreurs proprement."
+    }
+  ]
+}

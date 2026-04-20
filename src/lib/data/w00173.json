@@ -1,0 +1,43 @@
+{
+  "id": "w00173",
+  "title": "Bikes & Motorcycles",
+  "day": 173,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bicycle",
+      "french": "Vélo",
+      "example": "Mountain bicycle. - Vélo de montagne."
+    },
+    {
+      "id": 2,
+      "english": "Motorcycle",
+      "french": "Motocyclette",
+      "example": "Harley Davidson motorcycle. - Motocyclette Harley Davidson."
+    },
+    {
+      "id": 3,
+      "english": "Scooter",
+      "french": "Scooter",
+      "example": "Electric scooter. - Scooter électrique."
+    },
+    {
+      "id": 4,
+      "english": "Helmet",
+      "french": "Casque",
+      "example": "Safety helmet required. - Casque de sécurité requis."
+    },
+    {
+      "id": 5,
+      "english": "Handlebar",
+      "french": "Guidon",
+      "example": "Adjustable handlebar. - Guidon ajustable."
+    },
+    {
+      "id": 6,
+      "english": "Basket",
+      "french": "Panier",
+      "example": "Front bike basket. - Panier avant de vélo."
+    }
+  ]
+}

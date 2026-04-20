@@ -1,0 +1,43 @@
+{
+  "id": "w00107",
+  "title": "Social Media",
+  "day": 107,
+  "words": [
+    {
+      "id": 1,
+      "english": "Post",
+      "french": "Publication",
+      "example": "Make a post. - Fais une publication."
+    },
+    {
+      "id": 2,
+      "english": "Follow",
+      "french": "Suivre",
+      "example": "Follow me on Instagram. - Suis-moi sur Instagram."
+    },
+    {
+      "id": 3,
+      "english": "Like",
+      "french": "Aimer",
+      "example": "Like my photo. - Like ma photo."
+    },
+    {
+      "id": 4,
+      "english": "Share",
+      "french": "Partager",
+      "example": "Share this video. - Partage cette vidéo."
+    },
+    {
+      "id": 5,
+      "english": "Comment",
+      "french": "Commenter",
+      "example": "Leave a comment. - Laisse un commentaire."
+    },
+    {
+      "id": 6,
+      "english": "Hashtag",
+      "french": "Hashtag",
+      "example": "Add a hashtag. - Ajoute un hashtag."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00193",
+  "title": "Books & Reading",
+  "day": 193,
+  "words": [
+    {
+      "id": 1,
+      "english": "Library",
+      "french": "Bibliothèque",
+      "example": "School library resources. - Ressources de bibliothèque scolaire."
+    },
+    {
+      "id": 2,
+      "english": "Publisher",
+      "french": "Éditeur",
+      "example": "Book publisher contact. - Contact d'éditeur de livre."
+    },
+    {
+      "id": 3,
+      "english": "Bibliography",
+      "french": "Bibliographie",
+      "example": "Citation and bibliography format. - Format de citation et bibliographie."
+    },
+    {
+      "id": 4,
+      "english": "Chapter",
+      "french": "Chapitre",
+      "example": "Read next chapter. - Lis le chapitre suivant."
+    },
+    {
+      "id": 5,
+      "english": "Paragraph",
+      "french": "Paragraphe",
+      "example": "Write a paragraph. - Écris un paragraphe."
+    },
+    {
+      "id": 6,
+      "english": "Summary",
+      "french": "Résumé",
+      "example": "Write story summary. - Écris le résumé de l'histoire."
+    }
+  ]
+}

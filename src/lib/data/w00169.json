@@ -1,0 +1,43 @@
+{
+  "id": "w00169",
+  "title": "Care Instructions",
+  "day": 169,
+  "words": [
+    {
+      "id": 1,
+      "english": "Wash",
+      "french": "Laver",
+      "example": "Machine wash cold. - Laver en machine à froid."
+    },
+    {
+      "id": 2,
+      "english": "Dry clean",
+      "french": "Nettoyer à sec",
+      "example": "Dry clean only label. - Étiquette nettoyer à sec uniquement."
+    },
+    {
+      "id": 3,
+      "english": "Iron",
+      "french": "Repasser",
+      "example": "Iron on medium heat. - Repasse à chaleur moyenne."
+    },
+    {
+      "id": 4,
+      "english": "Bleach",
+      "french": "Javel",
+      "example": "Do not use bleach. - Ne pas utiliser de javel."
+    },
+    {
+      "id": 5,
+      "english": "Tumble dry",
+      "french": "Sécher en machine",
+      "example": "Tumble dry low. - Sécher en machine à basse température."
+    },
+    {
+      "id": 6,
+      "english": "Hang dry",
+      "french": "Sécher à l'air",
+      "example": "Hang dry recommended. - Séchage à l'air recommandé."
+    }
+  ]
+}

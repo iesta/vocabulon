@@ -1,0 +1,43 @@
+{
+  "id": "w00216",
+  "title": "Stores",
+  "day": 216,
+  "words": [
+    {
+      "id": 1,
+      "english": "Supermarket",
+      "french": "Supermarché",
+      "example": "Weekly supermarket trip. - Course hebdomadaire au supermarché."
+    },
+    {
+      "id": 2,
+      "english": "Clothing store",
+      "french": "Magasin de vêtements",
+      "example": "New clothing store opened. - Nouveau magasin de vêtements ouvert."
+    },
+    {
+      "id": 3,
+      "english": "Bookstore",
+      "french": "Librairie",
+      "example": "Browse the bookstore. - Parcours la librairie."
+    },
+    {
+      "id": 4,
+      "english": "Pharmacy",
+      "french": "Pharmacie",
+      "example": "Pick up prescription at pharmacy. - Récupère l'recette à la pharmacie."
+    },
+    {
+      "id": 5,
+      "english": "Bakery",
+      "french": "Boulangerie",
+      "example": "Fresh bakery bread. - Pain frais de boulangerie."
+    },
+    {
+      "id": 6,
+      "english": "Mall",
+      "french": "Centre commercial",
+      "example": "Mall shopping day. - Jour de shopping au centre commercial."
+    }
+  ]
+}

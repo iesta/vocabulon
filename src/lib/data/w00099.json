@@ -1,0 +1,43 @@
+{
+  "id": "w00099",
+  "title": "Spices & Seasonings",
+  "day": 99,
+  "words": [
+    {
+      "id": 1,
+      "english": "Salt",
+      "french": "Sel",
+      "example": "Pass the salt. - Passe le sel."
+    },
+    {
+      "id": 2,
+      "english": "Pepper",
+      "french": "Poivre",
+      "example": "Black pepper please. - Poivre noir s'il vous plaît."
+    },
+    {
+      "id": 3,
+      "english": "Sugar",
+      "french": "Sucre",
+      "example": "Two sugars in my coffee. - Deux sucres dans mon café."
+    },
+    {
+      "id": 4,
+      "english": "Cinnamon",
+      "french": "Cannelle",
+      "example": "Cinnamon on apples. - De la cannelle sur les pommes."
+    },
+    {
+      "id": 5,
+      "english": "Oregano",
+      "french": "Origan",
+      "example": "Oregano on pizza. - De l'origan sur la pizza."
+    },
+    {
+      "id": 6,
+      "english": "Basil",
+      "french": "Basilic",
+      "example": "Fresh basil pesto. - Pesto au basilic frais."
+    }
+  ]
+}

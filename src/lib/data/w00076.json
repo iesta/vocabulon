@@ -1,0 +1,43 @@
+{
+  "id": "w00076",
+  "title": "Head Parts",
+  "day": 76,
+  "words": [
+    {
+      "id": 1,
+      "english": "Head",
+      "french": "Tête",
+      "example": "The head contains the brain. - La tête contient le cerveau."
+    },
+    {
+      "id": 2,
+      "english": "Brain",
+      "french": "Cerveau",
+      "example": "The brain thinks. - Le cerveau pense."
+    },
+    {
+      "id": 3,
+      "english": "Eye",
+      "french": "Œil",
+      "example": "I see with my eyes. - Je vois avec mes yeux."
+    },
+    {
+      "id": 4,
+      "english": "Ear",
+      "french": "Oreille",
+      "example": "I hear with my ears. - J'entends avec mes oreilles."
+    },
+    {
+      "id": 5,
+      "english": "Nose",
+      "french": "Nez",
+      "example": "I smell with my nose. - Je sens avec mon nez."
+    },
+    {
+      "id": 6,
+      "english": "Mouth",
+      "french": "Bouche",
+      "example": "I speak with my mouth. - Je parle avec ma bouche."
+    }
+  ]
+}

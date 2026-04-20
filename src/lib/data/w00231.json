@@ -1,0 +1,43 @@
+{
+  "id": "w00231",
+  "title": "Tech Jobs",
+  "day": 231,
+  "words": [
+    {
+      "id": 1,
+      "english": "Programmer",
+      "french": "Programmeur",
+      "example": "Software programmer coding. - Codage de programmeur logiciel."
+    },
+    {
+      "id": 2,
+      "english": "Designer",
+      "french": "Designer",
+      "example": "Graphic designer portfolio. - Portfolio de designer graphique."
+    },
+    {
+      "id": 3,
+      "english": "Engineer",
+      "french": "Ingénieur",
+      "example": "Engineer problem solving. - Résolution de problèmes d'ingénieur."
+    },
+    {
+      "id": 4,
+      "english": "Technician",
+      "french": "Technicien",
+      "example": "IT technician support. - Support du technicien informatique."
+    },
+    {
+      "id": 5,
+      "english": "Developer",
+      "french": "Développeur",
+      "example": "App developer creating. - Création de développeur d'applications."
+    },
+    {
+      "id": 6,
+      "english": "Analyst",
+      "french": "Analyste",
+      "example": "Data analyst insights. - Aperçus de l'analyste de données."
+    }
+  ]
+}

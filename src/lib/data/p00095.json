@@ -1,0 +1,22 @@
+{
+  "id": "p00095",
+  "title": "Expert: Advanced Emotions",
+  "day": 95,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Euphoria gave way to melancholy.",
+      "french": "L'euphorie a laissé place à la mélancolie."
+    },
+    {
+      "id": 2,
+      "english": "Profound gratitude overwhelmed me.",
+      "french": "Une profonde gratitude m'a submergé."
+    },
+    {
+      "id": 3,
+      "english": "Resentment festered over time.",
+      "french": "Le ressentiment a festonné avec le temps."
+    }
+  ]
+}

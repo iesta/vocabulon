@@ -1,0 +1,43 @@
+{
+  "id": "w00164",
+  "title": "Formal Wear",
+  "day": 164,
+  "words": [
+    {
+      "id": 1,
+      "english": "Suit",
+      "french": "Complet",
+      "example": "Black suit for formal. - Complet noir pour habillé."
+    },
+    {
+      "id": 2,
+      "english": "Dress",
+      "french": "Robe",
+      "example": "Evening dress. - Robe du soir."
+    },
+    {
+      "id": 3,
+      "english": "Tuxedo",
+      "french": "Tuxedo",
+      "example": "Gentleman's tuxedo. - Tuxedo pour monsieur."
+    },
+    {
+      "id": 4,
+      "english": "Gown",
+      "french": "Robe de soirée",
+      "example": "Ball gown. - Robe de soirée de bal."
+    },
+    {
+      "id": 5,
+      "english": "Bow tie",
+      "french": "Noeud papillon",
+      "example": "Classic bow tie. - Noeud papillon classique."
+    },
+    {
+      "id": 6,
+      "english": "Cummerbund",
+      "french": "Ceinture de smoking",
+      "example": "Silk cummerbund. - Ceinture de smoking en soie."
+    }
+  ]
+}

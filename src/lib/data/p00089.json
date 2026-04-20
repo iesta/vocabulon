@@ -1,0 +1,22 @@
+{
+  "id": "p00089",
+  "title": "Expert: Technological",
+  "day": 89,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Cybersecurity is paramount in the digital age.",
+      "french": "La cybersécurité est primordiale à l'ère numérique."
+    },
+    {
+      "id": 2,
+      "english": "Machine learning revolutionizes industries.",
+      "french": "L'apprentissage automatique révolutionne les industries."
+    },
+    {
+      "id": 3,
+      "english": "The metaverse beckons.",
+      "french": "Le métaverse nous appelle."
+    }
+  ]
+}

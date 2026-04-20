@@ -1,0 +1,43 @@
+{
+  "id": "w00162",
+  "title": "Sportswear",
+  "day": 162,
+  "words": [
+    {
+      "id": 1,
+      "english": "Jersey",
+      "french": "Maillot",
+      "example": "Team jersey. - Maillot d'équipe."
+    },
+    {
+      "id": 2,
+      "english": "Uniform",
+      "french": "Uniforme",
+      "example": "School uniform. - Uniforme scolaire."
+    },
+    {
+      "id": 3,
+      "english": "Tracksuit",
+      "french": "Costume de sport",
+      "example": "Nylon tracksuit. - Costume de sport en nylon."
+    },
+    {
+      "id": 4,
+      "english": "Swimsuit",
+      "french": "Maillot de bain",
+      "example": "New swimsuit for summer. - Nouveau maillot de bain pour l'été."
+    },
+    {
+      "id": 5,
+      "english": "Athletic wear",
+      "french": "Vêtements de sport",
+      "example": "Compression athletic wear. - Vêtements de sport de compression."
+    },
+    {
+      "id": 6,
+      "english": "Socks",
+      "french": "Chaussettes",
+      "example": "Ankle socks. - Chaussettes de chevilles."
+    }
+  ]
+}

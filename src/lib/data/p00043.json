@@ -1,0 +1,22 @@
+{
+  "id": "p00043",
+  "title": "Negotiations",
+  "day": 43,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Can you give me a discount?",
+      "french": "Pouvez-vous me faire une réduction?"
+    },
+    {
+      "id": 2,
+      "english": "That's a bit expensive.",
+      "french": "C'est un peu cher."
+    },
+    {
+      "id": 3,
+      "english": "I can offer you a better deal.",
+      "french": "Je peux vous offrir une meilleure offre."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00023",
+  "title": "Body Parts V2",
+  "day": 23,
+  "words": [
+    {
+      "id": 1,
+      "english": "Head",
+      "french": "Tête",
+      "example": "My head hurts. - J'ai mal à la tête."
+    },
+    {
+      "id": 2,
+      "english": "Hand",
+      "french": "Main",
+      "example": "Raise your hand if you understand. - Lève la main si tu comprends."
+    },
+    {
+      "id": 3,
+      "english": "Foot",
+      "french": "Pied",
+      "example": "I hurt my foot playing football. - Je me suis blessé au pied en jouant au football."
+    },
+    {
+      "id": 4,
+      "english": "Eye",
+      "french": "Œil",
+      "example": "She has beautiful blue eyes. - Elle a de beaux yeux bleus."
+    },
+    {
+      "id": 5,
+      "english": "Mouth",
+      "french": "Bouche",
+      "example": "Open your mouth please. - Ouvre la bouche s'il te plaît."
+    },
+    {
+      "id": 6,
+      "english": "Ear",
+      "french": "Oreille",
+      "example": "I can't hear with this ear. - Je n'entends pas de cette oreille."
+    }
+  ]
+}

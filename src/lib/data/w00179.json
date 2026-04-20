@@ -1,0 +1,43 @@
+{
+  "id": "w00179",
+  "title": "Navigation",
+  "day": 179,
+  "words": [
+    {
+      "id": 1,
+      "english": "Map",
+      "french": "Carte",
+      "example": "GPS map navigation. - Navigation par carte GPS."
+    },
+    {
+      "id": 2,
+      "english": "GPS",
+      "french": "GPS",
+      "example": "Update GPS coordinates. - Mets à jour les coordonnées GPS."
+    },
+    {
+      "id": 3,
+      "english": "Directions",
+      "french": "Directions",
+      "example": "Follow directions carefully. - Suis les directions attentivement."
+    },
+    {
+      "id": 4,
+      "english": "Turn",
+      "french": "Tourner",
+      "example": "Turn left here. - Tourne ici à gauche."
+    },
+    {
+      "id": 5,
+      "english": "U-turn",
+      "french": "Demi-tour",
+      "example": "Make a U-turn. - Fais un demi-tour."
+    },
+    {
+      "id": 6,
+      "english": "Detour",
+      "french": "Détour",
+      "example": "Take a detour route. - Prends un itinéraire de détour."
+    }
+  ]
+}

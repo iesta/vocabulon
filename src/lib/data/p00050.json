@@ -1,0 +1,22 @@
+{
+  "id": "p00050",
+  "title": "Environment",
+  "day": 50,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "We must protect our planet.",
+      "french": "Nous devons protéger notre planète."
+    },
+    {
+      "id": 2,
+      "english": "Recycling is important.",
+      "french": "Le recyclage est important."
+    },
+    {
+      "id": 3,
+      "english": "Global warming is a real threat.",
+      "french": "Le réchauffement climatique est une vraie menace."
+    }
+  ]
+}

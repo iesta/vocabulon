@@ -1,0 +1,22 @@
+{
+  "id": "p00100",
+  "title": "Expert: Culmination",
+  "day": 100,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Carpe diem, quam minimum credula postero.",
+      "french": "Cueille le jour, ne te fie pas au lendemain."
+    },
+    {
+      "id": 2,
+      "english": "The journey of a thousand miles begins with a single step.",
+      "french": "Le voyage de mille miles commence par un seul pas."
+    },
+    {
+      "id": 3,
+      "english": "To thine own self be true.",
+      "french": "Sois fidèle à toi-même."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "w00044",
+  "title": "Conditional V3",
+  "day": 44,
+  "words": [
+    {
+      "id": 1,
+      "english": "Would",
+      "french": "Aurait / Serait",
+      "example": "I would like some coffee. - Je voudrais du café."
+    },
+    {
+      "id": 2,
+      "english": "Could",
+      "french": "Pourrait",
+      "example": "Could you help me? - Pourriez-vous m'aider?"
+    },
+    {
+      "id": 3,
+      "english": "Might",
+      "french": "Pourrait / Peut-être",
+      "example": "It might rain today. - Il pourrait pleuvoir aujourd'hui."
+    },
+    {
+      "id": 4,
+      "english": "Should",
+      "french": "Devrait",
+      "example": "You should study more. - Tu devrais étudier davantage."
+    },
+    {
+      "id": 5,
+      "english": "If",
+      "french": "Si",
+      "example": "If you study, you'll pass. - Si tu études, tu vas réussir."
+    },
+    {
+      "id": 6,
+      "english": "Unless",
+      "french": "À moins que",
+      "example": "Unless you try, you won't succeed. - À moins que tu essaies, tu ne réussiras pas."
+    }
+  ]
+}

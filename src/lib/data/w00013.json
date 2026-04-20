@@ -1,0 +1,13 @@
+{
+  "id": "w00013",
+  "title": "Technology",
+  "day": 13,
+  "words": [
+    { "id": 1, "english": "Computer", "french": "Ordinateur", "example": "I use my computer for homework. - J'utilise mon ordinateur pour les devoirs." },
+    { "id": 2, "english": "Phone", "french": "Téléphone", "example": "Can I use your phone? - Puis-je utiliser ton téléphone?" },
+    { "id": 3, "english": "Internet", "french": "Internet", "example": "The internet is very fast here. - L'internet est très rapide ici." },
+    { "id": 4, "english": "Video game", "french": "Jeu vidéo", "example": "My brother plays video games all day. - Mon frère joue aux jeux vidéo toute la journée." },
+    { "id": 5, "english": "To download", "french": "Télécharger", "example": "I need to download this app. - Je dois télécharger cette application." },
+    { "id": 6, "english": "Screen", "french": "Écran", "example": "Don't look at the screen too much. - Ne regarde pas l'écran trop longtemps." }
+  ]
+}

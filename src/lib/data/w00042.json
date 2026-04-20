@@ -1,0 +1,43 @@
+{
+  "id": "w00042",
+  "title": "Abstract Nouns V3",
+  "day": 42,
+  "words": [
+    {
+      "id": 1,
+      "english": "Idea",
+      "french": "Idée",
+      "example": "That's a great idea! - C'est une excellente idée!"
+    },
+    {
+      "id": 2,
+      "english": "Dream",
+      "french": "Rêve",
+      "example": "I have a dream. - J'ai un rêve."
+    },
+    {
+      "id": 3,
+      "english": "Freedom",
+      "french": "Liberté",
+      "example": "Freedom is important. - La liberté est importante."
+    },
+    {
+      "id": 4,
+      "english": "Happiness",
+      "french": "Bonheur",
+      "example": "Money can't buy happiness. - L'argent ne peut pas acheter le bonheur."
+    },
+    {
+      "id": 5,
+      "english": "Problem",
+      "french": "Problème",
+      "example": "We have a problem. - Nous avons un problème."
+    },
+    {
+      "id": 6,
+      "english": "Solution",
+      "french": "Solution",
+      "example": "What's the solution? - Quelle est la solution?"
+    }
+  ]
+}

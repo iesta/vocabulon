@@ -1,0 +1,22 @@
+{
+  "id": "p00072",
+  "title": "Expert: Complex Grammar",
+  "day": 72,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Had I known, I would have helped.",
+      "french": "Si j'avais su, j'aurais aidé."
+    },
+    {
+      "id": 2,
+      "english": "Were she to arrive, we would celebrate.",
+      "french": "Si elle devait arriver, nous célébrerions."
+    },
+    {
+      "id": 3,
+      "english": "The more you study, the smarter you become.",
+      "french": "Plus tu étudies, plus tu deviens intelligent."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00004",
+  "title": "Questions",
+  "day": 4,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Where is the bathroom?",
+      "french": "Où sont les toilettes?"
+    },
+    {
+      "id": 2,
+      "english": "What time is it?",
+      "french": "Quelle heure est-il?"
+    },
+    {
+      "id": 3,
+      "english": "How much does this cost?",
+      "french": "Combien ça coûte?"
+    }
+  ]
+}

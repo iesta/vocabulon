@@ -1,0 +1,43 @@
+{
+  "id": "w00079",
+  "title": "Leg & Foot",
+  "day": 79,
+  "words": [
+    {
+      "id": 1,
+      "english": "Leg",
+      "french": "Jambe",
+      "example": "I broke my leg. - Je me suis cassé la jambe."
+    },
+    {
+      "id": 2,
+      "english": "Knee",
+      "french": "Genou",
+      "example": "The knee bends. - Le genou se plie."
+    },
+    {
+      "id": 3,
+      "english": "Calf",
+      "french": "Mollet",
+      "example": "The calf muscle is strong. - Le muscle du mollet est fort."
+    },
+    {
+      "id": 4,
+      "english": "Ankle",
+      "french": "Cheville",
+      "example": "My ankle is swollen. - Ma cheville est enflée."
+    },
+    {
+      "id": 5,
+      "english": "Foot",
+      "french": "Pied",
+      "example": "I step on my foot. - Je marche sur mon pied."
+    },
+    {
+      "id": 6,
+      "english": "Toe",
+      "french": "Orteil",
+      "example": "I stubbed my toe. - Je me suis cogné l'orteil."
+    }
+  ]
+}

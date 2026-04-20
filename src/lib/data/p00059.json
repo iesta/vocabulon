@@ -1,0 +1,22 @@
+{
+  "id": "p00059",
+  "title": "Education",
+  "day": 59,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Education is the most powerful weapon.",
+      "french": "L'éducation est l'arme la plus puissante."
+    },
+    {
+      "id": 2,
+      "english": "Live as if you were to die tomorrow.",
+      "french": "Vis comme si tu devais mourir demain."
+    },
+    {
+      "id": 3,
+      "english": "Learn from your mistakes.",
+      "french": "Tire lessons from your errors."
+    }
+  ]
+}

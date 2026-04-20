@@ -1,0 +1,43 @@
+{
+  "id": "w00171",
+  "title": "Public Transport",
+  "day": 171,
+  "words": [
+    {
+      "id": 1,
+      "english": "Bus",
+      "french": "Autobus",
+      "example": "City bus route. - Route d'autobus urbain."
+    },
+    {
+      "id": 2,
+      "english": "Subway",
+      "french": "Métro",
+      "example": "Take the subway. - Prends le métro."
+    },
+    {
+      "id": 3,
+      "english": "Train",
+      "french": "Train",
+      "example": "High speed train. - Train à grande vitesse."
+    },
+    {
+      "id": 4,
+      "english": "Tram",
+      "french": "Tramway",
+      "example": "Electric tram system. - Système de tramway électrique."
+    },
+    {
+      "id": 5,
+      "english": "Taxi",
+      "french": "Taxi",
+      "example": "Call a taxi. - Appelle un taxi."
+    },
+    {
+      "id": 6,
+      "english": "Rideshare",
+      "french": "Co-voiturage",
+      "example": "Rideshare app pickup. - Pickup via app de co-voiturage."
+    }
+  ]
+}

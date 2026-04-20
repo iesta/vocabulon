@@ -1,0 +1,13 @@
+{
+  "id": "w00007",
+  "title": "Emotions & Feelings",
+  "day": 7,
+  "words": [
+    { "id": 1, "english": "Happy", "french": "Heureux", "example": "I am happy to see you! - Je suis heureux de te voir!" },
+    { "id": 2, "english": "Sad", "french": "Triste", "example": "She is sad because her friend is sick. - Elle est triste parce que son ami est malade." },
+    { "id": 3, "english": "To love", "french": "Aimer", "example": "I love spending time with my family. - J'aime passer du temps avec ma famille." },
+    { "id": 4, "english": "To want", "french": "Vouloir", "example": "I want to learn French quickly. - Je veux apprendre le français rapidement." },
+    { "id": 5, "english": "To need", "french": "Avoir besoin", "example": "I need help with my homework. - J'ai besoin d'aide pour mes devoirs." },
+    { "id": 6, "english": "To think", "french": "Penser", "example": "I think this is a good idea. - Je pense que c'est une bonne idée." }
+  ]
+}

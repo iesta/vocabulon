@@ -1,0 +1,43 @@
+{
+  "id": "w00210",
+  "title": "Emotions & Feelings",
+  "day": 210,
+  "words": [
+    {
+      "id": 1,
+      "english": "Happy",
+      "french": "Heureux",
+      "example": "Happy memories together. - Souvenirs heureux ensemble."
+    },
+    {
+      "id": 2,
+      "english": "Sad",
+      "french": "Triste",
+      "example": "Sad movie tears. - Larmes de film triste."
+    },
+    {
+      "id": 3,
+      "english": "Angry",
+      "french": "En colère",
+      "example": "Calm down angry feelings. - Calme les sentiments en colère."
+    },
+    {
+      "id": 4,
+      "english": "Excited",
+      "french": "Excité",
+      "example": "Excited anticipation grows. - L'anticipation excitee grandit."
+    },
+    {
+      "id": 5,
+      "english": "Nervous",
+      "french": "Nerveux",
+      "example": "Nervous before presentation. - Nerveux avant présentation."
+    },
+    {
+      "id": 6,
+      "english": "Grateful",
+      "french": "Reconnaissant",
+      "example": "Grateful for everything. - Reconnaissant pour tout."
+    }
+  ]
+}

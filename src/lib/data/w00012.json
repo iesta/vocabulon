@@ -1,0 +1,13 @@
+{
+  "id": "w00012",
+  "title": "Music & Art",
+  "day": 12,
+  "words": [
+    { "id": 1, "english": "Music", "french": "Musique", "example": "I listen to music every day. - J'écoute de la musique chaque jour." },
+    { "id": 2, "english": "Song", "french": "Chanson", "example": "This is my favorite song! - C'est ma chanson préférée!" },
+    { "id": 3, "english": "Guitar", "french": "Guitare", "example": "He plays the guitar very well. - Il joue très bien de la guitare." },
+    { "id": 4, "english": "Concert", "french": "Concert", "example": "We're going to a concert tonight. - Nous allons à un concert ce soir." },
+    { "id": 5, "english": "To sing", "french": "Chanter", "example": "Do you like to sing? - Aimes-tu chanter?" },
+    { "id": 6, "english": "To dance", "french": "Danser", "example": "She loves to dance at parties. - Elle adore danser aux soirées." }
+  ]
+}

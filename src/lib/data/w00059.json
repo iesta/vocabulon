@@ -1,0 +1,43 @@
+{
+  "id": "w00059",
+  "title": "Mind Sports",
+  "day": 59,
+  "words": [
+    {
+      "id": 1,
+      "english": "Chess",
+      "french": "Échecs",
+      "example": "Chess improves thinking. - Les échecs améliorent la réflexion."
+    },
+    {
+      "id": 2,
+      "english": "Chess player",
+      "french": "Joueur d'échecs",
+      "example": "She is a chess grandmaster. - Elle est grand maître d'échecs."
+    },
+    {
+      "id": 3,
+      "english": "Card games",
+      "french": "Jeux de cartes",
+      "example": "We play card games at night. - Nous jouons aux cartes le soir."
+    },
+    {
+      "id": 4,
+      "english": "Poker",
+      "french": "Poker",
+      "example": "Poker is a game of strategy. - Le poker est un jeu de stratégie."
+    },
+    {
+      "id": 5,
+      "english": "Chess tournament",
+      "french": "Tournoi d'échecs",
+      "example": "The chess tournament starts Monday. - Le tournoi d'échecs commence lundi."
+    },
+    {
+      "id": 6,
+      "english": "Strategy game",
+      "french": "Jeu de stratégie",
+      "example": "I love strategy games. - J'adore les jeux de stratégie."
+    }
+  ]
+}

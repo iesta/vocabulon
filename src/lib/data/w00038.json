@@ -1,0 +1,43 @@
+{
+  "id": "w00038",
+  "title": "Internet V2",
+  "day": 38,
+  "words": [
+    {
+      "id": 1,
+      "english": "Website",
+      "french": "Site web",
+      "example": "This website is very useful. - Ce site web est très utile."
+    },
+    {
+      "id": 2,
+      "english": "Email",
+      "french": "Email / Courriel",
+      "example": "Send me an email please. - Envoie-moi un email s'il te plaît."
+    },
+    {
+      "id": 3,
+      "english": "Password",
+      "french": "Mot de passe",
+      "example": "Don't share your password. - Ne partage pas ton mot de passe."
+    },
+    {
+      "id": 4,
+      "english": "Online",
+      "french": "En ligne",
+      "example": "I'm online every day. - Je suis en ligne chaque jour."
+    },
+    {
+      "id": 5,
+      "english": "Click",
+      "french": "Cliquer",
+      "example": "Click on this link. - Clique sur ce lien."
+    },
+    {
+      "id": 6,
+      "english": "Search",
+      "french": "Rechercher",
+      "example": "Let me search for that. - Laissez-moi rechercher ça."
+    }
+  ]
+}

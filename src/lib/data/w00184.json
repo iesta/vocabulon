@@ -1,0 +1,43 @@
+{
+  "id": "w00184",
+  "title": "School Subjects",
+  "day": 184,
+  "words": [
+    {
+      "id": 1,
+      "english": "Math",
+      "french": "Mathématiques",
+      "example": "I love math class. - J'adore le cours de mathématiques."
+    },
+    {
+      "id": 2,
+      "english": "Science",
+      "french": "Sciences",
+      "example": "Science lab experiment. - Expérience au laboratoire de sciences."
+    },
+    {
+      "id": 3,
+      "english": "History",
+      "french": "Histoire",
+      "example": "History tells our story. - L'histoire raconte notre histoire."
+    },
+    {
+      "id": 4,
+      "english": "Geography",
+      "french": "Géographie",
+      "example": "World geography map. - Carte de géographie mondiale."
+    },
+    {
+      "id": 5,
+      "english": "Literature",
+      "french": "Littérature",
+      "example": "English literature class. - Cours de littérature anglaise."
+    },
+    {
+      "id": 6,
+      "english": "Art",
+      "french": "Arts",
+      "example": "Art class is creative. - Le cours d'arts est créatif."
+    }
+  ]
+}

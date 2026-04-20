@@ -1,0 +1,43 @@
+{
+  "id": "w00144",
+  "title": "Planning",
+  "day": 144,
+  "words": [
+    {
+      "id": 1,
+      "english": "Plan",
+      "french": "Planifier",
+      "example": "Plan your future. - Planifie ton avenir."
+    },
+    {
+      "id": 2,
+      "english": "Decide",
+      "french": "Décider",
+      "example": "Decide now. - Décide maintenant."
+    },
+    {
+      "id": 3,
+      "english": "Choose",
+      "french": "Choisir",
+      "example": "Choose wisely. - Choisis judicieusement."
+    },
+    {
+      "id": 4,
+      "english": "Prepare",
+      "french": "Préparer",
+      "example": "Prepare for the test. - Prépare-toi pour l'examen."
+    },
+    {
+      "id": 5,
+      "english": "Organize",
+      "french": "Organiser",
+      "example": "Organize your room. - Organise ta chambre."
+    },
+    {
+      "id": 6,
+      "english": "Schedule",
+      "french": "Planifier",
+      "example": "Schedule a meeting. - Planifie une réunion."
+    }
+  ]
+}

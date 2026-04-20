@@ -1,0 +1,43 @@
+{
+  "id": "w00214",
+  "title": "Buildings",
+  "day": 214,
+  "words": [
+    {
+      "id": 1,
+      "english": "Building",
+      "french": "Immeuble",
+      "example": "Tall building architecture. - Architecture d'immeuble haut."
+    },
+    {
+      "id": 2,
+      "english": "Tower",
+      "french": "Tour",
+      "example": "Office tower view. - Vue de tour de bureau."
+    },
+    {
+      "id": 3,
+      "english": "Skyscraper",
+      "french": "Gratte-ciel",
+      "example": "City skyline skyscraper. - Gratte-ciel de ligne d'horizon."
+    },
+    {
+      "id": 4,
+      "english": "House",
+      "french": "Maison",
+      "example": "Home sweet house. - Maison douce maison."
+    },
+    {
+      "id": 5,
+      "english": "Apartment",
+      "french": "Appartement",
+      "example": "Apartment on third floor. - Appartement au troisième étage."
+    },
+    {
+      "id": 6,
+      "english": "Mansion",
+      "french": "Manoir",
+      "example": "Historic mansion tour. - Visite de manoir historique."
+    }
+  ]
+}

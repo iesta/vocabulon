@@ -1,0 +1,43 @@
+{
+  "id": "w00217",
+  "title": "Public Buildings",
+  "day": 217,
+  "words": [
+    {
+      "id": 1,
+      "english": "Library",
+      "french": "Bibliothèque",
+      "example": "Public library resources. - Ressources de bibliothèque publique."
+    },
+    {
+      "id": 2,
+      "english": "Museum",
+      "french": "Musée",
+      "example": "Art museum visit. - Visite de musée d'art."
+    },
+    {
+      "id": 3,
+      "english": "Hospital",
+      "french": "Hôpital",
+      "example": "Visit friend at hospital. - Visite ami à l'hôpital."
+    },
+    {
+      "id": 4,
+      "english": "Church",
+      "french": "Église",
+      "example": "Sunday church service. - Messe d'église de dimanche."
+    },
+    {
+      "id": 5,
+      "english": "City hall",
+      "french": "Hôtel de ville",
+      "example": "City hall meeting. - Réunion à l'hôtel de ville."
+    },
+    {
+      "id": 6,
+      "english": "Post office",
+      "french": "Bureau de poste",
+      "example": "Mail at post office. - Courrier au bureau de poste."
+    }
+  ]
+}

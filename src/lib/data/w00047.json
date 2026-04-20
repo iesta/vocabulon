@@ -1,0 +1,43 @@
+{
+  "id": "w00047",
+  "title": "Politics V3",
+  "day": 47,
+  "words": [
+    {
+      "id": 1,
+      "english": "Vote",
+      "french": "Vote",
+      "example": "Everyone should vote. - Tout le monde devrait voter."
+    },
+    {
+      "id": 2,
+      "english": "Government",
+      "french": "Gouvernement",
+      "example": "The government made a decision. - Le gouvernement a pris une décision."
+    },
+    {
+      "id": 3,
+      "english": "Election",
+      "french": "Élection",
+      "example": "The election is next month. - L'élection est le mois prochain."
+    },
+    {
+      "id": 4,
+      "english": "Law",
+      "french": "Loi",
+      "example": "Everyone must follow the law. - Tout le monde doit respecter la loi."
+    },
+    {
+      "id": 5,
+      "english": "Rights",
+      "french": "Droits",
+      "example": "Human rights are important. - Les droits de l'homme sont importants."
+    },
+    {
+      "id": 6,
+      "english": "Country",
+      "french": "Pays",
+      "example": "France is a beautiful country. - La France est un beau pays."
+    }
+  ]
+}

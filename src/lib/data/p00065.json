@@ -1,0 +1,22 @@
+{
+  "id": "p00065",
+  "title": "Advanced: Psychology",
+  "day": 65,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "The subconscious mind is powerful.",
+      "french": "Le subconscient est puissant."
+    },
+    {
+      "id": 2,
+      "english": "Actions reveal unconscious desires.",
+      "french": "Les actions révèlent les désirs inconscients."
+    },
+    {
+      "id": 3,
+      "english": "Behavior reflects inner thoughts.",
+      "french": "Le comportement reflète les pensées intérieures."
+    }
+  ]
+}

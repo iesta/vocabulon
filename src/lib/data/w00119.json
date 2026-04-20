@@ -1,0 +1,43 @@
+{
+  "id": "w00119",
+  "title": "Musical Instruments",
+  "day": 119,
+  "words": [
+    {
+      "id": 1,
+      "english": "Guitar",
+      "french": "Guitare",
+      "example": "Acoustic guitar strings. - Cordes de guitare acoustique."
+    },
+    {
+      "id": 2,
+      "english": "Piano",
+      "french": "Piano",
+      "example": "Play the piano. - Joue du piano."
+    },
+    {
+      "id": 3,
+      "english": "Drums",
+      "french": "Batterie",
+      "example": "Drum set kit. - Kit de batterie."
+    },
+    {
+      "id": 4,
+      "english": "Violin",
+      "french": "Violon",
+      "example": "Classical violin music. - Musique classique de violon."
+    },
+    {
+      "id": 5,
+      "english": "Trumpet",
+      "french": "Trompette",
+      "example": "Brass trumpet sound. - Son de trompe."
+    },
+    {
+      "id": 6,
+      "english": "Flute",
+      "french": "Flûte",
+      "example": "Bamboo flute. - Flûte de bambou."
+    }
+  ]
+}

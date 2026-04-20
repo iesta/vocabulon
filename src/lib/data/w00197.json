@@ -1,0 +1,43 @@
+{
+  "id": "w00197",
+  "title": "Physical Education",
+  "day": 197,
+  "words": [
+    {
+      "id": 1,
+      "english": "Gym",
+      "french": "Gymnase",
+      "example": "Gym class activities. - Activités du cours de gymnase."
+    },
+    {
+      "id": 2,
+      "english": "Locker",
+      "french": "Casier",
+      "example": "Gym locker room. - Vestiaire avec casiers."
+    },
+    {
+      "id": 3,
+      "english": "Uniform",
+      "french": "Uniforme",
+      "example": "Physical education uniform. - Uniforme d'éducation physique."
+    },
+    {
+      "id": 4,
+      "english": "Warm up",
+      "french": "Échauffement",
+      "example": "Warm up exercises. - Exercices d'échauffement."
+    },
+    {
+      "id": 5,
+      "english": "Coach",
+      "french": "Entraîneur",
+      "example": "Team sports coach. - Entraîneur d'équipes de sport."
+    },
+    {
+      "id": 6,
+      "english": "Teamwork",
+      "french": "Travail d'équipe",
+      "example": "Good teamwork spirit. - Bon esprit de travail d'équipe."
+    }
+  ]
+}

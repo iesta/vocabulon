@@ -1,0 +1,43 @@
+{
+  "id": "w00080",
+  "title": "Torso",
+  "day": 80,
+  "words": [
+    {
+      "id": 1,
+      "english": "Chest",
+      "french": "Poitrine",
+      "example": "His chest is broad. - Sa poitrine est large."
+    },
+    {
+      "id": 2,
+      "english": "Heart",
+      "french": "Cœur",
+      "example": "The heart beats. - Le cœur bat."
+    },
+    {
+      "id": 3,
+      "english": "Lung",
+      "french": "Poumon",
+      "example": "The lungs breathe. - Les poumons respirent."
+    },
+    {
+      "id": 4,
+      "english": "Stomach",
+      "french": "Estomac",
+      "example": "My stomach aches. - Mon estomac me fait mal."
+    },
+    {
+      "id": 5,
+      "english": "Liver",
+      "french": "Foie",
+      "example": "The liver filters blood. - Le foie filtre le sang."
+    },
+    {
+      "id": 6,
+      "english": "Kidney",
+      "french": "Rein",
+      "example": "The kidneys filter waste. - Les reins filtrent les déchets."
+    }
+  ]
+}

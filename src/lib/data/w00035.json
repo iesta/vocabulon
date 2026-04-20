@@ -1,0 +1,43 @@
+{
+  "id": "w00035",
+  "title": "Drinks V2",
+  "day": 35,
+  "words": [
+    {
+      "id": 1,
+      "english": "Juice",
+      "french": "Jus",
+      "example": "Would you like some orange juice? - Tu veux du jus d'orange?"
+    },
+    {
+      "id": 2,
+      "english": "Tea",
+      "french": "Thé",
+      "example": "I drink tea every morning. - Je bois du thé chaque matin."
+    },
+    {
+      "id": 3,
+      "english": "Milk",
+      "french": "Lait",
+      "example": "Children need to drink milk. - Les enfants ont besoin de boire du lait."
+    },
+    {
+      "id": 4,
+      "english": "Soda",
+      "french": "Soda",
+      "example": "I prefer soda to water. - Je préfère le soda à l'eau."
+    },
+    {
+      "id": 5,
+      "english": "Wine",
+      "french": "Vin",
+      "example": "This wine is excellent. - Ce vin est excellent."
+    },
+    {
+      "id": 6,
+      "english": "Beer",
+      "french": "Bière",
+      "example": "A beer please! - Une bière s'il vous plaît!"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00015",
+  "title": "Transportation",
+  "day": 15,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I take the train to work.",
+      "french": "Je prends le train pour aller au travail."
+    },
+    {
+      "id": 2,
+      "english": "The bus is late again.",
+      "french": "Le bus est encore en retard."
+    },
+    {
+      "id": 3,
+      "english": "I prefer cycling to driving.",
+      "french": "Je préfère le vélo à la voiture."
+    }
+  ]
+}

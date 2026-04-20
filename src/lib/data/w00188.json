@@ -1,0 +1,43 @@
+{
+  "id": "w00188",
+  "title": "Learning",
+  "day": 188,
+  "words": [
+    {
+      "id": 1,
+      "english": "Study",
+      "french": "Étudier",
+      "example": "Study for finals. - Étudie pour les finals."
+    },
+    {
+      "id": 2,
+      "english": "Learn",
+      "french": "Apprendre",
+      "example": "Learn something new. - Apprends quelque chose de nouveau."
+    },
+    {
+      "id": 3,
+      "english": "Read",
+      "french": "Lire",
+      "example": "Read the assignment. - Lis le devoir."
+    },
+    {
+      "id": 4,
+      "english": "Write",
+      "french": "Écrire",
+      "example": "Write an essay. - Écris une dissertation."
+    },
+    {
+      "id": 5,
+      "english": "Practice",
+      "french": "Pratiquer",
+      "example": "Practice makes perfect. - La pratique rend parfait."
+    },
+    {
+      "id": 6,
+      "english": "Review",
+      "french": "Réviser",
+      "example": "Review before test. - Réviser avant le contrôle."
+    }
+  ]
+}

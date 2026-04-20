@@ -1,0 +1,43 @@
+{
+  "id": "w00213",
+  "title": "City Places",
+  "day": 213,
+  "words": [
+    {
+      "id": 1,
+      "english": "City",
+      "french": "Ville",
+      "example": "Big city lights. - Lumières de grande ville."
+    },
+    {
+      "id": 2,
+      "english": "Downtown",
+      "french": "Centre-ville",
+      "example": "Downtown business district. - Quartier des affaires du centre-ville."
+    },
+    {
+      "id": 3,
+      "english": "Suburb",
+      "french": "Banlieue",
+      "example": "Quiet suburb living. - Vie tranquille en banlieue."
+    },
+    {
+      "id": 4,
+      "english": "Avenue",
+      "french": "Avenue",
+      "example": "Main avenue shopping. - Shopping sur l'avenue principale."
+    },
+    {
+      "id": 5,
+      "english": "Street",
+      "french": "Rue",
+      "example": "Maple street name. - Nom de rue de l'Érable."
+    },
+    {
+      "id": 6,
+      "english": "Block",
+      "french": "Îlot",
+      "example": "City block walk. - Marche d'îlot urbain."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p00080",
+  "title": "Expert: Philosophical",
+  "day": 80,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "Cogito ergo sum.",
+      "french": "Je pense donc je suis."
+    },
+    {
+      "id": 2,
+      "english": "The unexamined life is not worth living.",
+      "french": "La vie nonexaminée ne mérite pas d'être vécue."
+    },
+    {
+      "id": 3,
+      "english": "To be or not to be, that is the question.",
+      "french": "Être ou ne pas être, c'est la question."
+    }
+  ]
+}

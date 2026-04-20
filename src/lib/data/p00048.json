@@ -1,0 +1,22 @@
+{
+  "id": "p00048",
+  "title": "Surprise",
+  "day": 48,
+  "expressions": [
+    {
+      "id": 1,
+      "english": "I can't believe it!",
+      "french": "Je n'arrive pas à le croire!"
+    },
+    {
+      "id": 2,
+      "english": "What a surprise!",
+      "french": "Quelle surprise!"
+    },
+    {
+      "id": 3,
+      "english": "You're pulling my leg!",
+      "french": "Tu me fais marcher!"
+    }
+  ]
+}
