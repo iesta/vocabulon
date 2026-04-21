@@ -6,6 +6,10 @@ Application de flashcards pour apprendre l'anglais, depuis le français.
 ![Node.js](https://img.shields.io/badge/Node.js-20+-green.svg)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-5-purple.svg)
 
+## Screenshots
+
+![Vocabulon](/screenshot.png)
+
 ## Fonctionnalités
 
 - 250 cartes de vocabulaire (6 mots chacune = 1500 mots)
