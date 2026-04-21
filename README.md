@@ -8,7 +8,7 @@ Application de flashcards pour apprendre l'anglais, depuis le français.
 
 ## Screenshots
 
-![Vocabulon](/screenshot.png)
+![Vocabulon](./static/screenshot.png)
 
 ## Fonctionnalités
 
