@@ -1,0 +1,1013 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "theme": "Animals",
+      "french": "Le chien mange la pizza.",
+      "english": "The dog eats the pizza.",
+      "maskedEnglish": "The dog ____ the pizza.",
+      "answer": "eats",
+      "distractors": [
+        "eats",
+        "throws",
+        "washes",
+        "pushes"
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "Animals",
+      "french": "Le chat dort sur l'ordinateur.",
+      "english": "The cat sleeps on the computer.",
+      "maskedEnglish": "The cat ____ on the computer.",
+      "answer": "sleeps",
+      "distractors": [
+        "sleeps",
+        "dances",
+        "sings",
+        "stays"
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "Animals",
+      "french": "Le lapin mange des carottes.",
+      "english": "The rabbit eats carrots.",
+      "maskedEnglish": "The rabbit ____ carrots.",
+      "answer": "eats",
+      "distractors": [
+        "eats",
+        "buys",
+        "throws",
+        "paints"
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "Animals",
+      "french": "L'oiseau chante très fort.",
+      "english": "The bird sings very loud.",
+      "maskedEnglish": "The bird ____ very loud.",
+      "answer": "sings",
+      "distractors": [
+        "sings",
+        "laughs",
+        "shouts",
+        "talks"
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "Animals",
+      "french": "Le poisson nage dans la baignoire.",
+      "english": "The fish swims in the bathtub.",
+      "maskedEnglish": "The fish ____ in the bathtub.",
+      "answer": "swims",
+      "distractors": [
+        "swims",
+        "walks",
+        "sleeps",
+        "sells"
+      ]
+    },
+    {
+      "id": 6,
+      "theme": "Animals",
+      "french": "Le cheval court très vite.",
+      "english": "The horse runs very fast.",
+      "maskedEnglish": "The horse ____ very fast.",
+      "answer": "runs",
+      "distractors": [
+        "runs",
+        "sleeps",
+        "eats",
+        "works"
+      ]
+    },
+    {
+      "id": 7,
+      "theme": "Food",
+      "french": "Je mange une pomme verte.",
+      "english": "I eat a green apple.",
+      "maskedEnglish": "I ____ a green apple.",
+      "answer": "eat",
+      "distractors": [
+        "eat",
+        "buy",
+        "throw",
+        "washes"
+      ]
+    },
+    {
+      "id": 8,
+      "theme": "Food",
+      "french": "Elle boit du lait froid.",
+      "english": "She drinks cold milk.",
+      "maskedEnglish": "She ____ cold milk.",
+      "answer": "drinks",
+      "distractors": [
+        "drinks",
+        "cooks",
+        "buys",
+        "closes"
+      ]
+    },
+    {
+      "id": 9,
+      "theme": "Food",
+      "french": "Nous aimons le chocolat.",
+      "english": "We love chocolate.",
+      "maskedEnglish": "We ____ chocolate.",
+      "answer": "love",
+      "distractors": [
+        "love",
+        "buy",
+        "cook",
+        "closes"
+      ]
+    },
+    {
+      "id": 10,
+      "theme": "Food",
+      "french": "Il prépare un gâteau énorme.",
+      "english": "He makes a huge cake.",
+      "maskedEnglish": "He ____ a huge cake.",
+      "answer": "makes",
+      "distractors": [
+        "makes",
+        "throws",
+        "buys",
+        "sings"
+      ]
+    },
+    {
+      "id": 11,
+      "theme": "Food",
+      "french": "Tu veux de la pizza?",
+      "english": "Do you want some pizza?",
+      "maskedEnglish": "Do you ____ some pizza?",
+      "answer": "want",
+      "distractors": [
+        "want",
+        "buy",
+        "cook",
+        "climbs"
+      ]
+    },
+    {
+      "id": 12,
+      "theme": "Food",
+      "french": "Je déteste les brocolis!",
+      "english": "I hate broccoli!",
+      "maskedEnglish": "I ____ broccoli!",
+      "answer": "hate",
+      "distractors": [
+        "hate",
+        "buy",
+        "cook",
+        "plays"
+      ]
+    },
+    {
+      "id": 13,
+      "theme": "School",
+      "french": "L'élève écrit dans le cahier.",
+      "english": "The student writes in the notebook.",
+      "maskedEnglish": "The student ____ in the notebook.",
+      "answer": "writes",
+      "distractors": [
+        "writes",
+        "eats",
+        "plays",
+        "buys"
+      ]
+    },
+    {
+      "id": 14,
+      "theme": "School",
+      "french": "Le prof enseigne les maths.",
+      "english": "The teacher teaches math.",
+      "maskedEnglish": "The teacher ____ math.",
+      "answer": "teaches",
+      "distractors": [
+        "teaches",
+        "learns",
+        "eats",
+        "helps"
+      ]
+    },
+    {
+      "id": 15,
+      "theme": "School",
+      "french": "Nous lisons un livre amusant.",
+      "english": "We read a funny book.",
+      "maskedEnglish": "We ____ a funny book.",
+      "answer": "read",
+      "distractors": [
+        "read",
+        "buy",
+        "throw",
+        "gives"
+      ]
+    },
+    {
+      "id": 16,
+      "theme": "School",
+      "french": "Elle apprend l'anglais vite.",
+      "english": "She learns English fast.",
+      "maskedEnglish": "She ____ English fast.",
+      "answer": "learns",
+      "distractors": [
+        "learns",
+        "writes",
+        "reads",
+        "draws"
+      ]
+    },
+    {
+      "id": 17,
+      "theme": "School",
+      "french": "Tu études pour l'examen?",
+      "english": "Do you study for the test?",
+      "maskedEnglish": "Do you ____ for the test?",
+      "answer": "study",
+      "distractors": [
+        "study",
+        "sleep",
+        "eat",
+        "throws"
+      ]
+    },
+    {
+      "id": 18,
+      "theme": "School",
+      "french": "Le garçon répond à la question.",
+      "english": "The boy answers the question.",
+      "maskedEnglish": "The boy ____ the question.",
+      "answer": "answers",
+      "distractors": [
+        "answers",
+        "writes",
+        "reads",
+        "drives"
+      ]
+    },
+    {
+      "id": 19,
+      "theme": "Family",
+      "french": "Ma mère cooks dinner.",
+      "english": "My mother cooks dinner.",
+      "maskedEnglish": "My mother ____ dinner.",
+      "answer": "cooks",
+      "distractors": [
+        "cooks",
+        "buys",
+        "throws",
+        "thinks"
+      ]
+    },
+    {
+      "id": 20,
+      "theme": "Family",
+      "french": "Mon père regarde la TV.",
+      "english": "My father watches TV.",
+      "maskedEnglish": "My father ____ TV.",
+      "answer": "watches",
+      "distractors": [
+        "watches",
+        "plays",
+        "eats",
+        "catches"
+      ]
+    },
+    {
+      "id": 21,
+      "theme": "Family",
+      "french": "Ma sœur joue au piano.",
+      "english": "My sister plays the piano.",
+      "maskedEnglish": "My sister ____ the piano.",
+      "answer": "plays",
+      "distractors": [
+        "plays",
+        "washes",
+        "buys",
+        "throws"
+      ]
+    },
+    {
+      "id": 22,
+      "theme": "Family",
+      "french": "Mon frère dort tout le temps!",
+      "english": "My brother sleeps all the time!",
+      "maskedEnglish": "My brother ____ all the time!",
+      "answer": "sleeps",
+      "distractors": [
+        "sleeps",
+        "works",
+        "eats",
+        "spends"
+      ]
+    },
+    {
+      "id": 23,
+      "theme": "Family",
+      "french": "Je aime ma famille.",
+      "english": "I love my family.",
+      "maskedEnglish": "I ____ my family.",
+      "answer": "love",
+      "distractors": [
+        "love",
+        "leave",
+        "forget",
+        "thinks"
+      ]
+    },
+    {
+      "id": 24,
+      "theme": "Family",
+      "french": "Les grandparents dansent bien.",
+      "english": "The grandparents dance well.",
+      "maskedEnglish": "The grandparents ____ well.",
+      "answer": "dance",
+      "distractors": [
+        "dance",
+        "run",
+        "eat",
+        "sits"
+      ]
+    },
+    {
+      "id": 25,
+      "theme": "Games",
+      "french": "Il joue aux jeux vidéo.",
+      "english": "He plays video games.",
+      "maskedEnglish": "He ____ video games.",
+      "answer": "plays",
+      "distractors": [
+        "plays",
+        "cooks",
+        "studies",
+        "grows"
+      ]
+    },
+    {
+      "id": 26,
+      "theme": "Games",
+      "french": "Nous gagnons toujours!",
+      "english": "We always win!",
+      "maskedEnglish": "We ____ win!",
+      "answer": "always",
+      "distractors": [
+        "always",
+        "sometimes",
+        "rarely",
+        "stands"
+      ]
+    },
+    {
+      "id": 27,
+      "theme": "Games",
+      "french": "Tu perds le jeu!",
+      "english": "You lose the game!",
+      "maskedEnglish": "You ____ the game!",
+      "answer": "lose",
+      "distractors": [
+        "lose",
+        "play",
+        "buy",
+        "fixes"
+      ]
+    },
+    {
+      "id": 28,
+      "theme": "Games",
+      "french": "Le garçon court très vite.",
+      "english": "The boy runs very fast.",
+      "maskedEnglish": "The boy ____ very fast.",
+      "answer": "runs",
+      "distractors": [
+        "runs",
+        "sleeps",
+        "eats",
+        "moves"
+      ]
+    },
+    {
+      "id": 29,
+      "theme": "Games",
+      "french": "Elle saute très haut.",
+      "english": "She jumps very high.",
+      "maskedEnglish": "She ____ very high.",
+      "answer": "jumps",
+      "distractors": [
+        "jumps",
+        "walks",
+        "sleeps",
+        "breaks"
+      ]
+    },
+    {
+      "id": 30,
+      "theme": "Games",
+      "french": "Nous aimons nager.",
+      "english": "We like to swim.",
+      "maskedEnglish": "We like to ____.",
+      "answer": "swim",
+      "distractors": [
+        "swim",
+        "fly",
+        "sleep",
+        "swims"
+      ]
+    },
+    {
+      "id": 31,
+      "theme": "Silly",
+      "french": "Le serpent porte un chapeau.",
+      "english": "The snake wears a hat.",
+      "maskedEnglish": "The snake ____ a hat.",
+      "answer": "wears",
+      "distractors": [
+        "wears",
+        "eats",
+        "throws",
+        "buys"
+      ]
+    },
+    {
+      "id": 32,
+      "theme": "Silly",
+      "french": "L'éléphant danse le tango.",
+      "english": "The elephant dances tango.",
+      "maskedEnglish": "The elephant ____ tango.",
+      "answer": "dances",
+      "distractors": [
+        "dances",
+        "sings",
+        "plays",
+        "moves"
+      ]
+    },
+    {
+      "id": 33,
+      "theme": "Silly",
+      "french": "Le zombie mange des pizza.",
+      "english": "The zombie eats pizza.",
+      "maskedEnglish": "The zombie ____ pizza.",
+      "answer": "eats",
+      "distractors": [
+        "eats",
+        "wears",
+        "throws",
+        "washes"
+      ]
+    },
+    {
+      "id": 34,
+      "theme": "Silly",
+      "french": "La girafe porte des baskets.",
+      "english": "The giraffe wears sneakers.",
+      "maskedEnglish": "The giraffe ____ sneakers.",
+      "answer": "wears",
+      "distractors": [
+        "wears",
+        "eats",
+        "plays",
+        "draws"
+      ]
+    },
+    {
+      "id": 35,
+      "theme": "Silly",
+      "french": "Le pingouin vole un avion.",
+      "english": "The penguin flies a plane.",
+      "maskedEnglish": "The penguin ____ a plane.",
+      "answer": "flies",
+      "distractors": [
+        "flies",
+        "eats",
+        "drives",
+        "draws"
+      ]
+    },
+    {
+      "id": 36,
+      "theme": "Silly",
+      "french": "La vache joue du piano.",
+      "english": "The cow plays the piano.",
+      "maskedEnglish": "The cow ____ the piano.",
+      "answer": "plays",
+      "distractors": [
+        "plays",
+        "eats",
+        "drinks",
+        "bakes"
+      ]
+    },
+    {
+      "id": 37,
+      "theme": "Daily",
+      "french": "Je me lève à sept heures.",
+      "english": "I get up at seven o'clock.",
+      "maskedEnglish": "I ____ up at seven o'clock.",
+      "answer": "get",
+      "distractors": [
+        "get",
+        "lie",
+        "run",
+        "sees"
+      ]
+    },
+    {
+      "id": 38,
+      "theme": "Daily",
+      "french": "Elle prend une douche.",
+      "english": "She takes a shower.",
+      "maskedEnglish": "She ____ a shower.",
+      "answer": "takes",
+      "distractors": [
+        "takes",
+        "gives",
+        "makes",
+        "talks"
+      ]
+    },
+    {
+      "id": 39,
+      "theme": "Daily",
+      "french": "Je m'habille en rouge.",
+      "english": "I dress in red.",
+      "maskedEnglish": "I ____ in red.",
+      "answer": "dress",
+      "distractors": [
+        "dress",
+        "walk",
+        "sleep",
+        "wakes"
+      ]
+    },
+    {
+      "id": 40,
+      "theme": "Daily",
+      "french": "Nous allons au cinéma.",
+      "english": "We go to the cinema.",
+      "maskedEnglish": "We ____ to the cinema.",
+      "answer": "go",
+      "distractors": [
+        "go",
+        "run",
+        "walk",
+        "flies"
+      ]
+    },
+    {
+      "id": 41,
+      "theme": "Daily",
+      "french": "Il rentre à la maison.",
+      "english": "He comes home.",
+      "maskedEnglish": "He ____ home.",
+      "answer": "comes",
+      "distractors": [
+        "comes",
+        "goes",
+        "runs",
+        "talks"
+      ]
+    },
+    {
+      "id": 42,
+      "theme": "Daily",
+      "french": "Tu dors huit heures.",
+      "english": "You sleep eight hours.",
+      "maskedEnglish": "You ____ eight hours.",
+      "answer": "sleep",
+      "distractors": [
+        "sleep",
+        "play",
+        "study",
+        "swims"
+      ]
+    },
+    {
+      "id": 43,
+      "theme": "Tech",
+      "french": "Il joue aux jeux vidéo.",
+      "english": "He plays video games.",
+      "maskedEnglish": "He ____ video games.",
+      "answer": "plays",
+      "distractors": [
+        "plays",
+        "cooks",
+        "studies",
+        "dances"
+      ]
+    },
+    {
+      "id": 44,
+      "theme": "Tech",
+      "french": "Elle regarde YouTube.",
+      "english": "She watches YouTube.",
+      "maskedEnglish": "She ____ YouTube.",
+      "answer": "watches",
+      "distractors": [
+        "watches",
+        "plays",
+        "studies",
+        "builds"
+      ]
+    },
+    {
+      "id": 45,
+      "theme": "Tech",
+      "french": "Mon frère code des jeux.",
+      "english": "My brother codes games.",
+      "maskedEnglish": "My brother ____ games.",
+      "answer": "codes",
+      "distractors": [
+        "codes",
+        "plays",
+        "watches",
+        "calls"
+      ]
+    },
+    {
+      "id": 46,
+      "theme": "Tech",
+      "french": "Je téléphone à ma mère.",
+      "english": "I call my mother.",
+      "maskedEnglish": "I ____ my mother.",
+      "answer": "call",
+      "distractors": [
+        "call",
+        "hug",
+        "give",
+        "buys"
+      ]
+    },
+    {
+      "id": 47,
+      "theme": "Tech",
+      "french": "Il envoie un message.",
+      "english": "He sends a message.",
+      "maskedEnglish": "He ____ a message.",
+      "answer": "sends",
+      "distractors": [
+        "sends",
+        "deletes",
+        "writes",
+        "shows"
+      ]
+    },
+    {
+      "id": 48,
+      "theme": "Tech",
+      "french": "Elle prend une photo.",
+      "english": "She takes a photo.",
+      "maskedEnglish": "She ____ a photo.",
+      "answer": "takes",
+      "distractors": [
+        "takes",
+        "gives",
+        "sends",
+        "reads"
+      ]
+    },
+    {
+      "id": 49,
+      "theme": "Descriptions",
+      "french": "La maison est très grande.",
+      "english": "The house is very big.",
+      "maskedEnglish": "The house is very ____.",
+      "answer": "big",
+      "distractors": [
+        "big",
+        "old",
+        "cold",
+        "sings"
+      ]
+    },
+    {
+      "id": 50,
+      "theme": "Descriptions",
+      "french": "Le chat est noir.",
+      "english": "The cat is black.",
+      "maskedEnglish": "The cat is ____.",
+      "answer": "black",
+      "distractors": [
+        "black",
+        "fast",
+        "fat",
+        "reads"
+      ]
+    },
+    {
+      "id": 51,
+      "theme": "Descriptions",
+      "french": "Elle est très intelligente.",
+      "english": "She is very smart.",
+      "maskedEnglish": "She is very ____.",
+      "answer": "smart",
+      "distractors": [
+        "smart",
+        "young",
+        "thin",
+        "hears"
+      ]
+    },
+    {
+      "id": 52,
+      "theme": "Descriptions",
+      "french": "Le film est super!",
+      "english": "The movie is awesome!",
+      "maskedEnglish": "The movie is ____!",
+      "answer": "awesome",
+      "distractors": [
+        "awesome",
+        "boring",
+        "long",
+        "helps"
+      ]
+    },
+    {
+      "id": 53,
+      "theme": "Descriptions",
+      "french": "La chanson est cool.",
+      "english": "The song is cool.",
+      "maskedEnglish": "The song is ____.",
+      "answer": "cool",
+      "distractors": [
+        "cool",
+        "old",
+        "long",
+        "loves"
+      ]
+    },
+    {
+      "id": 54,
+      "theme": "Descriptions",
+      "french": "Le livre est intéressant.",
+      "english": "The book is interesting.",
+      "maskedEnglish": "The book is ____.",
+      "answer": "interesting",
+      "distractors": [
+        "interesting",
+        "short",
+        "bad",
+        "builds"
+      ]
+    },
+    {
+      "id": 55,
+      "theme": "Actions",
+      "french": "Je cours dans le parc.",
+      "english": "I run in the park.",
+      "maskedEnglish": "I ____ in the park.",
+      "answer": "run",
+      "distractors": [
+        "run",
+        "sleep",
+        "sit",
+        "tastes"
+      ]
+    },
+    {
+      "id": 56,
+      "theme": "Actions",
+      "french": "Nous mangeons à midi.",
+      "english": "We eat at noon.",
+      "maskedEnglish": "We ____ at noon.",
+      "answer": "eat",
+      "distractors": [
+        "eat",
+        "work",
+        "play",
+        "writes"
+      ]
+    },
+    {
+      "id": 57,
+      "theme": "Actions",
+      "french": "Il chante une chanson.",
+      "english": "He sings a song.",
+      "maskedEnglish": "He ____ a song.",
+      "answer": "sings",
+      "distractors": [
+        "sings",
+        "buys",
+        "throws",
+        "wants"
+      ]
+    },
+    {
+      "id": 58,
+      "theme": "Actions",
+      "french": "Elle danse très bien.",
+      "english": "She dances very well.",
+      "maskedEnglish": "She ____ very well.",
+      "answer": "dances",
+      "distractors": [
+        "dances",
+        "walks",
+        "sleeps",
+        "waits"
+      ]
+    },
+    {
+      "id": 59,
+      "theme": "Actions",
+      "french": "Tu cooks très bien!",
+      "english": "You cook very well!",
+      "maskedEnglish": "You ____ very well!",
+      "answer": "cook",
+      "distractors": [
+        "cook",
+        "buy",
+        "throw",
+        "washes"
+      ]
+    },
+    {
+      "id": 60,
+      "theme": "Actions",
+      "french": "Je bois de l'eau.",
+      "english": "I drink water.",
+      "maskedEnglish": "I ____ water.",
+      "answer": "drink",
+      "distractors": [
+        "drink",
+        "throw",
+        "cook",
+        "fixes"
+      ]
+    },
+    {
+      "id": 61,
+      "theme": "Colors",
+      "french": "Le ciel est bleu.",
+      "english": "The sky is blue.",
+      "maskedEnglish": "The sky is ____.",
+      "answer": "blue",
+      "distractors": [
+        "blue",
+        "red",
+        "yellow",
+        "swims"
+      ]
+    },
+    {
+      "id": 62,
+      "theme": "Colors",
+      "french": "L'herbe est verte.",
+      "english": "The grass is green.",
+      "maskedEnglish": "The grass is ____.",
+      "answer": "green",
+      "distractors": [
+        "green",
+        "yellow",
+        "brown",
+        "dances"
+      ]
+    },
+    {
+      "id": 63,
+      "theme": "Colors",
+      "french": "La voiture est rouge.",
+      "english": "The car is red.",
+      "maskedEnglish": "The car is ____.",
+      "answer": "red",
+      "distractors": [
+        "red",
+        "fast",
+        "new",
+        "washes"
+      ]
+    },
+    {
+      "id": 64,
+      "theme": "Colors",
+      "french": "Le soleil est jaune.",
+      "english": "The sun is yellow.",
+      "maskedEnglish": "The sun is ____.",
+      "answer": "yellow",
+      "distractors": [
+        "yellow",
+        "green",
+        "gray",
+        "hates"
+      ]
+    },
+    {
+      "id": 65,
+      "theme": "Colors",
+      "french": "La neige est blanche.",
+      "english": "The snow is white.",
+      "maskedEnglish": "The snow is ____.",
+      "answer": "white",
+      "distractors": [
+        "white",
+        "gray",
+        "blue",
+        "feels"
+      ]
+    },
+    {
+      "id": 66,
+      "theme": "Colors",
+      "french": "La nuit est noire.",
+      "english": "The night is dark.",
+      "maskedEnglish": "The night is ____.",
+      "answer": "dark",
+      "distractors": [
+        "dark",
+        "sunny",
+        "warm",
+        "wakes"
+      ]
+    },
+    {
+      "id": 67,
+      "theme": "Time",
+      "french": "Il est trois heures.",
+      "english": "It is three o'clock.",
+      "maskedEnglish": "It is ____ o'clock.",
+      "answer": "three",
+      "distractors": [
+        "three",
+        "seven",
+        "nine",
+        "fixes"
+      ]
+    },
+    {
+      "id": 68,
+      "theme": "Time",
+      "french": "Je pars demain.",
+      "english": "I leave tomorrow.",
+      "maskedEnglish": "I ____ tomorrow.",
+      "answer": "leave",
+      "distractors": [
+        "leave",
+        "arrive",
+        "stay",
+        "waits"
+      ]
+    },
+    {
+      "id": 69,
+      "theme": "Time",
+      "french": "Elle arrive aujourd'hui.",
+      "english": "She arrives today.",
+      "maskedEnglish": "She ____ today.",
+      "answer": "arrives",
+      "distractors": [
+        "arrives",
+        "stays",
+        "goes",
+        "loves"
+      ]
+    },
+    {
+      "id": 70,
+      "theme": "Time",
+      "french": "Nous voyageons souvent.",
+      "english": "We travel often.",
+      "maskedEnglish": "We ____ often.",
+      "answer": "travel",
+      "distractors": [
+        "travel",
+        "sleep",
+        "sit",
+        "kicks"
+      ]
+    },
+    {
+      "id": 71,
+      "theme": "Time",
+      "french": "Tu travail le lundi.",
+      "english": "You work on Monday.",
+      "maskedEnglish": "You ____ on Monday.",
+      "answer": "work",
+      "distractors": [
+        "work",
+        "sleep",
+        "eat",
+        "hates"
+      ]
+    },
+    {
+      "id": 72,
+      "theme": "Time",
+      "french": "Je joue toujours le samedi.",
+      "english": "I always play on Saturday.",
+      "maskedEnglish": "I ____ play on Saturday.",
+      "answer": "always",
+      "distractors": [
+        "always",
+        "sometimes",
+        "rarely",
+        "builds"
+      ]
+    }
+  ],
+  "total": 72
+}
