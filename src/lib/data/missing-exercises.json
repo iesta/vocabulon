@@ -9,9 +9,9 @@
       "answer": "eats",
       "distractors": [
         "eats",
-        "throws",
-        "washes",
-        "pushes"
+        "wait",
+        "car",
+        "cold"
       ]
     },
     {
@@ -23,9 +23,9 @@
       "answer": "sleeps",
       "distractors": [
         "sleeps",
-        "dances",
-        "sings",
-        "stays"
+        "bird",
+        "well",
+        "table"
       ]
     },
     {
@@ -37,9 +37,9 @@
       "answer": "eats",
       "distractors": [
         "eats",
-        "buys",
-        "throws",
-        "paints"
+        "never",
+        "bird",
+        "cat"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "answer": "sings",
       "distractors": [
         "sings",
-        "laughs",
-        "shouts",
-        "talks"
+        "flower",
+        "quietly",
+        "sky"
       ]
     },
     {
@@ -65,9 +65,9 @@
       "answer": "swims",
       "distractors": [
         "swims",
-        "walks",
-        "sleeps",
-        "sells"
+        "happy",
+        "water",
+        "slow"
       ]
     },
     {
@@ -79,9 +79,9 @@
       "answer": "runs",
       "distractors": [
         "runs",
-        "sleeps",
-        "eats",
-        "works"
+        "good",
+        "well",
+        "flower"
       ]
     },
     {
@@ -93,9 +93,9 @@
       "answer": "eat",
       "distractors": [
         "eat",
-        "buy",
-        "throw",
-        "washes"
+        "hot",
+        "waits",
+        "smart"
       ]
     },
     {
@@ -107,9 +107,9 @@
       "answer": "drinks",
       "distractors": [
         "drinks",
-        "cooks",
-        "buys",
-        "closes"
+        "bird",
+        "book",
+        "well"
       ]
     },
     {
@@ -121,9 +121,9 @@
       "answer": "love",
       "distractors": [
         "love",
-        "buy",
-        "cook",
-        "closes"
+        "tree",
+        "car",
+        "school"
       ]
     },
     {
@@ -135,9 +135,9 @@
       "answer": "makes",
       "distractors": [
         "makes",
-        "throws",
-        "buys",
-        "sings"
+        "sleep",
+        "listen",
+        "book"
       ]
     },
     {
@@ -149,9 +149,9 @@
       "answer": "want",
       "distractors": [
         "want",
-        "buy",
-        "cook",
-        "climbs"
+        "big",
+        "bird",
+        "hot"
       ]
     },
     {
@@ -163,9 +163,9 @@
       "answer": "hate",
       "distractors": [
         "hate",
-        "buy",
-        "cook",
-        "plays"
+        "likes",
+        "hot",
+        "makes"
       ]
     },
     {
@@ -177,9 +177,9 @@
       "answer": "writes",
       "distractors": [
         "writes",
-        "eats",
-        "plays",
-        "buys"
+        "talk",
+        "help",
+        "young"
       ]
     },
     {
@@ -191,9 +191,9 @@
       "answer": "teaches",
       "distractors": [
         "teaches",
-        "learns",
-        "eats",
-        "helps"
+        "quickly",
+        "badly",
+        "need"
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "read",
       "distractors": [
         "read",
-        "buy",
-        "throw",
-        "gives"
+        "goes",
+        "wants",
+        "sleeps"
       ]
     },
     {
@@ -219,9 +219,9 @@
       "answer": "learns",
       "distractors": [
         "learns",
-        "writes",
-        "reads",
-        "draws"
+        "cat",
+        "quietly",
+        "always"
       ]
     },
     {
@@ -233,9 +233,9 @@
       "answer": "study",
       "distractors": [
         "study",
-        "sleep",
-        "eat",
-        "throws"
+        "tree",
+        "sky",
+        "table"
       ]
     },
     {
@@ -247,9 +247,9 @@
       "answer": "answers",
       "distractors": [
         "answers",
-        "writes",
-        "reads",
-        "drives"
+        "water",
+        "badly",
+        "cold"
       ]
     },
     {
@@ -261,9 +261,9 @@
       "answer": "cooks",
       "distractors": [
         "cooks",
-        "buys",
-        "throws",
-        "thinks"
+        "sun",
+        "good",
+        "bad"
       ]
     },
     {
@@ -275,9 +275,9 @@
       "answer": "watches",
       "distractors": [
         "watches",
-        "plays",
-        "eats",
-        "catches"
+        "loudly",
+        "old",
+        "dog"
       ]
     },
     {
@@ -289,9 +289,9 @@
       "answer": "plays",
       "distractors": [
         "plays",
-        "washes",
-        "buys",
-        "throws"
+        "school",
+        "cold",
+        "friend"
       ]
     },
     {
@@ -303,9 +303,9 @@
       "answer": "sleeps",
       "distractors": [
         "sleeps",
-        "works",
-        "eats",
-        "spends"
+        "help",
+        "slowly",
+        "cat"
       ]
     },
     {
@@ -317,9 +317,9 @@
       "answer": "love",
       "distractors": [
         "love",
-        "leave",
-        "forget",
-        "thinks"
+        "rarely",
+        "never",
+        "badly"
       ]
     },
     {
@@ -331,9 +331,9 @@
       "answer": "dance",
       "distractors": [
         "dance",
-        "run",
-        "eat",
-        "sits"
+        "bird",
+        "car",
+        "house"
       ]
     },
     {
@@ -345,9 +345,9 @@
       "answer": "plays",
       "distractors": [
         "plays",
-        "cooks",
-        "studies",
-        "grows"
+        "big",
+        "wait",
+        "loudly"
       ]
     },
     {
@@ -359,9 +359,9 @@
       "answer": "always",
       "distractors": [
         "always",
-        "sometimes",
-        "rarely",
-        "stands"
+        "play",
+        "happy",
+        "want"
       ]
     },
     {
@@ -373,9 +373,9 @@
       "answer": "lose",
       "distractors": [
         "lose",
-        "play",
-        "buy",
-        "fixes"
+        "bird",
+        "house",
+        "music"
       ]
     },
     {
@@ -387,9 +387,9 @@
       "answer": "runs",
       "distractors": [
         "runs",
-        "sleeps",
-        "eats",
-        "moves"
+        "want",
+        "like",
+        "small"
       ]
     },
     {
@@ -401,9 +401,9 @@
       "answer": "jumps",
       "distractors": [
         "jumps",
-        "walks",
-        "sleeps",
-        "breaks"
+        "loudly",
+        "like",
+        "help"
       ]
     },
     {
@@ -415,9 +415,9 @@
       "answer": "swim",
       "distractors": [
         "swim",
-        "fly",
-        "sleep",
-        "swims"
+        "badly",
+        "slowly",
+        "loudly"
       ]
     },
     {
@@ -429,9 +429,9 @@
       "answer": "wears",
       "distractors": [
         "wears",
-        "eats",
-        "throws",
-        "buys"
+        "bad",
+        "fast",
+        "new"
       ]
     },
     {
@@ -443,9 +443,9 @@
       "answer": "dances",
       "distractors": [
         "dances",
-        "sings",
-        "plays",
-        "moves"
+        "never",
+        "sometimes",
+        "run"
       ]
     },
     {
@@ -457,9 +457,9 @@
       "answer": "eats",
       "distractors": [
         "eats",
-        "wears",
-        "throws",
-        "washes"
+        "always",
+        "loudly",
+        "book"
       ]
     },
     {
@@ -471,9 +471,9 @@
       "answer": "wears",
       "distractors": [
         "wears",
-        "eats",
-        "plays",
-        "draws"
+        "like",
+        "rarely",
+        "house"
       ]
     },
     {
@@ -485,9 +485,9 @@
       "answer": "flies",
       "distractors": [
         "flies",
-        "eats",
-        "drives",
-        "draws"
+        "house",
+        "work",
+        "good"
       ]
     },
     {
@@ -499,9 +499,9 @@
       "answer": "plays",
       "distractors": [
         "plays",
-        "eats",
-        "drinks",
-        "bakes"
+        "car",
+        "always",
+        "sky"
       ]
     },
     {
@@ -513,9 +513,9 @@
       "answer": "get",
       "distractors": [
         "get",
-        "lie",
-        "run",
-        "sees"
+        "waits",
+        "sees",
+        "talks"
       ]
     },
     {
@@ -527,9 +527,9 @@
       "answer": "takes",
       "distractors": [
         "takes",
-        "gives",
-        "makes",
-        "talks"
+        "sleep",
+        "tree",
+        "quickly"
       ]
     },
     {
@@ -541,9 +541,9 @@
       "answer": "dress",
       "distractors": [
         "dress",
-        "walk",
-        "sleep",
-        "wakes"
+        "cat",
+        "friend",
+        "dog"
       ]
     },
     {
@@ -555,9 +555,9 @@
       "answer": "go",
       "distractors": [
         "go",
-        "run",
-        "walk",
-        "flies"
+        "never",
+        "well",
+        "always"
       ]
     },
     {
@@ -569,9 +569,9 @@
       "answer": "comes",
       "distractors": [
         "comes",
-        "goes",
-        "runs",
-        "talks"
+        "book",
+        "happy",
+        "young"
       ]
     },
     {
@@ -583,9 +583,9 @@
       "answer": "sleep",
       "distractors": [
         "sleep",
-        "play",
-        "study",
-        "swims"
+        "tree",
+        "sees",
+        "fast"
       ]
     },
     {
@@ -597,9 +597,9 @@
       "answer": "plays",
       "distractors": [
         "plays",
-        "cooks",
-        "studies",
-        "dances"
+        "run",
+        "want",
+        "never"
       ]
     },
     {
@@ -611,9 +611,9 @@
       "answer": "watches",
       "distractors": [
         "watches",
-        "plays",
-        "studies",
-        "builds"
+        "dog",
+        "big",
+        "well"
       ]
     },
     {
@@ -625,9 +625,9 @@
       "answer": "codes",
       "distractors": [
         "codes",
-        "plays",
-        "watches",
-        "calls"
+        "friend",
+        "want",
+        "house"
       ]
     },
     {
@@ -639,9 +639,9 @@
       "answer": "call",
       "distractors": [
         "call",
-        "hug",
-        "give",
-        "buys"
+        "sky",
+        "book",
+        "school"
       ]
     },
     {
@@ -653,9 +653,9 @@
       "answer": "sends",
       "distractors": [
         "sends",
-        "deletes",
-        "writes",
-        "shows"
+        "quickly",
+        "listen",
+        "friend"
       ]
     },
     {
@@ -667,9 +667,9 @@
       "answer": "takes",
       "distractors": [
         "takes",
-        "gives",
-        "sends",
-        "reads"
+        "loudly",
+        "help",
+        "eat"
       ]
     },
     {
@@ -681,9 +681,9 @@
       "answer": "big",
       "distractors": [
         "big",
-        "old",
-        "cold",
-        "sings"
+        "sees",
+        "listens",
+        "needs"
       ]
     },
     {
@@ -695,9 +695,9 @@
       "answer": "black",
       "distractors": [
         "black",
-        "fast",
-        "fat",
-        "reads"
+        "school",
+        "tree",
+        "music"
       ]
     },
     {
@@ -709,9 +709,9 @@
       "answer": "smart",
       "distractors": [
         "smart",
-        "young",
-        "thin",
-        "hears"
+        "well",
+        "sky",
+        "music"
       ]
     },
     {
@@ -723,9 +723,9 @@
       "answer": "awesome",
       "distractors": [
         "awesome",
-        "boring",
-        "long",
-        "helps"
+        "music",
+        "bird",
+        "flower"
       ]
     },
     {
@@ -737,9 +737,9 @@
       "answer": "cool",
       "distractors": [
         "cool",
-        "old",
-        "long",
-        "loves"
+        "bird",
+        "water",
+        "book"
       ]
     },
     {
@@ -751,9 +751,9 @@
       "answer": "interesting",
       "distractors": [
         "interesting",
-        "short",
-        "bad",
-        "builds"
+        "always",
+        "quietly",
+        "quickly"
       ]
     },
     {
@@ -765,9 +765,9 @@
       "answer": "run",
       "distractors": [
         "run",
-        "sleep",
-        "sit",
-        "tastes"
+        "wants",
+        "school",
+        "car"
       ]
     },
     {
@@ -779,9 +779,9 @@
       "answer": "eat",
       "distractors": [
         "eat",
-        "work",
-        "play",
-        "writes"
+        "small",
+        "sun",
+        "slow"
       ]
     },
     {
@@ -793,9 +793,9 @@
       "answer": "sings",
       "distractors": [
         "sings",
-        "buys",
-        "throws",
-        "wants"
+        "sometimes",
+        "cat",
+        "like"
       ]
     },
     {
@@ -807,9 +807,9 @@
       "answer": "dances",
       "distractors": [
         "dances",
-        "walks",
-        "sleeps",
-        "waits"
+        "dog",
+        "fast",
+        "cat"
       ]
     },
     {
@@ -821,9 +821,9 @@
       "answer": "cook",
       "distractors": [
         "cook",
-        "buy",
-        "throw",
-        "washes"
+        "small",
+        "slow",
+        "good"
       ]
     },
     {
@@ -835,9 +835,9 @@
       "answer": "drink",
       "distractors": [
         "drink",
-        "throw",
-        "cook",
-        "fixes"
+        "new",
+        "fast",
+        "old"
       ]
     },
     {
@@ -849,9 +849,9 @@
       "answer": "blue",
       "distractors": [
         "blue",
-        "red",
-        "yellow",
-        "swims"
+        "music",
+        "cat",
+        "sun"
       ]
     },
     {
@@ -863,9 +863,9 @@
       "answer": "green",
       "distractors": [
         "green",
-        "yellow",
-        "brown",
-        "dances"
+        "watchs",
+        "wants",
+        "needs"
       ]
     },
     {
@@ -877,9 +877,9 @@
       "answer": "red",
       "distractors": [
         "red",
-        "fast",
-        "new",
-        "washes"
+        "does",
+        "talks",
+        "sleeps"
       ]
     },
     {
@@ -891,9 +891,9 @@
       "answer": "yellow",
       "distractors": [
         "yellow",
-        "green",
-        "gray",
-        "hates"
+        "dog",
+        "cat",
+        "house"
       ]
     },
     {
@@ -905,9 +905,9 @@
       "answer": "white",
       "distractors": [
         "white",
-        "gray",
-        "blue",
-        "feels"
+        "goes",
+        "talks",
+        "needs"
       ]
     },
     {
@@ -919,9 +919,9 @@
       "answer": "dark",
       "distractors": [
         "dark",
-        "sunny",
-        "warm",
-        "wakes"
+        "new",
+        "cold",
+        "happy"
       ]
     },
     {
@@ -933,9 +933,9 @@
       "answer": "three",
       "distractors": [
         "three",
-        "seven",
-        "nine",
-        "fixes"
+        "loudly",
+        "badly",
+        "always"
       ]
     },
     {
@@ -947,9 +947,9 @@
       "answer": "leave",
       "distractors": [
         "leave",
-        "arrive",
-        "stay",
-        "waits"
+        "needs",
+        "eats",
+        "helps"
       ]
     },
     {
@@ -961,9 +961,9 @@
       "answer": "arrives",
       "distractors": [
         "arrives",
-        "stays",
-        "goes",
-        "loves"
+        "slowly",
+        "music",
+        "hot"
       ]
     },
     {
@@ -975,9 +975,9 @@
       "answer": "travel",
       "distractors": [
         "travel",
-        "sleep",
-        "sit",
-        "kicks"
+        "bird",
+        "dog",
+        "flower"
       ]
     },
     {
@@ -989,9 +989,9 @@
       "answer": "work",
       "distractors": [
         "work",
-        "sleep",
-        "eat",
-        "hates"
+        "smart",
+        "cat",
+        "dog"
       ]
     },
     {
@@ -1003,9 +1003,9 @@
       "answer": "always",
       "distractors": [
         "always",
-        "sometimes",
-        "rarely",
-        "builds"
+        "friend",
+        "house",
+        "never"
       ]
     }
   ],
